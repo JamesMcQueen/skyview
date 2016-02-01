@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Property Mappings</comment>
+    <entry key="config">AirportConfig</entry>
+    <entry key="repeat">true</entry>
+    <entry key="repeatDelay">60000</entry>
+    <entry key="timeout">2000</entry>
+    <entry key="airportCodes">SEA,PDX,SFO,SJC,LAS,LAX,SAN,PHX,DEN,DFW,IAH,MCI,MSP,ORD,STL,MEM,BNA,IND,MDW,DTW,CLE,CVG,CLT,RDU,DCA,BWI,EWR,BOS,LGA,JFK,ATL,TPA,MCO,FLL,MIA,GEG,HOU</entry>
+    <entry key="nwAirportCodes">ALW,ASE,BFI,BIL,BLI,BOI,BZN,COS,CPR,CYS,DEN,EGE,EUG,GEG,GJT,GTF,HLN,IDA,LMT,LWS,MFR,MSO,MWH,PDT,PDX,PIH,PSC,PUB,RDM,SEA,SLC,SLE,SUN,TWF,YKM</entry>
+
+</properties>
