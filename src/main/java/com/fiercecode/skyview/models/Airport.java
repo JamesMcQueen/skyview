@@ -7,7 +7,8 @@ import com.google.gson.Gson;
  */
 public class Airport
 {
-    private String name = "NO NAME";
+    private static final String NO_VALUE = "NO_NAME";
+    private String name = NO_VALUE;
     private String IATA;
     private String state;
     private String city;
@@ -66,6 +67,11 @@ public class Airport
     public Status getStatus()
     {
         return status;
+    }
+
+    public boolean isValid()
+    {
+        return this.getIATA() != null && this.name.matches(NO_VALUE);
     }
 
     @Override

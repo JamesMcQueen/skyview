@@ -3,18 +3,24 @@ package com.fiercecode.skyview.models;
 import org.joda.time.DateTime;
 import com.fiercecode.skyview.utils.Ensure;
 
+
 /**
  * Created by jdmq on 1/26/16.
  */
 public class Report
 {
     private Airport airport;
-    private DateTime timestamp;
+    private Long timestamp;
 
     public Report(final Airport airport)
     {
         this.airport = airport;
-        timestamp = new DateTime();
+        timestamp = new DateTime().getMillis();
+    }
+
+    public Airport getAirport()
+    {
+        return airport;
     }
 
     @Override

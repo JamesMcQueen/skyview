@@ -1,5 +1,6 @@
 package com.fiercecode.skyview.controllers;
 
+import com.fiercecode.skyview.models.Airport;
 import com.fiercecode.skyview.services.AirportService;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -35,9 +36,9 @@ public class AirportController
         return GSON.toJson(AirportService.getReports());
     }
 
-    @RequestMapping(value = "/weather", method = RequestMethod.GET)
-    public static String getAirportsWithWeather()
+    @RequestMapping(value = "/airports/weather/{condition}", method = RequestMethod.GET)
+    public static String getAirportsWeatherCondition(@PathVariable("condition") String condition)
     {
-        return GSON.toJson(AirportService.getWeatherReports());
+        return GSON.toJson(AirportService.getAirportsByWeather(condition));
     }
 }

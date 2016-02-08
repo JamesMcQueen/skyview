@@ -2,41 +2,50 @@ package com.fiercecode.skyview.services;
 
 import com.fiercecode.skyview.models.Airport;
 import com.fiercecode.skyview.models.Report;
-import com.fiercecode.skyview.models.Weather;
 import com.fiercecode.skyview.retrievers.AirportRetriever;
 
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
+import java.util.stream.Collectors;
 
 /**
  * Created by jdmq on 1/26/16.
  */
 public class AirportService
 {
+    public static List<Report> getReports()
+    {
+        return AirportRetriever.getAirportReports().values()
+                .parallelStream()
+                .filter(report -> report != null)
+                .collect(Collectors.toList());
+    }
+
+    public static Report getReport(String id)
+    {
+        return AirportRetriever.getAirportReport(id);
+    }
+
     public static List<Airport> getAirports()
     {
-        return AirportRetriever.getAirports();
+        return getReports()
+                .parallelStream()
+                .filter(report -> report.getAirport() != null)
+                .map(Report::getAirport)
+                .collect(Collectors.toList());
     }
 
     public static Airport getAirport(String id)
     {
-        return AirportRetriever.getAirport(id);
+        return getReport(id).getAirport();
     }
 
-    public static List<Report> getReports()
+    public static List<Airport> getAirportsByWeather(String condition)
     {
-        return AirportRetriever.getAirportReports();
-    }
-
-    public static Map getWeatherReports()
-    {
-        Map<String, Weather> weatherMap = new HashMap();
-
-        AirportRetriever.getAirports().stream()
+        return getAirports()
+                .parallelStream()
                 .filter(a -> a.getWeather() != null)
-                .forEach(a -> weatherMap.put(a.getIATA(), a.getWeather()));
-
-        return weatherMap;
+                .filter(a -> a.getWeather().getCondition() != null)
+                .filter(a -> a.getWeather().getCondition().toLowerCase().matches(condition.toLowerCase()))
+                .collect(Collectors.toList());
     }
 }
