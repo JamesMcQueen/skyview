@@ -33,6 +33,7 @@ public class Weather
         this.wind = wind;
         this.visibility = visibility;
     }
+
     public String getCondition()
     {
         return condition;

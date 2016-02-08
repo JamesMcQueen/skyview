@@ -1,6 +1,8 @@
 package com.fiercecode.skyview.retrievers;
 
 import com.fiercecode.skyview.models.Report;
+import com.fiercecode.skyview.models.Weather;
+import com.google.common.collect.Lists;
 import com.google.gson.Gson;
 
 import com.fiercecode.skyview.configs.AirportConfig;
@@ -11,7 +13,12 @@ import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 import java.nio.charset.Charset;
+import java.util.Collection;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**
@@ -20,23 +27,33 @@ import java.util.stream.Collectors;
 public class AirportRetriever
 {
     private static AirportConfig config = new AirportConfig();
+    private static Map<String, Report> airportReportMap;
 
-    public static List<Report> getAirportReports()
+    public static Map<String, Report> getAirportReports()
     {
-        return config.getAirportCodes().parallelStream()
-                .map(code -> new Report(getAirport(code)))
-                .collect(Collectors.toList());
+        initReportMap();
+        return airportReportMap;
     }
 
-    public static List<Airport> getAirports()
+    public static Report getAirportReport(String code)
     {
-       return config.getAirportCodes()
-               .parallelStream()
-               .map(code -> getAirport(code))
-               .collect(Collectors.toList());
+        initReportMap();
+        return airportReportMap.get(code);
     }
 
-    public static Airport getAirport(String code)
+    private static void initReportMap()
+    {
+        if(airportReportMap == null || airportReportMap.size() == 0)
+        {
+            airportReportMap = new ConcurrentHashMap<>();
+            config.getAirportCodes()
+                    .parallelStream()
+                    .map(code -> airportReportMap.put(code, new Report(getAirport(code))))
+                    .collect(Collectors.toList());
+        }
+    }
+
+    private static Airport getAirport(String code)
     {
         Airport airport = new Gson().fromJson(callURL(AirportRequest.buildRequest(code), config.getTimeout()), Airport.class);
 
@@ -48,7 +65,7 @@ public class AirportRetriever
         return airport;
     }
 
-    public static String callURL(String myURL, Integer timeout)
+    private static String callURL(String myURL, Integer timeout)
     {
         StringBuilder sb = new StringBuilder();
 
