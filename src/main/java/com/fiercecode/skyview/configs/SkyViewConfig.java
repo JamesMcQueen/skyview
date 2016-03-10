@@ -10,6 +10,12 @@ public class SkyViewConfig
 {
     private Properties properties = new Properties();
 
+
+    public SkyViewConfig()
+    {
+        // no arg constructor
+    }
+
     public SkyViewConfig(String configFileName)
     {
         try
@@ -22,13 +28,41 @@ public class SkyViewConfig
         }
     }
 
-    public SkyViewConfig()
-    {
-
-    }
-
     public String getValue(String key)
     {
         return properties.getProperty(key);
+    }
+
+    public Double[] getDoubleArray(String key)
+    {
+        String values = (String) properties.get(key);
+
+        if(values != null && values.contains(","))
+        {
+            String[] valueArr = values.split(",");
+
+            if(valueArr.length > 0)
+            {
+                return parseDoubles(valueArr);
+            }
+        }
+        return null;
+    }
+
+    private Double[] parseDoubles(final String[] valueArr)
+    {
+        Double latLong[] = new Double[valueArr.length];
+        for(int i = 0; i < valueArr.length; i++)
+        {
+            try
+            {
+                latLong[i] = Double.valueOf(valueArr[i]);
+            }
+            catch(NumberFormatException nfe)
+            {
+                latLong[i] = 0.0;
+            }
+        }
+        return latLong;
     }
 }
