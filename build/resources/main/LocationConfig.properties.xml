@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>Location Mappings</comment>
+    <entry key="config">LocationConfig</entry>
+    <entry key="SEA">47.449,-122.309306</entry>
+    <entry key="PDX">45.588722,-122.5975</entry>
+	<entry key="SFO">37.618972,-122.374889</entry>
+	<entry key="SJC">37.3626,-121.929022</entry>
+	<entry key="LAS">36.080056,-115.15225</entry>
+	<entry key="LAX">33.942536,-118.408075</entry>
+	<entry key="SAN">32.733556,-117.189667</entry>
+	<entry key="PHX">33.434278,-112.011583</entry>
+	<entry key="DEN">39.861656,-104.673178</entry>
+	<entry key="DFW">32.896828,-97.037997</entry>
+	<entry key="IAH">29.984433,-95.341442</entry>
+	<entry key="MCI">39.297606,-94.713905</entry>
+	<entry key="MSP">44.881956,-93.221767</entry>
+	<entry key="ORD">41.978603,-87.904842</entry>
+	<entry key="STL">38.748697,-90.370028</entry>
+	<entry key="MEM">35.042417,-89.976667</entry>
+	<entry key="BNA">36.124472,-86.678194</entry>
+	<entry key="IND">39.717331,-86.294383</entry>
+	<entry key="MDW">41.785972,-87.752417</entry>
+	<entry key="DTW">42.212444,-83.353389</entry>
+	<entry key="CLE">41.411689,-81.849794</entry>
+	<entry key="CVG">39.048836,-84.667822</entry>
+	<entry key="CLT">35.214,-80.943139</entry>
+	<entry key="RDU">35.877639,-78.787472</entry>
+	<entry key="DCA">38.852083,-77.037722</entry>
+	<entry key="BWI">39.175361,-76.668333</entry>
+	<entry key="EWR">40.6925,-74.168667</entry>
+	<entry key="BOS">42.364347,-71.005181</entry>
+	<entry key="LGA">40.777245,-73.872608</entry>
+	<entry key="JFK">40.639751,-73.778925</entry>
+	<entry key="ATL">33.636719,-84.428067</entry>
+	<entry key="TPA">27.975472,-82.53325</entry>
+	<entry key="MCO">28.429394,-81.308994</entry>
+	<entry key="FLL">26.072583,-80.15275</entry>
+	<entry key="MIA">25.79325,-80.290556</entry>
+	<entry key="GEG">47.619861,-117.533833</entry>
+	<entry key="HOU">29.645419,-95.278889</entry>
+	<entry key="GTF">47.482,-111.370689</entry>
+    <entry key="PUW">46.743861,-117.109583</entry>
+	<entry key="LWS">46.3745,-117.015389</entry>
+	<entry key="DAB">29.179917,-81.058056</entry>
+	<entry key="FSD">43.582014,-96.741914</entry>
+	<entry key="ABQ">35.0402222,-106.6091944</entry>
+</properties>
