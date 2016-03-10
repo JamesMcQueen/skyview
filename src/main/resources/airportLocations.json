@@ -1,0 +1,7928 @@
+[
+  {
+    "iata": "CDI",
+    "name": "Cambridge",
+    "latitude": 39.9750278,
+    "longitude": -81.5775833
+  },
+  {
+    "iata": "SUE",
+    "name": "Sturgeon Bay",
+    "latitude": 44.8436667,
+    "longitude": -87.4215556
+  },
+  {
+    "iata": "PDT",
+    "name": "Pendleton",
+    "latitude": 45.695,
+    "longitude": -118.841389
+  },
+  {
+    "iata": "TYE",
+    "name": "Tyonek",
+    "latitude": 61.076667,
+    "longitude": -151.138056
+  },
+  {
+    "iata": "RIW",
+    "name": "Riverton WY",
+    "latitude": 43.064167,
+    "longitude": -108.459722
+  },
+  {
+    "iata": "MTJ",
+    "name": "Montrose CO",
+    "latitude": 38.509794,
+    "longitude": -107.894242
+  },
+  {
+    "iata": "ENW",
+    "name": "Kenosha",
+    "latitude": 42.5956944,
+    "longitude": -87.9278056
+  },
+  {
+    "iata": "VGT",
+    "name": "Las Vegas",
+    "latitude": 36.2106944,
+    "longitude": -115.1944444
+  },
+  {
+    "iata": "DKB",
+    "name": "De Kalb",
+    "latitude": 41.9338342,
+    "longitude": -88.7056864
+  },
+  {
+    "iata": "LAF",
+    "name": "Lafayette",
+    "latitude": 40.4123056,
+    "longitude": -86.9368889
+  },
+  {
+    "iata": "OXD",
+    "name": "Oxford",
+    "latitude": 39.5022607,
+    "longitude": -84.7843814
+  },
+  {
+    "iata": "MIE",
+    "name": "Muncie",
+    "latitude": 40.2424722,
+    "longitude": -85.39575
+  },
+  {
+    "iata": "MQB",
+    "name": "Macomb",
+    "latitude": 40.5200833,
+    "longitude": -90.6523889
+  },
+  {
+    "iata": "AUW",
+    "name": "Wausau",
+    "latitude": 44.9262845,
+    "longitude": -89.6270018
+  },
+  {
+    "iata": "IWD",
+    "name": "Ironwood",
+    "latitude": 46.5274747,
+    "longitude": -90.1313967
+  },
+  {
+    "iata": "MCD",
+    "name": "Mackinac Island",
+    "latitude": 45.8649344,
+    "longitude": -84.637344
+  },
+  {
+    "iata": "GRM",
+    "name": "Grand Marais",
+    "latitude": 47.8383333,
+    "longitude": -90.3829444
+  },
+  {
+    "iata": "NPZ",
+    "name": "Valparaiso",
+    "latitude": 41.4539722,
+    "longitude": -87.0070833
+  },
+  {
+    "iata": "MXY",
+    "name": "McCarthy",
+    "latitude": 61.4370608,
+    "longitude": -142.90307372
+  },
+  {
+    "iata": "SWD",
+    "name": "Seward",
+    "latitude": 60.1269383,
+    "longitude": -149.4188122
+  },
+  {
+    "iata": "MGC",
+    "name": "Michigan City",
+    "latitude": 41.7033,
+    "longitude": -86.8211
+  },
+  {
+    "iata": "AET",
+    "name": "Allakaket",
+    "latitude": 66.5519,
+    "longitude": -152.6222
+  },
+  {
+    "iata": "YAK",
+    "name": "Yakutat",
+    "latitude": 59.3012,
+    "longitude": -139.3937
+  },
+  {
+    "iata": "MQT",
+    "name": "Marquette",
+    "latitude": 46.353611,
+    "longitude": -87.395278
+  },
+  {
+    "iata": "IMT",
+    "name": "Iron Mountain",
+    "latitude": 45.8183611,
+    "longitude": -88.1145556
+  },
+  {
+    "iata": "ESC",
+    "name": "Escanaba",
+    "latitude": 45.722778,
+    "longitude": -87.093611
+  },
+  {
+    "iata": "MWA",
+    "name": "Marion",
+    "latitude": 37.7549569,
+    "longitude": -89.0110936
+  },
+  {
+    "iata": "BTI",
+    "name": "Barter Island",
+    "latitude": 70.133989,
+    "longitude": -143.581867
+  },
+  {
+    "iata": "LUR",
+    "name": "Cape Lisburne",
+    "latitude": 68.875133,
+    "longitude": -166.110022
+  },
+  {
+    "iata": "PIZ",
+    "name": "Point Lay",
+    "latitude": 69.732875,
+    "longitude": -163.005342
+  },
+  {
+    "iata": "ITO",
+    "name": "Hilo",
+    "latitude": 19.721375,
+    "longitude": -155.048469
+  },
+  {
+    "iata": "ORL",
+    "name": "Orlando",
+    "latitude": 28.545464,
+    "longitude": -81.332936
+  },
+  {
+    "iata": "BTT",
+    "name": "Bettles",
+    "latitude": 66.913944,
+    "longitude": -151.529056
+  },
+  {
+    "iata": "UTO",
+    "name": "Indian Mountains",
+    "latitude": 65.992794,
+    "longitude": -153.704289
+  },
+  {
+    "iata": "FYU",
+    "name": "Fort Yukon",
+    "latitude": 66.571492,
+    "longitude": -145.250417
+  },
+  {
+    "iata": "SVW",
+    "name": "Sparrevohn",
+    "latitude": 61.097369,
+    "longitude": -155.574228
+  },
+  {
+    "iata": "FRN",
+    "name": "Fort Richardson",
+    "latitude": 61.266381,
+    "longitude": -149.653119
+  },
+  {
+    "iata": "TLJ",
+    "name": "Tatalina",
+    "latitude": 62.894369,
+    "longitude": -155.976525
+  },
+  {
+    "iata": "CZF",
+    "name": "Cape Romanzof",
+    "latitude": 61.780297,
+    "longitude": -166.038747
+  },
+  {
+    "iata": "BED",
+    "name": "Bedford",
+    "latitude": 42.469953,
+    "longitude": -71.289031
+  },
+  {
+    "iata": "SNP",
+    "name": "St. Paul Island",
+    "latitude": 57.167333,
+    "longitude": -170.220444
+  },
+  {
+    "iata": "EHM",
+    "name": "Cape Newenham",
+    "latitude": 58.646428,
+    "longitude": -162.062778
+  },
+  {
+    "iata": "PBV",
+    "name": "Point Barrow",
+    "latitude": 56.578344,
+    "longitude": -169.661611
+  },
+  {
+    "iata": "ILI",
+    "name": "Iliamna",
+    "latitude": 59.754356,
+    "longitude": -154.910961
+  },
+  {
+    "iata": "PTU",
+    "name": "Port Moller",
+    "latitude": 59.011356,
+    "longitude": -161.819664
+  },
+  {
+    "iata": "BMX",
+    "name": "Big Mountain",
+    "latitude": 59.361247,
+    "longitude": -155.258822
+  },
+  {
+    "iata": "OSC",
+    "name": "Oscoda",
+    "latitude": 44.451558,
+    "longitude": -83.394053
+  },
+  {
+    "iata": "OAR",
+    "name": "Fort Ord",
+    "latitude": 36.681878,
+    "longitude": -121.762347
+  },
+  {
+    "iata": "MHR",
+    "name": "Sacramento",
+    "latitude": 38.553897,
+    "longitude": -121.297592
+  },
+  {
+    "iata": "BYS",
+    "name": "Fort Irwin",
+    "latitude": 35.280531,
+    "longitude": -116.630031
+  },
+  {
+    "iata": "NXP",
+    "name": "Twenty Nine Palms",
+    "latitude": 34.296161,
+    "longitude": -116.162203
+  },
+  {
+    "iata": "FSM",
+    "name": "Fort Smith",
+    "latitude": 35.336583,
+    "longitude": -94.367444
+  },
+  {
+    "iata": "MRI",
+    "name": "Anchorage",
+    "latitude": 61.213544,
+    "longitude": -149.844447
+  },
+  {
+    "iata": "GNT",
+    "name": "Grants",
+    "latitude": 35.167286,
+    "longitude": -107.901989
+  },
+  {
+    "iata": "PNC",
+    "name": "Ponca City",
+    "latitude": 36.731958,
+    "longitude": -97.099781
+  },
+  {
+    "iata": "SVN",
+    "name": "Hunter Aaf",
+    "latitude": 32.01,
+    "longitude": -81.145683
+  },
+  {
+    "iata": "GFK",
+    "name": "Grand Forks",
+    "latitude": 47.949256,
+    "longitude": -97.176111
+  },
+  {
+    "iata": "PBF",
+    "name": "Pine Bluff",
+    "latitude": 34.173142,
+    "longitude": -91.935597
+  },
+  {
+    "iata": "NSE",
+    "name": "Milton",
+    "latitude": 30.724167,
+    "longitude": -87.021944
+  },
+  {
+    "iata": "HNM",
+    "name": "Hana",
+    "latitude": 20.795636,
+    "longitude": -156.014439
+  },
+  {
+    "iata": "PRC",
+    "name": "Prescott",
+    "latitude": 34.654472,
+    "longitude": -112.419583
+  },
+  {
+    "iata": "TTN",
+    "name": "Trenton",
+    "latitude": 40.276692,
+    "longitude": -74.813469
+  },
+  {
+    "iata": "BOS",
+    "name": "Boston",
+    "latitude": 42.364347,
+    "longitude": -71.005181
+  },
+  {
+    "iata": "SUU",
+    "name": "Fairfield",
+    "latitude": 38.262692,
+    "longitude": -121.927464
+  },
+  {
+    "iata": "RME",
+    "name": "Rome",
+    "latitude": 43.2338,
+    "longitude": -75.407033
+  },
+  {
+    "iata": "ENV",
+    "name": "Wendover",
+    "latitude": 40.718694,
+    "longitude": -114.030889
+  },
+  {
+    "iata": "BFM",
+    "name": "Mobile",
+    "latitude": 30.626783,
+    "longitude": -88.068092
+  },
+  {
+    "iata": "OAK",
+    "name": "Oakland",
+    "latitude": 37.721278,
+    "longitude": -122.220722
+  },
+  {
+    "iata": "OMA",
+    "name": "Omaha",
+    "latitude": 41.303167,
+    "longitude": -95.894069
+  },
+  {
+    "iata": "NOW",
+    "name": "Port Angeles",
+    "latitude": 48.141481,
+    "longitude": -123.414075
+  },
+  {
+    "iata": "OGG",
+    "name": "Kahului",
+    "latitude": 20.89865,
+    "longitude": -156.430458
+  },
+  {
+    "iata": "ICT",
+    "name": "Wichita",
+    "latitude": 37.649944,
+    "longitude": -97.433056
+  },
+  {
+    "iata": "MCI",
+    "name": "Kansas City",
+    "latitude": 39.297606,
+    "longitude": -94.713905
+  },
+  {
+    "iata": "MSN",
+    "name": "Madison",
+    "latitude": 43.139858,
+    "longitude": -89.337514
+  },
+  {
+    "iata": "DLG",
+    "name": "Dillingham",
+    "latitude": 59.044667,
+    "longitude": -158.5055
+  },
+  {
+    "iata": "HRO",
+    "name": "Harrison",
+    "latitude": 36.261519,
+    "longitude": -93.154728
+  },
+  {
+    "iata": "PHX",
+    "name": "Phoenix",
+    "latitude": 33.434278,
+    "longitude": -112.011583
+  },
+  {
+    "iata": "BGR",
+    "name": "Bangor",
+    "latitude": 44.807444,
+    "longitude": -68.828139
+  },
+  {
+    "iata": "FXE",
+    "name": "Fort Lauderdale",
+    "latitude": 26.197281,
+    "longitude": -80.170706
+  },
+  {
+    "iata": "GGG",
+    "name": "Longview",
+    "latitude": 32.384014,
+    "longitude": -94.711486
+  },
+  {
+    "iata": "AND",
+    "name": "Andersen",
+    "latitude": 34.494583,
+    "longitude": -82.709389
+  },
+  {
+    "iata": "GEG",
+    "name": "Spokane",
+    "latitude": 47.619861,
+    "longitude": -117.533833
+  },
+  {
+    "iata": "HWO",
+    "name": "Hollywood",
+    "latitude": 26.001222,
+    "longitude": -80.240722
+  },
+  {
+    "iata": "SFO",
+    "name": "San Francisco",
+    "latitude": 37.618972,
+    "longitude": -122.374889
+  },
+  {
+    "iata": "CTB",
+    "name": "Cutbank",
+    "latitude": 48.608353,
+    "longitude": -112.376144
+  },
+  {
+    "iata": "ARA",
+    "name": "Louisiana",
+    "latitude": 30.037758,
+    "longitude": -91.883896
+  },
+  {
+    "iata": "GNV",
+    "name": "Gainesville",
+    "latitude": 29.690056,
+    "longitude": -82.271778
+  },
+  {
+    "iata": "MEM",
+    "name": "Memphis",
+    "latitude": 35.042417,
+    "longitude": -89.976667
+  },
+  {
+    "iata": "DUG",
+    "name": "Douglas",
+    "latitude": 31.469028,
+    "longitude": -109.603667
+  },
+  {
+    "iata": "BIG",
+    "name": "Delta Junction",
+    "latitude": 63.994547,
+    "longitude": -145.721642
+  },
+  {
+    "iata": "CNW",
+    "name": "Waco",
+    "latitude": 31.637831,
+    "longitude": -97.074139
+  },
+  {
+    "iata": "ANN",
+    "name": "Annette Island",
+    "latitude": 55.042436,
+    "longitude": -131.572233
+  },
+  {
+    "iata": "CAR",
+    "name": "Caribou",
+    "latitude": 46.8715,
+    "longitude": -68.017917
+  },
+  {
+    "iata": "LRF",
+    "name": "Jacksonville",
+    "latitude": 34.916944,
+    "longitude": -92.149722
+  },
+  {
+    "iata": "HUA",
+    "name": "Redstone",
+    "latitude": 34.678653,
+    "longitude": -86.684781
+  },
+  {
+    "iata": "POB",
+    "name": "Fort Bragg",
+    "latitude": 35.170883,
+    "longitude": -79.014472
+  },
+  {
+    "iata": "DHT",
+    "name": "Dalhart",
+    "latitude": 36.022586,
+    "longitude": -102.547278
+  },
+  {
+    "iata": "DLF",
+    "name": "Del Rio",
+    "latitude": 29.359486,
+    "longitude": -100.777975
+  },
+  {
+    "iata": "LAX",
+    "name": "Los Angeles",
+    "latitude": 33.942536,
+    "longitude": -118.408075
+  },
+  {
+    "iata": "ANB",
+    "name": "Anniston",
+    "latitude": 33.588167,
+    "longitude": -85.858111
+  },
+  {
+    "iata": "CLE",
+    "name": "Cleveland",
+    "latitude": 41.411689,
+    "longitude": -81.849794
+  },
+  {
+    "iata": "DOV",
+    "name": "Dover",
+    "latitude": 39.129539,
+    "longitude": -75.465958
+  },
+  {
+    "iata": "CVG",
+    "name": "Cincinnati",
+    "latitude": 39.048836,
+    "longitude": -84.667822
+  },
+  {
+    "iata": "FME",
+    "name": "Fort Meade",
+    "latitude": 39.085386,
+    "longitude": -76.759414
+  },
+  {
+    "iata": "NID",
+    "name": "China",
+    "latitude": 35.685422,
+    "longitude": -117.692039
+  },
+  {
+    "iata": "HON",
+    "name": "Huron",
+    "latitude": 44.3852,
+    "longitude": -98.228542
+  },
+  {
+    "iata": "JNU",
+    "name": "Juneau",
+    "latitude": 58.354972,
+    "longitude": -134.576278
+  },
+  {
+    "iata": "LFT",
+    "name": "Lafayette",
+    "latitude": 30.205278,
+    "longitude": -91.987611
+  },
+  {
+    "iata": "EWR",
+    "name": "Newark",
+    "latitude": 40.6925,
+    "longitude": -74.168667
+  },
+  {
+    "iata": "BOI",
+    "name": "Boise",
+    "latitude": 43.564361,
+    "longitude": -116.222861
+  },
+  {
+    "iata": "INS",
+    "name": "Indian Springs",
+    "latitude": 36.587183,
+    "longitude": -115.673353
+  },
+  {
+    "iata": "GCK",
+    "name": "Garden City",
+    "latitude": 37.927528,
+    "longitude": -100.724417
+  },
+  {
+    "iata": "MOT",
+    "name": "Minot",
+    "latitude": 48.259378,
+    "longitude": -101.280333
+  },
+  {
+    "iata": "HHI",
+    "name": "Wahiawa",
+    "latitude": 21.4835,
+    "longitude": -158.039667
+  },
+  {
+    "iata": "MXF",
+    "name": "Montgomery",
+    "latitude": 32.382944,
+    "longitude": -86.365778
+  },
+  {
+    "iata": "RBM",
+    "name": "Robinson",
+    "latitude": 34.850089,
+    "longitude": -92.300153
+  },
+  {
+    "iata": "DAL",
+    "name": "Dallas",
+    "latitude": 32.847111,
+    "longitude": -96.851778
+  },
+  {
+    "iata": "FCS",
+    "name": "Fort Carson",
+    "latitude": 38.678394,
+    "longitude": -104.756581
+  },
+  {
+    "iata": "HLN",
+    "name": "Helena",
+    "latitude": 46.606806,
+    "longitude": -111.98275
+  },
+  {
+    "iata": "NKX",
+    "name": "Miramar",
+    "latitude": 32.867694,
+    "longitude": -117.14175
+  },
+  {
+    "iata": "LUF",
+    "name": "Phoenix",
+    "latitude": 33.535,
+    "longitude": -112.38306
+  },
+  {
+    "iata": "HRT",
+    "name": "Mary Esther",
+    "latitude": 30.427803,
+    "longitude": -86.689278
+  },
+  {
+    "iata": "HHR",
+    "name": "Hawthorne",
+    "latitude": 33.922839,
+    "longitude": -118.335186
+  },
+  {
+    "iata": "HUL",
+    "name": "Houlton",
+    "latitude": 46.123083,
+    "longitude": -67.792056
+  },
+  {
+    "iata": "END",
+    "name": "Enid",
+    "latitude": 36.339167,
+    "longitude": -97.9165
+  },
+  {
+    "iata": "NTD",
+    "name": "Point Mugu",
+    "latitude": 34.120285,
+    "longitude": -119.12094
+  },
+  {
+    "iata": "EDW",
+    "name": "Edwards Afb",
+    "latitude": 34.905417,
+    "longitude": -117.883739
+  },
+  {
+    "iata": "LCH",
+    "name": "Lake Charles",
+    "latitude": 30.126112,
+    "longitude": -93.223335
+  },
+  {
+    "iata": "KOA",
+    "name": "Kona",
+    "latitude": 19.738767,
+    "longitude": -156.045631
+  },
+  {
+    "iata": "MYR",
+    "name": "Myrtle Beach",
+    "latitude": 33.67975,
+    "longitude": -78.928333
+  },
+  {
+    "iata": "NLC",
+    "name": "Lemoore",
+    "latitude": 36.333012,
+    "longitude": -119.95208
+  },
+  {
+    "iata": "ACK",
+    "name": "Nantucket",
+    "latitude": 41.253053,
+    "longitude": -70.060181
+  },
+  {
+    "iata": "FAF",
+    "name": "Fort Eustis",
+    "latitude": 37.1325,
+    "longitude": -76.608841
+  },
+  {
+    "iata": "HOP",
+    "name": "Hopkinsville",
+    "latitude": 36.668567,
+    "longitude": -87.496183
+  },
+  {
+    "iata": "DCA",
+    "name": "Washington",
+    "latitude": 38.852083,
+    "longitude": -77.037722
+  },
+  {
+    "iata": "NHK",
+    "name": "Patuxent River",
+    "latitude": 38.285981,
+    "longitude": -76.411781
+  },
+  {
+    "iata": "PSX",
+    "name": "Palacios",
+    "latitude": 28.727508,
+    "longitude": -96.250958
+  },
+  {
+    "iata": "BYH",
+    "name": "Blytheville",
+    "latitude": 35.964347,
+    "longitude": -89.943956
+  },
+  {
+    "iata": "ACY",
+    "name": "Atlantic City",
+    "latitude": 39.457583,
+    "longitude": -74.577167
+  },
+  {
+    "iata": "TIK",
+    "name": "Oklahoma City",
+    "latitude": 35.414739,
+    "longitude": -97.386633
+  },
+  {
+    "iata": "ECG",
+    "name": "Elizabeth City",
+    "latitude": 36.260581,
+    "longitude": -76.174572
+  },
+  {
+    "iata": "PUB",
+    "name": "Pueblo",
+    "latitude": 38.289085,
+    "longitude": -104.496572
+  },
+  {
+    "iata": "PQI",
+    "name": "Presque Isle",
+    "latitude": 46.688958,
+    "longitude": -68.044797
+  },
+  {
+    "iata": "IKR",
+    "name": "Kirtland A.f.b.",
+    "latitude": 35.040222,
+    "longitude": -106.609194
+  },
+  {
+    "iata": "GRF",
+    "name": "Fort Lewis",
+    "latitude": 47.079217,
+    "longitude": -122.580783
+  },
+  {
+    "iata": "ADQ",
+    "name": "Kodiak",
+    "latitude": 57.749967,
+    "longitude": -152.493856
+  },
+  {
+    "iata": "UPP",
+    "name": "Opolu",
+    "latitude": 20.265256,
+    "longitude": -155.859989
+  },
+  {
+    "iata": "FLL",
+    "name": "Fort Lauderdale",
+    "latitude": 26.072583,
+    "longitude": -80.15275
+  },
+  {
+    "iata": "MKO",
+    "name": "Muskogee",
+    "latitude": 35.656489,
+    "longitude": -95.366656
+  },
+  {
+    "iata": "INL",
+    "name": "International Falls",
+    "latitude": 48.566186,
+    "longitude": -93.403067
+  },
+  {
+    "iata": "SLC",
+    "name": "Salt Lake City",
+    "latitude": 40.788389,
+    "longitude": -111.977772
+  },
+  {
+    "iata": "CDS",
+    "name": "Childress",
+    "latitude": 34.433781,
+    "longitude": -100.287992
+  },
+  {
+    "iata": "BIX",
+    "name": "Biloxi",
+    "latitude": 30.410425,
+    "longitude": -88.924433
+  },
+  {
+    "iata": "LSF",
+    "name": "Fort Benning",
+    "latitude": 32.337322,
+    "longitude": -84.991283
+  },
+  {
+    "iata": "NQI",
+    "name": "Kingsville",
+    "latitude": 27.507223,
+    "longitude": -97.809723
+  },
+  {
+    "iata": "FRI",
+    "name": "Fort Riley",
+    "latitude": 39.055275,
+    "longitude": -96.764453
+  },
+  {
+    "iata": "MDT",
+    "name": "Harrisburg",
+    "latitude": 40.193494,
+    "longitude": -76.763403
+  },
+  {
+    "iata": "LNK",
+    "name": "Lincoln",
+    "latitude": 40.850971,
+    "longitude": -96.75925
+  },
+  {
+    "iata": "LAN",
+    "name": "Lansing",
+    "latitude": 42.7787,
+    "longitude": -84.587357
+  },
+  {
+    "iata": "MUE",
+    "name": "Kamuela",
+    "latitude": 20.001328,
+    "longitude": -155.668108
+  },
+  {
+    "iata": "MSS",
+    "name": "Massena",
+    "latitude": 44.935833,
+    "longitude": -74.845547
+  },
+  {
+    "iata": "HKY",
+    "name": "Hickory",
+    "latitude": 35.741147,
+    "longitude": -81.38955
+  },
+  {
+    "iata": "SPG",
+    "name": "St. Petersburg",
+    "latitude": 27.765111,
+    "longitude": -82.626972
+  },
+  {
+    "iata": "FMY",
+    "name": "Fort Myers",
+    "latitude": 26.586611,
+    "longitude": -81.86325
+  },
+  {
+    "iata": "IAH",
+    "name": "Houston",
+    "latitude": 29.984433,
+    "longitude": -95.341442
+  },
+  {
+    "iata": "MLT",
+    "name": "Millinocket",
+    "latitude": 45.647836,
+    "longitude": -68.685561
+  },
+  {
+    "iata": "ADW",
+    "name": "Camp Springs",
+    "latitude": 38.810806,
+    "longitude": -76.867028
+  },
+  {
+    "iata": "INT",
+    "name": "Winston-salem",
+    "latitude": 36.133722,
+    "longitude": -80.222
+  },
+  {
+    "iata": "VCV",
+    "name": "Victorville",
+    "latitude": 34.597453,
+    "longitude": -117.382997
+  },
+  {
+    "iata": "CEW",
+    "name": "Crestview",
+    "latitude": 30.778833,
+    "longitude": -86.522111
+  },
+  {
+    "iata": "GTB",
+    "name": "Fort Drum",
+    "latitude": 44.055619,
+    "longitude": -75.719458
+  },
+  {
+    "iata": "PHN",
+    "name": "Port Huron",
+    "latitude": 42.910957,
+    "longitude": -82.528862
+  },
+  {
+    "iata": "BFL",
+    "name": "Bakersfield",
+    "latitude": 35.433598,
+    "longitude": -119.05677
+  },
+  {
+    "iata": "ELP",
+    "name": "El Paso",
+    "latitude": 31.80725,
+    "longitude": -106.377583
+  },
+  {
+    "iata": "HRL",
+    "name": "Harlingen",
+    "latitude": 26.2285,
+    "longitude": -97.654389
+  },
+  {
+    "iata": "CAE",
+    "name": "Columbia",
+    "latitude": 33.938833,
+    "longitude": -81.119528
+  },
+  {
+    "iata": "DMA",
+    "name": "Tucson",
+    "latitude": 32.166467,
+    "longitude": -110.883144
+  },
+  {
+    "iata": "NPA",
+    "name": "Pensacola",
+    "latitude": 30.352656,
+    "longitude": -87.318647
+  },
+  {
+    "iata": "PNS",
+    "name": "Pensacola",
+    "latitude": 30.473425,
+    "longitude": -87.186611
+  },
+  {
+    "iata": "RDR",
+    "name": "Red River",
+    "latitude": 47.961098,
+    "longitude": -97.401194
+  },
+  {
+    "iata": "HOU",
+    "name": "Houston",
+    "latitude": 29.645419,
+    "longitude": -95.278889
+  },
+  {
+    "iata": "BKF",
+    "name": "Buckley",
+    "latitude": 39.701668,
+    "longitude": -104.75166
+  },
+  {
+    "iata": "ORT",
+    "name": "Northway",
+    "latitude": 62.961334,
+    "longitude": -141.929136
+  },
+  {
+    "iata": "PAQ",
+    "name": "Palmer",
+    "latitude": 61.594914,
+    "longitude": -149.088711
+  },
+  {
+    "iata": "PIT",
+    "name": "Pittsburgh",
+    "latitude": 40.491467,
+    "longitude": -80.232872
+  },
+  {
+    "iata": "BRW",
+    "name": "Barrow",
+    "latitude": 71.285446,
+    "longitude": -156.766003
+  },
+  {
+    "iata": "EFD",
+    "name": "Houston",
+    "latitude": 29.607333,
+    "longitude": -95.15875
+  },
+  {
+    "iata": "NUW",
+    "name": "Whidbey Island",
+    "latitude": 48.351803,
+    "longitude": -122.655906
+  },
+  {
+    "iata": "ALI",
+    "name": "Alice",
+    "latitude": 27.740889,
+    "longitude": -98.026944
+  },
+  {
+    "iata": "VAD",
+    "name": "Valdosta",
+    "latitude": 30.967833,
+    "longitude": -83.193
+  },
+  {
+    "iata": "MIA",
+    "name": "Miami",
+    "latitude": 25.79325,
+    "longitude": -80.290556
+  },
+  {
+    "iata": "SEA",
+    "name": "Seattle",
+    "latitude": 47.449,
+    "longitude": -122.309306
+  },
+  {
+    "iata": "CHA",
+    "name": "Chattanooga",
+    "latitude": 35.035278,
+    "longitude": -85.203808
+  },
+  {
+    "iata": "BDR",
+    "name": "Stratford",
+    "latitude": 41.163472,
+    "longitude": -73.126167
+  },
+  {
+    "iata": "JAN",
+    "name": "Jackson",
+    "latitude": 32.311167,
+    "longitude": -90.075889
+  },
+  {
+    "iata": "GLS",
+    "name": "Galveston",
+    "latitude": 29.265322,
+    "longitude": -94.860406
+  },
+  {
+    "iata": "LGB",
+    "name": "Long Beach",
+    "latitude": 33.817722,
+    "longitude": -118.151611
+  },
+  {
+    "iata": "HDH",
+    "name": "Dillingham",
+    "latitude": 21.579475,
+    "longitude": -158.197281
+  },
+  {
+    "iata": "IPT",
+    "name": "Williamsport",
+    "latitude": 41.241836,
+    "longitude": -76.921094
+  },
+  {
+    "iata": "IND",
+    "name": "Indianapolis",
+    "latitude": 39.717331,
+    "longitude": -86.294383
+  },
+  {
+    "iata": "SZL",
+    "name": "Knobnoster",
+    "latitude": 38.730306,
+    "longitude": -93.547864
+  },
+  {
+    "iata": "AKC",
+    "name": "Akron",
+    "latitude": 41.0375,
+    "longitude": -81.466917
+  },
+  {
+    "iata": "GWO",
+    "name": "Greenwood",
+    "latitude": 33.494328,
+    "longitude": -90.084706
+  },
+  {
+    "iata": "HPN",
+    "name": "White Plains",
+    "latitude": 41.066959,
+    "longitude": -73.707575
+  },
+  {
+    "iata": "FOK",
+    "name": "West Hampton Beach",
+    "latitude": 40.843656,
+    "longitude": -72.631789
+  },
+  {
+    "iata": "JBR",
+    "name": "Jonesboro",
+    "latitude": 35.831708,
+    "longitude": -90.646417
+  },
+  {
+    "iata": "TNX",
+    "name": "Tonopah",
+    "latitude": 37.798836,
+    "longitude": -116.78075
+  },
+  {
+    "iata": "LNA",
+    "name": "West Palm Beach",
+    "latitude": 26.593,
+    "longitude": -80.085056
+  },
+  {
+    "iata": "NZY",
+    "name": "San Diego",
+    "latitude": 32.699219,
+    "longitude": -117.21531
+  },
+  {
+    "iata": "BIF",
+    "name": "El Paso",
+    "latitude": 31.849528,
+    "longitude": -106.380039
+  },
+  {
+    "iata": "YUM",
+    "name": "Yuma",
+    "latitude": 32.656578,
+    "longitude": -114.60598
+  },
+  {
+    "iata": "CNM",
+    "name": "Carlsbad",
+    "latitude": 32.337472,
+    "longitude": -104.263278
+  },
+  {
+    "iata": "DLH",
+    "name": "Duluth",
+    "latitude": 46.842091,
+    "longitude": -92.193649
+  },
+  {
+    "iata": "BET",
+    "name": "Bethel",
+    "latitude": 60.779778,
+    "longitude": -161.838
+  },
+  {
+    "iata": "LOU",
+    "name": "Louisville",
+    "latitude": 38.228,
+    "longitude": -85.663722
+  },
+  {
+    "iata": "FHU",
+    "name": "Fort Huachuca",
+    "latitude": 31.588472,
+    "longitude": -110.344389
+  },
+  {
+    "iata": "LIH",
+    "name": "Lihue",
+    "latitude": 21.975983,
+    "longitude": -159.338958
+  },
+  {
+    "iata": "HUF",
+    "name": "Terre Haute",
+    "latitude": 39.451464,
+    "longitude": -87.307561
+  },
+  {
+    "iata": "HVR",
+    "name": "Havre",
+    "latitude": 48.542983,
+    "longitude": -109.762342
+  },
+  {
+    "iata": "MWH",
+    "name": "Grant County Airport",
+    "latitude": 47.207708,
+    "longitude": -119.32019
+  },
+  {
+    "iata": "MPV",
+    "name": "Montpelier",
+    "latitude": 44.203503,
+    "longitude": -72.562328
+  },
+  {
+    "iata": "RIC",
+    "name": "Richmond",
+    "latitude": 37.505167,
+    "longitude": -77.319667
+  },
+  {
+    "iata": "SHV",
+    "name": "Shreveport",
+    "latitude": 32.446629,
+    "longitude": -93.8256
+  },
+  {
+    "iata": "CDV",
+    "name": "Cordova",
+    "latitude": 60.491778,
+    "longitude": -145.477556
+  },
+  {
+    "iata": "ORF",
+    "name": "Norfolk",
+    "latitude": 36.894611,
+    "longitude": -76.201222
+  },
+  {
+    "iata": "BPT",
+    "name": "Beaumont",
+    "latitude": 29.950833,
+    "longitude": -94.020694
+  },
+  {
+    "iata": "SAV",
+    "name": "Savannah",
+    "latitude": 32.127583,
+    "longitude": -81.202139
+  },
+  {
+    "iata": "HIF",
+    "name": "Ogden",
+    "latitude": 41.123939,
+    "longitude": -111.973039
+  },
+  {
+    "iata": "OME",
+    "name": "Nome",
+    "latitude": 64.512203,
+    "longitude": -165.445247
+  },
+  {
+    "iata": "SPB",
+    "name": "San Luis",
+    "latitude": 45.771028,
+    "longitude": -122.861833
+  },
+  {
+    "iata": "PIE",
+    "name": "St. Petersburg",
+    "latitude": 27.910167,
+    "longitude": -82.687389
+  },
+  {
+    "iata": "MNM",
+    "name": "Macon",
+    "latitude": 45.12665,
+    "longitude": -87.638443
+  },
+  {
+    "iata": "CXO",
+    "name": "Conroe",
+    "latitude": 30.351833,
+    "longitude": -95.414467
+  },
+  {
+    "iata": "SCC",
+    "name": "Deadhorse",
+    "latitude": 70.19475,
+    "longitude": -148.465167
+  },
+  {
+    "iata": "SAT",
+    "name": "San Antonio",
+    "latitude": 29.533694,
+    "longitude": -98.469778
+  },
+  {
+    "iata": "ROC",
+    "name": "Rochester",
+    "latitude": 43.118866,
+    "longitude": -77.672389
+  },
+  {
+    "iata": "COF",
+    "name": "Coco Beach",
+    "latitude": 28.234922,
+    "longitude": -80.610125
+  },
+  {
+    "iata": "TEB",
+    "name": "Teterboro",
+    "latitude": 40.850103,
+    "longitude": -74.060837
+  },
+  {
+    "iata": "RCA",
+    "name": "Rapid City",
+    "latitude": 44.145042,
+    "longitude": -103.103567
+  },
+  {
+    "iata": "RDU",
+    "name": "Raleigh-durham",
+    "latitude": 35.877639,
+    "longitude": -78.787472
+  },
+  {
+    "iata": "DAY",
+    "name": "Dayton",
+    "latitude": 39.902375,
+    "longitude": -84.219375
+  },
+  {
+    "iata": "ENA",
+    "name": "Kenai",
+    "latitude": 60.573111,
+    "longitude": -151.245
+  },
+  {
+    "iata": "MLC",
+    "name": "Mcalester",
+    "latitude": 34.882403,
+    "longitude": -95.783463
+  },
+  {
+    "iata": "IAG",
+    "name": "Niagara Falls",
+    "latitude": 43.107333,
+    "longitude": -78.946194
+  },
+  {
+    "iata": "CFD",
+    "name": "Bryan",
+    "latitude": 30.715694,
+    "longitude": -96.331361
+  },
+  {
+    "iata": "PHF",
+    "name": "Newport News",
+    "latitude": 37.131894,
+    "longitude": -76.492989
+  },
+  {
+    "iata": "ESF",
+    "name": "Alexandria",
+    "latitude": 31.394903,
+    "longitude": -92.295772
+  },
+  {
+    "iata": "LTS",
+    "name": "Altus",
+    "latitude": 34.667067,
+    "longitude": -99.266681
+  },
+  {
+    "iata": "TUS",
+    "name": "Tucson",
+    "latitude": 32.116083,
+    "longitude": -110.941028
+  },
+  {
+    "iata": "MIB",
+    "name": "Minot",
+    "latitude": 48.415572,
+    "longitude": -101.357661
+  },
+  {
+    "iata": "BAB",
+    "name": "Marysville",
+    "latitude": 39.136089,
+    "longitude": -121.436567
+  },
+  {
+    "iata": "IKK",
+    "name": "Kankakee",
+    "latitude": 41.071389,
+    "longitude": -87.846278
+  },
+  {
+    "iata": "GSB",
+    "name": "Goldsboro",
+    "latitude": 35.339383,
+    "longitude": -77.960589
+  },
+  {
+    "iata": "PVD",
+    "name": "Providence",
+    "latitude": 41.732581,
+    "longitude": -71.420383
+  },
+  {
+    "iata": "SBY",
+    "name": "Salisbury",
+    "latitude": 38.340525,
+    "longitude": -75.510289
+  },
+  {
+    "iata": "RIU",
+    "name": "Rancho Murieta",
+    "latitude": 38.486778,
+    "longitude": -121.102778
+  },
+  {
+    "iata": "BUR",
+    "name": "Burbank",
+    "latitude": 34.200667,
+    "longitude": -118.358667
+  },
+  {
+    "iata": "DTW",
+    "name": "Detroit",
+    "latitude": 42.212444,
+    "longitude": -83.353389
+  },
+  {
+    "iata": "TPA",
+    "name": "Tampa",
+    "latitude": 27.975472,
+    "longitude": -82.53325
+  },
+  {
+    "iata": "PMB",
+    "name": "Pembina",
+    "latitude": 48.942501,
+    "longitude": -97.240833
+  },
+  {
+    "iata": "POE",
+    "name": "Fort Polk",
+    "latitude": 31.044833,
+    "longitude": -93.191667
+  },
+  {
+    "iata": "EIL",
+    "name": "Fairbanks",
+    "latitude": 64.665667,
+    "longitude": -147.1015
+  },
+  {
+    "iata": "HIB",
+    "name": "Hibbing",
+    "latitude": 47.3866,
+    "longitude": -92.838994
+  },
+  {
+    "iata": "LFK",
+    "name": "Lufkin",
+    "latitude": 31.234014,
+    "longitude": -94.75
+  },
+  {
+    "iata": "MAF",
+    "name": "Midland",
+    "latitude": 31.942528,
+    "longitude": -102.201914
+  },
+  {
+    "iata": "GRB",
+    "name": "Green Bay",
+    "latitude": 44.485072,
+    "longitude": -88.129589
+  },
+  {
+    "iata": "ADM",
+    "name": "Ardmore",
+    "latitude": 34.300833,
+    "longitude": -97.008889
+  },
+  {
+    "iata": "WRI",
+    "name": "Wrightstown",
+    "latitude": 40.015556,
+    "longitude": -74.591667
+  },
+  {
+    "iata": "NKT",
+    "name": "Cherry Point",
+    "latitude": 34.900872,
+    "longitude": -76.880733
+  },
+  {
+    "iata": "SBO",
+    "name": "Santa Barbara",
+    "latitude": 32.609139,
+    "longitude": -82.369944
+  },
+  {
+    "iata": "AGS",
+    "name": "Bush Field",
+    "latitude": 33.369944,
+    "longitude": -81.9645
+  },
+  {
+    "iata": "ISN",
+    "name": "Williston",
+    "latitude": 48.177939,
+    "longitude": -103.642347
+  },
+  {
+    "iata": "LIT",
+    "name": "Little Rock",
+    "latitude": 34.729444,
+    "longitude": -92.224306
+  },
+  {
+    "iata": "SWF",
+    "name": "Newburgh",
+    "latitude": 41.504094,
+    "longitude": -74.104839
+  },
+  {
+    "iata": "BDE",
+    "name": "Baudette",
+    "latitude": 48.728444,
+    "longitude": -94.612222
+  },
+  {
+    "iata": "SAC",
+    "name": "Sacramento",
+    "latitude": 38.512524,
+    "longitude": -121.49347
+  },
+  {
+    "iata": "HOM",
+    "name": "Homer",
+    "latitude": 59.645556,
+    "longitude": -151.476583
+  },
+  {
+    "iata": "TBN",
+    "name": "Fort Leonardwood",
+    "latitude": 37.741631,
+    "longitude": -92.140736
+  },
+  {
+    "iata": "MGE",
+    "name": "Marietta",
+    "latitude": 33.915382,
+    "longitude": -84.516319
+  },
+  {
+    "iata": "SKA",
+    "name": "Spokane",
+    "latitude": 47.615058,
+    "longitude": -117.655772
+  },
+  {
+    "iata": "HTL",
+    "name": "Houghton Lake",
+    "latitude": 44.359806,
+    "longitude": -84.671112
+  },
+  {
+    "iata": "PAM",
+    "name": "Panama City",
+    "latitude": 30.069567,
+    "longitude": -85.575417
+  },
+  {
+    "iata": "DFW",
+    "name": "Dallas-Fort Worth",
+    "latitude": 32.896828,
+    "longitude": -97.037997
+  },
+  {
+    "iata": "MLB",
+    "name": "Melbourne",
+    "latitude": 28.102753,
+    "longitude": -80.645258
+  },
+  {
+    "iata": "TCM",
+    "name": "Tacoma",
+    "latitude": 47.137678,
+    "longitude": -122.476475
+  },
+  {
+    "iata": "AUS",
+    "name": "Austin",
+    "latitude": 30.194528,
+    "longitude": -97.669889
+  },
+  {
+    "iata": "LCK",
+    "name": "Columbus",
+    "latitude": 39.813786,
+    "longitude": -82.927822
+  },
+  {
+    "iata": "TYS",
+    "name": "Knoxville",
+    "latitude": 35.810972,
+    "longitude": -83.994028
+  },
+  {
+    "iata": "HLR",
+    "name": "Fort Hood",
+    "latitude": 31.138731,
+    "longitude": -97.714469
+  },
+  {
+    "iata": "STL",
+    "name": "St. Louis",
+    "latitude": 38.748697,
+    "longitude": -90.370028
+  },
+  {
+    "iata": "MIV",
+    "name": "Millville",
+    "latitude": 39.367806,
+    "longitude": -75.072222
+  },
+  {
+    "iata": "SPS",
+    "name": "Wichita Falls",
+    "latitude": 33.988797,
+    "longitude": -98.491894
+  },
+  {
+    "iata": "LUK",
+    "name": "Cincinnati",
+    "latitude": 39.103333,
+    "longitude": -84.418611
+  },
+  {
+    "iata": "ATL",
+    "name": "Atlanta",
+    "latitude": 33.636719,
+    "longitude": -84.428067
+  },
+  {
+    "iata": "MER",
+    "name": "Merced",
+    "latitude": 37.380481,
+    "longitude": -120.568189
+  },
+  {
+    "iata": "MCC",
+    "name": "Sacramento",
+    "latitude": 38.667639,
+    "longitude": -121.400611
+  },
+  {
+    "iata": "GRR",
+    "name": "Grand Rapids",
+    "latitude": 42.880833,
+    "longitude": -85.522806
+  },
+  {
+    "iata": "INK",
+    "name": "Wink",
+    "latitude": 31.779628,
+    "longitude": -103.201361
+  },
+  {
+    "iata": "FAT",
+    "name": "Fresno",
+    "latitude": 36.776194,
+    "longitude": -119.71814
+  },
+  {
+    "iata": "VRB",
+    "name": "Vero Beach",
+    "latitude": 27.655556,
+    "longitude": -80.417944
+  },
+  {
+    "iata": "IPL",
+    "name": "Imperial",
+    "latitude": 32.834219,
+    "longitude": -115.578744
+  },
+  {
+    "iata": "BNA",
+    "name": "Nashville",
+    "latitude": 36.124472,
+    "longitude": -86.678194
+  },
+  {
+    "iata": "LRD",
+    "name": "Laredo",
+    "latitude": 27.54375,
+    "longitude": -99.461556
+  },
+  {
+    "iata": "EDF",
+    "name": "Anchorage",
+    "latitude": 61.250986,
+    "longitude": -149.806503
+  },
+  {
+    "iata": "OTZ",
+    "name": "Kotzebue",
+    "latitude": 66.884678,
+    "longitude": -162.59855
+  },
+  {
+    "iata": "AOO",
+    "name": "Altoona",
+    "latitude": 40.296372,
+    "longitude": -78.320022
+  },
+  {
+    "iata": "DYS",
+    "name": "Abilene",
+    "latitude": 32.420756,
+    "longitude": -99.8546
+  },
+  {
+    "iata": "ELD",
+    "name": "El Dorado",
+    "latitude": 33.220972,
+    "longitude": -92.813278
+  },
+  {
+    "iata": "LGA",
+    "name": "New York",
+    "latitude": 40.777245,
+    "longitude": -73.872608
+  },
+  {
+    "iata": "TLH",
+    "name": "Tallahassee",
+    "latitude": 30.396528,
+    "longitude": -84.350333
+  },
+  {
+    "iata": "DPA",
+    "name": "West Chicago",
+    "latitude": 41.907778,
+    "longitude": -88.248611
+  },
+  {
+    "iata": "ACT",
+    "name": "Waco",
+    "latitude": 31.611289,
+    "longitude": -97.230519
+  },
+  {
+    "iata": "AUG",
+    "name": "Augusta",
+    "latitude": 44.320647,
+    "longitude": -69.797317
+  },
+  {
+    "iata": "INJ",
+    "name": "Hillsboro",
+    "latitude": 32.083486,
+    "longitude": -97.097228
+  },
+  {
+    "iata": "NIP",
+    "name": "Jacksonville",
+    "latitude": 30.235834,
+    "longitude": -81.680556
+  },
+  {
+    "iata": "MKL",
+    "name": "Jackson",
+    "latitude": 35.599889,
+    "longitude": -88.915611
+  },
+  {
+    "iata": "MKK",
+    "name": "Molokai",
+    "latitude": 21.152886,
+    "longitude": -157.096256
+  },
+  {
+    "iata": "FTK",
+    "name": "Fort Knox",
+    "latitude": 37.907058,
+    "longitude": -85.972106
+  },
+  {
+    "iata": "SJT",
+    "name": "San Angelo",
+    "latitude": 31.35775,
+    "longitude": -100.496306
+  },
+  {
+    "iata": "CXL",
+    "name": "Calexico",
+    "latitude": 32.669502,
+    "longitude": -115.51333
+  },
+  {
+    "iata": "CIC",
+    "name": "Chico",
+    "latitude": 39.795383,
+    "longitude": -121.858422
+  },
+  {
+    "iata": "BTV",
+    "name": "Burlington",
+    "latitude": 44.471861,
+    "longitude": -73.153278
+  },
+  {
+    "iata": "JAX",
+    "name": "Jacksonville",
+    "latitude": 30.494056,
+    "longitude": -81.687861
+  },
+  {
+    "iata": "DRO",
+    "name": "Durango",
+    "latitude": 37.151516,
+    "longitude": -107.75377
+  },
+  {
+    "iata": "IAD",
+    "name": "Washington",
+    "latitude": 38.944533,
+    "longitude": -77.455811
+  },
+  {
+    "iata": "CLL",
+    "name": "College Station",
+    "latitude": 30.588583,
+    "longitude": -96.363833
+  },
+  {
+    "iata": "SFF",
+    "name": "Spokane",
+    "latitude": 47.682819,
+    "longitude": -117.322558
+  },
+  {
+    "iata": "MKE",
+    "name": "Milwaukee",
+    "latitude": 42.947222,
+    "longitude": -87.896583
+  },
+  {
+    "iata": "ABI",
+    "name": "Abilene",
+    "latitude": 32.411319,
+    "longitude": -99.681897
+  },
+  {
+    "iata": "COU",
+    "name": "Columbia",
+    "latitude": 38.818094,
+    "longitude": -92.219631
+  },
+  {
+    "iata": "PDX",
+    "name": "Portland",
+    "latitude": 45.588722,
+    "longitude": -122.5975
+  },
+  {
+    "iata": "TNT",
+    "name": "Miami",
+    "latitude": 25.861806,
+    "longitude": -80.897
+  },
+  {
+    "iata": "PBI",
+    "name": "West Palm Beach",
+    "latitude": 26.683161,
+    "longitude": -80.095589
+  },
+  {
+    "iata": "FTW",
+    "name": "Fort Worth",
+    "latitude": 32.819778,
+    "longitude": -97.362444
+  },
+  {
+    "iata": "OGS",
+    "name": "Ogdensburg",
+    "latitude": 44.681854,
+    "longitude": -75.4655
+  },
+  {
+    "iata": "FMH",
+    "name": "Falmouth",
+    "latitude": 41.658439,
+    "longitude": -70.521417
+  },
+  {
+    "iata": "BFI",
+    "name": "Seattle",
+    "latitude": 47.53,
+    "longitude": -122.301947
+  },
+  {
+    "iata": "SKF",
+    "name": "San Antonio",
+    "latitude": 29.384228,
+    "longitude": -98.581108
+  },
+  {
+    "iata": "HNL",
+    "name": "Honolulu",
+    "latitude": 21.318681,
+    "longitude": -157.922428
+  },
+  {
+    "iata": "DSM",
+    "name": "Des Moines",
+    "latitude": 41.533972,
+    "longitude": -93.663083
+  },
+  {
+    "iata": "EWN",
+    "name": "New Bern",
+    "latitude": 35.072972,
+    "longitude": -77.042944
+  },
+  {
+    "iata": "SAN",
+    "name": "San Diego",
+    "latitude": 32.733556,
+    "longitude": -117.189667
+  },
+  {
+    "iata": "MLU",
+    "name": "Monroe",
+    "latitude": 32.510864,
+    "longitude": -92.037689
+  },
+  {
+    "iata": "SSC",
+    "name": "Sumter",
+    "latitude": 33.972719,
+    "longitude": -80.470564
+  },
+  {
+    "iata": "ONT",
+    "name": "Ontario",
+    "latitude": 34.056,
+    "longitude": -117.601194
+  },
+  {
+    "iata": "GVT",
+    "name": "Greenvile",
+    "latitude": 33.067839,
+    "longitude": -96.065333
+  },
+  {
+    "iata": "ROW",
+    "name": "Roswell",
+    "latitude": 33.301556,
+    "longitude": -104.530556
+  },
+  {
+    "iata": "DET",
+    "name": "Detroit",
+    "latitude": 42.409195,
+    "longitude": -83.009861
+  },
+  {
+    "iata": "BRO",
+    "name": "Brownsville",
+    "latitude": 25.906833,
+    "longitude": -97.425861
+  },
+  {
+    "iata": "DHN",
+    "name": "Dothan",
+    "latitude": 31.321339,
+    "longitude": -85.449628
+  },
+  {
+    "iata": "WWD",
+    "name": "Wildwood",
+    "latitude": 39.008507,
+    "longitude": -74.908275
+  },
+  {
+    "iata": "NFL",
+    "name": "Fallon",
+    "latitude": 39.416584,
+    "longitude": -118.70098
+  },
+  {
+    "iata": "MTC",
+    "name": "Mount Clemens",
+    "latitude": 42.608333,
+    "longitude": -82.8355
+  },
+  {
+    "iata": "FMN",
+    "name": "Farmington",
+    "latitude": 36.74125,
+    "longitude": -108.229944
+  },
+  {
+    "iata": "CRP",
+    "name": "Corpus Christi",
+    "latitude": 27.770361,
+    "longitude": -97.501222
+  },
+  {
+    "iata": "SYR",
+    "name": "Syracuse",
+    "latitude": 43.111187,
+    "longitude": -76.106311
+  },
+  {
+    "iata": "NQX",
+    "name": "Key West",
+    "latitude": 24.575834,
+    "longitude": -81.688889
+  },
+  {
+    "iata": "MDW",
+    "name": "Chicago",
+    "latitude": 41.785972,
+    "longitude": -87.752417
+  },
+  {
+    "iata": "SJC",
+    "name": "San Jose",
+    "latitude": 37.3626,
+    "longitude": -121.929022
+  },
+  {
+    "iata": "HOB",
+    "name": "Hobbs",
+    "latitude": 32.687528,
+    "longitude": -103.217028
+  },
+  {
+    "iata": "PNE",
+    "name": "Philadelphia",
+    "latitude": 40.081944,
+    "longitude": -75.010586
+  },
+  {
+    "iata": "DEN",
+    "name": "Denver",
+    "latitude": 39.861656,
+    "longitude": -104.673178
+  },
+  {
+    "iata": "PHL",
+    "name": "Philadelphia",
+    "latitude": 39.871944,
+    "longitude": -75.241139
+  },
+  {
+    "iata": "SUX",
+    "name": "Sioux City",
+    "latitude": 42.402603,
+    "longitude": -96.384367
+  },
+  {
+    "iata": "MCN",
+    "name": "Macon",
+    "latitude": 32.69285,
+    "longitude": -83.649211
+  },
+  {
+    "iata": "TCS",
+    "name": "Truth Or Consequences",
+    "latitude": 33.236944,
+    "longitude": -107.27175
+  },
+  {
+    "iata": "PMD",
+    "name": "Palmdale",
+    "latitude": 34.629391,
+    "longitude": -118.08456
+  },
+  {
+    "iata": "RND",
+    "name": "San Antonio",
+    "latitude": 29.529675,
+    "longitude": -98.2789
+  },
+  {
+    "iata": "NJK",
+    "name": "El Centro",
+    "latitude": 32.829222,
+    "longitude": -115.671667
+  },
+  {
+    "iata": "CMH",
+    "name": "Columbus",
+    "latitude": 39.997972,
+    "longitude": -82.891889
+  },
+  {
+    "iata": "FYV",
+    "name": "Fayetteville",
+    "latitude": 36.005094,
+    "longitude": -94.170059
+  },
+  {
+    "iata": "FSI",
+    "name": "Fort Sill",
+    "latitude": 34.649833,
+    "longitude": -98.402167
+  },
+  {
+    "iata": "PNM",
+    "name": "Princeton",
+    "latitude": 45.559868,
+    "longitude": -93.608217
+  },
+  {
+    "iata": "FFO",
+    "name": "Dayton",
+    "latitude": 39.826111,
+    "longitude": -84.048332
+  },
+  {
+    "iata": "GAL",
+    "name": "Galena",
+    "latitude": 64.736178,
+    "longitude": -156.937417
+  },
+  {
+    "iata": "MWL",
+    "name": "Mineral Wells",
+    "latitude": 32.781606,
+    "longitude": -98.060175
+  },
+  {
+    "iata": "IAB",
+    "name": "Wichita",
+    "latitude": 37.621853,
+    "longitude": -97.268192
+  },
+  {
+    "iata": "NBG",
+    "name": "New Orleans",
+    "latitude": 29.825333,
+    "longitude": -90.035
+  },
+  {
+    "iata": "BFT",
+    "name": "Beaufort",
+    "latitude": 32.477411,
+    "longitude": -80.723161
+  },
+  {
+    "iata": "TXK",
+    "name": "Texarkana",
+    "latitude": 33.453722,
+    "longitude": -93.991028
+  },
+  {
+    "iata": "PBG",
+    "name": "Plattsburgh",
+    "latitude": 44.650944,
+    "longitude": -73.468139
+  },
+  {
+    "iata": "APG",
+    "name": "Aberdeen",
+    "latitude": 39.466219,
+    "longitude": -76.168808
+  },
+  {
+    "iata": "TCC",
+    "name": "Tucumcari",
+    "latitude": 35.182777,
+    "longitude": -103.603186
+  },
+  {
+    "iata": "ANC",
+    "name": "Anchorage",
+    "latitude": 61.174361,
+    "longitude": -149.996361
+  },
+  {
+    "iata": "GRK",
+    "name": "Killeen",
+    "latitude": 31.06725,
+    "longitude": -97.828917
+  },
+  {
+    "iata": "ZUN",
+    "name": "Zuni Pueblo",
+    "latitude": 35.083228,
+    "longitude": -108.791778
+  },
+  {
+    "iata": "BLI",
+    "name": "Bellingham",
+    "latitude": 48.792694,
+    "longitude": -122.537528
+  },
+  {
+    "iata": "NQA",
+    "name": "Millington",
+    "latitude": 35.356667,
+    "longitude": -89.870278
+  },
+  {
+    "iata": "EKN",
+    "name": "Elkins",
+    "latitude": 38.889444,
+    "longitude": -79.857139
+  },
+  {
+    "iata": "HFD",
+    "name": "Hartford",
+    "latitude": 41.736722,
+    "longitude": -72.649444
+  },
+  {
+    "iata": "SFZ",
+    "name": "Smithfield",
+    "latitude": 41.920764,
+    "longitude": -71.491381
+  },
+  {
+    "iata": "MOB",
+    "name": "Mobile",
+    "latitude": 30.691231,
+    "longitude": -88.242814
+  },
+  {
+    "iata": "NUQ",
+    "name": "Mountain View",
+    "latitude": 37.416142,
+    "longitude": -122.049139
+  },
+  {
+    "iata": "SAF",
+    "name": "Santa Fe",
+    "latitude": 35.617108,
+    "longitude": -106.089422
+  },
+  {
+    "iata": "BKH",
+    "name": "Barking Sands",
+    "latitude": 22.022833,
+    "longitude": -159.785
+  },
+  {
+    "iata": "DRI",
+    "name": "Deridder",
+    "latitude": 30.831722,
+    "longitude": -93.339917
+  },
+  {
+    "iata": "BSF",
+    "name": "Bradshaw Field",
+    "latitude": 19.760056,
+    "longitude": -155.553717
+  },
+  {
+    "iata": "OLS",
+    "name": "Nogales",
+    "latitude": 31.417722,
+    "longitude": -110.84789
+  },
+  {
+    "iata": "MCF",
+    "name": "Tampa",
+    "latitude": 27.849339,
+    "longitude": -82.521214
+  },
+  {
+    "iata": "BLV",
+    "name": "Belleville",
+    "latitude": 38.545178,
+    "longitude": -89.835183
+  },
+  {
+    "iata": "OPF",
+    "name": "Miami",
+    "latitude": 25.907,
+    "longitude": -80.278389
+  },
+  {
+    "iata": "DRT",
+    "name": "Del Rio",
+    "latitude": 29.374208,
+    "longitude": -100.927158
+  },
+  {
+    "iata": "RSW",
+    "name": "Fort Myers",
+    "latitude": 26.536167,
+    "longitude": -81.755167
+  },
+  {
+    "iata": "AKN",
+    "name": "King Salmon",
+    "latitude": 58.676778,
+    "longitude": -156.649278
+  },
+  {
+    "iata": "MUI",
+    "name": "Muir",
+    "latitude": 40.434811,
+    "longitude": -76.569411
+  },
+  {
+    "iata": "JHM",
+    "name": "Lahania-kapalua",
+    "latitude": 20.962936,
+    "longitude": -156.673031
+  },
+  {
+    "iata": "JFK",
+    "name": "New York",
+    "latitude": 40.639751,
+    "longitude": -73.778925
+  },
+  {
+    "iata": "HST",
+    "name": "Homestead",
+    "latitude": 25.48855,
+    "longitude": -80.383567
+  },
+  {
+    "iata": "RAL",
+    "name": "Riverside",
+    "latitude": 33.951875,
+    "longitude": -117.445103
+  },
+  {
+    "iata": "FLV",
+    "name": "Fort Leavenworth",
+    "latitude": 39.368332,
+    "longitude": -94.914686
+  },
+  {
+    "iata": "WAL",
+    "name": "Wallops Island",
+    "latitude": 37.940194,
+    "longitude": -75.466389
+  },
+  {
+    "iata": "HMN",
+    "name": "Alamogordo",
+    "latitude": 32.852519,
+    "longitude": -106.106525
+  },
+  {
+    "iata": "NXX",
+    "name": "Willow Grove",
+    "latitude": 40.199833,
+    "longitude": -75.148167
+  },
+  {
+    "iata": "CYS",
+    "name": "Cheyenne",
+    "latitude": 41.155722,
+    "longitude": -104.811839
+  },
+  {
+    "iata": "SCK",
+    "name": "Stockton",
+    "latitude": 37.894167,
+    "longitude": -121.238306
+  },
+  {
+    "iata": "CHS",
+    "name": "Charleston",
+    "latitude": 32.898647,
+    "longitude": -80.040528
+  },
+  {
+    "iata": "RNO",
+    "name": "Reno",
+    "latitude": 39.499108,
+    "longitude": -119.768108
+  },
+  {
+    "iata": "KTN",
+    "name": "Ketchikan",
+    "latitude": 55.355556,
+    "longitude": -131.71375
+  },
+  {
+    "iata": "YIP",
+    "name": "Detroit",
+    "latitude": 42.237928,
+    "longitude": -83.530408
+  },
+  {
+    "iata": "VBG",
+    "name": "Lompoc",
+    "latitude": 34.737333,
+    "longitude": -120.584306
+  },
+  {
+    "iata": "BHM",
+    "name": "Birmingham",
+    "latitude": 33.562942,
+    "longitude": -86.75355
+  },
+  {
+    "iata": "NEL",
+    "name": "Lakehurst",
+    "latitude": 40.033333,
+    "longitude": -74.353333
+  },
+  {
+    "iata": "SYA",
+    "name": "Shemya",
+    "latitude": 52.712275,
+    "longitude": 174.11362
+  },
+  {
+    "iata": "LSV",
+    "name": "Las Vegas",
+    "latitude": 36.236197,
+    "longitude": -115.034253
+  },
+  {
+    "iata": "RIV",
+    "name": "Riverside",
+    "latitude": 33.880711,
+    "longitude": -117.259453
+  },
+  {
+    "iata": "MOD",
+    "name": "Modesto",
+    "latitude": 37.625817,
+    "longitude": -120.954422
+  },
+  {
+    "iata": "SMF",
+    "name": "Sacramento",
+    "latitude": 38.695417,
+    "longitude": -121.590778
+  },
+  {
+    "iata": "UGN",
+    "name": "Chicago",
+    "latitude": 42.422161,
+    "longitude": -87.867908
+  },
+  {
+    "iata": "COS",
+    "name": "Colorado Springs",
+    "latitude": 38.805805,
+    "longitude": -104.700778
+  },
+  {
+    "iata": "BUF",
+    "name": "Buffalo",
+    "latitude": 42.940525,
+    "longitude": -78.732167
+  },
+  {
+    "iata": "SKY",
+    "name": "Sandusky",
+    "latitude": 41.433361,
+    "longitude": -82.652333
+  },
+  {
+    "iata": "PAE",
+    "name": "Everett",
+    "latitude": 47.906342,
+    "longitude": -122.281564
+  },
+  {
+    "iata": "MUO",
+    "name": "Mountain Home",
+    "latitude": 43.043603,
+    "longitude": -115.872431
+  },
+  {
+    "iata": "CDC",
+    "name": "Cedar City",
+    "latitude": 37.700967,
+    "longitude": -113.098847
+  },
+  {
+    "iata": "BDL",
+    "name": "Windsor Locks",
+    "latitude": 41.938889,
+    "longitude": -72.683222
+  },
+  {
+    "iata": "MFE",
+    "name": "Mcallen",
+    "latitude": 26.175833,
+    "longitude": -98.238611
+  },
+  {
+    "iata": "NGU",
+    "name": "Norfolk",
+    "latitude": 36.937644,
+    "longitude": -76.289289
+  },
+  {
+    "iata": "CEF",
+    "name": "Chicopee Falls",
+    "latitude": 42.194014,
+    "longitude": -72.534783
+  },
+  {
+    "iata": "LBB",
+    "name": "Lubbock",
+    "latitude": 33.663639,
+    "longitude": -101.822778
+  },
+  {
+    "iata": "ORD",
+    "name": "Chicago",
+    "latitude": 41.978603,
+    "longitude": -87.904842
+  },
+  {
+    "iata": "BCT",
+    "name": "Boca Raton",
+    "latitude": 26.3785,
+    "longitude": -80.107694
+  },
+  {
+    "iata": "FAI",
+    "name": "Fairbanks",
+    "latitude": 64.815114,
+    "longitude": -147.856267
+  },
+  {
+    "iata": "NYG",
+    "name": "Quantico",
+    "latitude": 38.501683,
+    "longitude": -77.305333
+  },
+  {
+    "iata": "CVS",
+    "name": "Clovis",
+    "latitude": 34.382775,
+    "longitude": -103.322147
+  },
+  {
+    "iata": "NGF",
+    "name": "Kaneohe Bay",
+    "latitude": 21.450453,
+    "longitude": -157.768
+  },
+  {
+    "iata": "OFF",
+    "name": "Omaha",
+    "latitude": 41.118332,
+    "longitude": -95.912511
+  },
+  {
+    "iata": "GKN",
+    "name": "Gulkana",
+    "latitude": 62.154888,
+    "longitude": -145.456639
+  },
+  {
+    "iata": "ART",
+    "name": "Watertown",
+    "latitude": 43.991922,
+    "longitude": -76.021739
+  },
+  {
+    "iata": "PSP",
+    "name": "Palm Springs",
+    "latitude": 33.829667,
+    "longitude": -116.506694
+  },
+  {
+    "iata": "AMA",
+    "name": "Amarillo",
+    "latitude": 35.219369,
+    "longitude": -101.705931
+  },
+  {
+    "iata": "FOD",
+    "name": "Fort Dodge",
+    "latitude": 42.5512,
+    "longitude": -94.191842
+  },
+  {
+    "iata": "BAD",
+    "name": "Shreveport",
+    "latitude": 32.50182,
+    "longitude": -93.662674
+  },
+  {
+    "iata": "FOE",
+    "name": "Topeka",
+    "latitude": 38.950944,
+    "longitude": -95.663611
+  },
+  {
+    "iata": "COT",
+    "name": "Cotulla",
+    "latitude": 28.456694,
+    "longitude": -99.220294
+  },
+  {
+    "iata": "ILM",
+    "name": "Wilmington",
+    "latitude": 34.270615,
+    "longitude": -77.902569
+  },
+  {
+    "iata": "BTR",
+    "name": "Baton Rouge",
+    "latitude": 30.533167,
+    "longitude": -91.149639
+  },
+  {
+    "iata": "NMM",
+    "name": "Meridian",
+    "latitude": 32.552083,
+    "longitude": -88.555557
+  },
+  {
+    "iata": "TYR",
+    "name": "Tyler",
+    "latitude": 32.354139,
+    "longitude": -95.402386
+  },
+  {
+    "iata": "BWI",
+    "name": "Baltimore",
+    "latitude": 39.175361,
+    "longitude": -76.668333
+  },
+  {
+    "iata": "HBR",
+    "name": "Hobart",
+    "latitude": 34.991308,
+    "longitude": -99.051353
+  },
+  {
+    "iata": "LNY",
+    "name": "Lanai",
+    "latitude": 20.785611,
+    "longitude": -156.951419
+  },
+  {
+    "iata": "AEX",
+    "name": "Alexandria",
+    "latitude": 31.3274,
+    "longitude": -92.549833
+  },
+  {
+    "iata": "WSD",
+    "name": "White Sands",
+    "latitude": 32.341484,
+    "longitude": -106.40277
+  },
+  {
+    "iata": "CDB",
+    "name": "Cold Bay",
+    "latitude": 55.206061,
+    "longitude": -162.725436
+  },
+  {
+    "iata": "TUL",
+    "name": "Tulsa",
+    "latitude": 36.198389,
+    "longitude": -95.888111
+  },
+  {
+    "iata": "SIT",
+    "name": "Sitka",
+    "latitude": 57.047138,
+    "longitude": -135.361611
+  },
+  {
+    "iata": "ISP",
+    "name": "Islip",
+    "latitude": 40.79525,
+    "longitude": -73.100222
+  },
+  {
+    "iata": "MSP",
+    "name": "Minneapolis",
+    "latitude": 44.881956,
+    "longitude": -93.221767
+  },
+  {
+    "iata": "ILG",
+    "name": "Wilmington",
+    "latitude": 39.678722,
+    "longitude": -75.606528
+  },
+  {
+    "iata": "DUT",
+    "name": "Unalaska",
+    "latitude": 53.900139,
+    "longitude": -166.5435
+  },
+  {
+    "iata": "MSY",
+    "name": "New Orleans",
+    "latitude": 29.993389,
+    "longitude": -90.258028
+  },
+  {
+    "iata": "PWM",
+    "name": "Portland",
+    "latitude": 43.646161,
+    "longitude": -70.309281
+  },
+  {
+    "iata": "OKC",
+    "name": "Oklahoma City",
+    "latitude": 35.393089,
+    "longitude": -97.600733
+  },
+  {
+    "iata": "ALB",
+    "name": "Albany",
+    "latitude": 42.748267,
+    "longitude": -73.801692
+  },
+  {
+    "iata": "VDZ",
+    "name": "Valdez",
+    "latitude": 61.133949,
+    "longitude": -146.248342
+  },
+  {
+    "iata": "LFI",
+    "name": "Hampton",
+    "latitude": 37.082881,
+    "longitude": -76.360547
+  },
+  {
+    "iata": "SNA",
+    "name": "Santa Ana",
+    "latitude": 33.675667,
+    "longitude": -117.868222
+  },
+  {
+    "iata": "CBM",
+    "name": "Colombus",
+    "latitude": 33.643833,
+    "longitude": -88.443833
+  },
+  {
+    "iata": "TMB",
+    "name": "Kendall-tamiami",
+    "latitude": 25.647889,
+    "longitude": -80.432777
+  },
+  {
+    "iata": "NTU",
+    "name": "Oceana",
+    "latitude": 36.820703,
+    "longitude": -76.033542
+  },
+  {
+    "iata": "GUS",
+    "name": "Peru",
+    "latitude": 40.648094,
+    "longitude": -86.152119
+  },
+  {
+    "iata": "CPR",
+    "name": "Casper",
+    "latitude": 42.908,
+    "longitude": -106.464417
+  },
+  {
+    "iata": "VPS",
+    "name": "Valparaiso",
+    "latitude": 30.48325,
+    "longitude": -86.5254
+  },
+  {
+    "iata": "SEM",
+    "name": "Selma",
+    "latitude": 32.343947,
+    "longitude": -86.987803
+  },
+  {
+    "iata": "EYW",
+    "name": "Key West",
+    "latitude": 24.556111,
+    "longitude": -81.759556
+  },
+  {
+    "iata": "CLT",
+    "name": "Charlotte",
+    "latitude": 35.214,
+    "longitude": -80.943139
+  },
+  {
+    "iata": "LAS",
+    "name": "Las Vegas",
+    "latitude": 36.080056,
+    "longitude": -115.15225
+  },
+  {
+    "iata": "MCO",
+    "name": "Orlando",
+    "latitude": 28.429394,
+    "longitude": -81.308994
+  },
+  {
+    "iata": "FLO",
+    "name": "Florence",
+    "latitude": 34.185361,
+    "longitude": -79.723889
+  },
+  {
+    "iata": "GTF",
+    "name": "Great Falls",
+    "latitude": 47.482,
+    "longitude": -111.370689
+  },
+  {
+    "iata": "YNG",
+    "name": "Youngstown",
+    "latitude": 41.260736,
+    "longitude": -80.679097
+  },
+  {
+    "iata": "FBK",
+    "name": "Fort Wainwright",
+    "latitude": 64.8375,
+    "longitude": -147.614444
+  },
+  {
+    "iata": "MMV",
+    "name": "Mackminnville",
+    "latitude": 45.194444,
+    "longitude": -123.135944
+  },
+  {
+    "iata": "WRB",
+    "name": "Macon",
+    "latitude": 32.640144,
+    "longitude": -83.59185
+  },
+  {
+    "iata": "PUW",
+    "name": "Pullman",
+    "latitude": 46.743861,
+    "longitude": -117.109583
+  },
+  {
+    "iata": "LWS",
+    "name": "Lewiston",
+    "latitude": 46.3745,
+    "longitude": -117.015389
+  },
+  {
+    "iata": "ELM",
+    "name": "Elmira",
+    "latitude": 42.159889,
+    "longitude": -76.891611
+  },
+  {
+    "iata": "ITH",
+    "name": "Ithaca",
+    "latitude": 42.491028,
+    "longitude": -76.458444
+  },
+  {
+    "iata": "MRY",
+    "name": "Monterey",
+    "latitude": 36.587,
+    "longitude": -121.842944
+  },
+  {
+    "iata": "SBA",
+    "name": "Santa Barbara",
+    "latitude": 34.426211,
+    "longitude": -119.840372
+  },
+  {
+    "iata": "DAB",
+    "name": "Daytona Beach",
+    "latitude": 29.179917,
+    "longitude": -81.058056
+  },
+  {
+    "iata": "JRB",
+    "name": "New York",
+    "latitude": 40.701214,
+    "longitude": -74.009028
+  },
+  {
+    "iata": "TKA",
+    "name": "Talkeetna",
+    "latitude": 62.3205,
+    "longitude": -150.093694
+  },
+  {
+    "iata": "HVN",
+    "name": "New Haven",
+    "latitude": 41.26375,
+    "longitude": -72.886806
+  },
+  {
+    "iata": "AVL",
+    "name": "Asheville",
+    "latitude": 35.436194,
+    "longitude": -82.541806
+  },
+  {
+    "iata": "GSO",
+    "name": "Greensboro",
+    "latitude": 36.09775,
+    "longitude": -79.937306
+  },
+  {
+    "iata": "FSD",
+    "name": "Sioux Falls",
+    "latitude": 43.582014,
+    "longitude": -96.741914
+  },
+  {
+    "iata": "MHT",
+    "name": "Manchester NH",
+    "latitude": 42.932556,
+    "longitude": -71.435667
+  },
+  {
+    "iata": "APF",
+    "name": "Naples",
+    "latitude": 26.152619,
+    "longitude": -81.775294
+  },
+  {
+    "iata": "SDF",
+    "name": "Louisville",
+    "latitude": 38.1740858,
+    "longitude": -85.7364989
+  },
+  {
+    "iata": "CHO",
+    "name": "Charlottesville VA",
+    "latitude": 38.138639,
+    "longitude": -78.452861
+  },
+  {
+    "iata": "ROA",
+    "name": "Roanoke VA",
+    "latitude": 37.325472,
+    "longitude": -79.975417
+  },
+  {
+    "iata": "LEX",
+    "name": "Lexington KY",
+    "latitude": 38.0365,
+    "longitude": -84.605889
+  },
+  {
+    "iata": "EVV",
+    "name": "Evansville",
+    "latitude": 38.036997,
+    "longitude": -87.532364
+  },
+  {
+    "iata": "ABQ",
+    "name": "Albuquerque",
+    "latitude": 35.0402222,
+    "longitude": -106.6091944
+  },
+  {
+    "iata": "BZN",
+    "name": "Bozeman",
+    "latitude": 45.777643,
+    "longitude": -111.160151
+  },
+  {
+    "iata": "BIL",
+    "name": "Billings",
+    "latitude": 45.80921,
+    "longitude": -108.537654
+  },
+  {
+    "iata": "BTM",
+    "name": "Butte",
+    "latitude": 45.954806,
+    "longitude": -112.497472
+  },
+  {
+    "iata": "TVC",
+    "name": "Traverse City",
+    "latitude": 44.741445,
+    "longitude": -85.582235
+  },
+  {
+    "iata": "BHB",
+    "name": "Bar Harbor",
+    "latitude": 44.4497689,
+    "longitude": -68.3615653
+  },
+  {
+    "iata": "RKD",
+    "name": "Rockland",
+    "latitude": 44.0601111,
+    "longitude": -69.0992303
+  },
+  {
+    "iata": "JAC",
+    "name": "Jacksn Hole",
+    "latitude": 43.607333333,
+    "longitude": -110.73775
+  },
+  {
+    "iata": "RFD",
+    "name": "Rockford",
+    "latitude": 42.1953611,
+    "longitude": -89.0972222
+  },
+  {
+    "iata": "TSS",
+    "name": "New York",
+    "latitude": 40.7425,
+    "longitude": -73.971944
+  },
+  {
+    "iata": "GSP",
+    "name": "Greenville",
+    "latitude": 34.895556,
+    "longitude": -82.218889
+  },
+  {
+    "iata": "BMI",
+    "name": "Bloomington",
+    "latitude": 40.477111,
+    "longitude": -88.915917
+  },
+  {
+    "iata": "GPT",
+    "name": "Gulfport",
+    "latitude": 30.407278,
+    "longitude": -89.070111
+  },
+  {
+    "iata": "AZO",
+    "name": "Kalamazoo",
+    "latitude": 42.234875,
+    "longitude": -85.552058
+  },
+  {
+    "iata": "TOL",
+    "name": "Toledo",
+    "latitude": 41.586806,
+    "longitude": -83.807833
+  },
+  {
+    "iata": "FWA",
+    "name": "Fort Wayne",
+    "latitude": 40.978472,
+    "longitude": -85.195139
+  },
+  {
+    "iata": "DEC",
+    "name": "Decatur",
+    "latitude": 39.834564,
+    "longitude": -88.865689
+  },
+  {
+    "iata": "CID",
+    "name": "Cedar Rapids",
+    "latitude": 41.884694,
+    "longitude": -91.710806
+  },
+  {
+    "iata": "LSE",
+    "name": "La Crosse",
+    "latitude": 43.878986,
+    "longitude": -91.256711
+  },
+  {
+    "iata": "CWA",
+    "name": "Wassau",
+    "latitude": 44.772726,
+    "longitude": -89.646635
+  },
+  {
+    "iata": "PIA",
+    "name": "Peoria",
+    "latitude": 40.664203,
+    "longitude": -89.693258
+  },
+  {
+    "iata": "ATW",
+    "name": "Appleton",
+    "latitude": 44.257526,
+    "longitude": -88.507576
+  },
+  {
+    "iata": "RST",
+    "name": "Rochester",
+    "latitude": 43.908283,
+    "longitude": -92.500014
+  },
+  {
+    "iata": "CMI",
+    "name": "Champaign",
+    "latitude": 40.03925,
+    "longitude": -88.278056
+  },
+  {
+    "iata": "MHK",
+    "name": "Manhattan",
+    "latitude": 39.140972,
+    "longitude": -96.670833
+  },
+  {
+    "iata": "FKL",
+    "name": "Franklin",
+    "latitude": 41.377874,
+    "longitude": -79.860362
+  },
+  {
+    "iata": "GJT",
+    "name": "Grand Junction",
+    "latitude": 39.122413,
+    "longitude": -108.526735
+  },
+  {
+    "iata": "SGU",
+    "name": "Saint George",
+    "latitude": 37.090583,
+    "longitude": -113.593056
+  },
+  {
+    "iata": "DWH",
+    "name": "Houston",
+    "latitude": 30.063746,
+    "longitude": -95.554276
+  },
+  {
+    "iata": "SRQ",
+    "name": "Sarasota",
+    "latitude": 27.395444,
+    "longitude": -82.554389
+  },
+  {
+    "iata": "VNY",
+    "name": "Van Nuys",
+    "latitude": 34.209811,
+    "longitude": -118.489972
+  },
+  {
+    "iata": "MLI",
+    "name": "Moline",
+    "latitude": 41.448528,
+    "longitude": -90.507539
+  },
+  {
+    "iata": "PFN",
+    "name": "Panama City",
+    "latitude": 30.212083,
+    "longitude": -85.682806
+  },
+  {
+    "iata": "DWS",
+    "name": "Orlando",
+    "latitude": 28.398,
+    "longitude": -81.57
+  },
+  {
+    "iata": "BIS",
+    "name": "Bismarck",
+    "latitude": 46.775842,
+    "longitude": -100.757931
+  },
+  {
+    "iata": "TEX",
+    "name": "Telluride",
+    "latitude": 37.953759,
+    "longitude": -107.90848
+  },
+  {
+    "iata": "RAP",
+    "name": "Rapid City",
+    "latitude": 44.045278,
+    "longitude": -103.057222
+  },
+  {
+    "iata": "CLD",
+    "name": "Carlsbad",
+    "latitude": 33.0742,
+    "longitude": -117.1648
+  },
+  {
+    "iata": "FNT",
+    "name": "Flint",
+    "latitude": 42.965424,
+    "longitude": -83.743629
+  },
+  {
+    "iata": "RDD",
+    "name": "Redding",
+    "latitude": 40.509,
+    "longitude": -122.293389
+  },
+  {
+    "iata": "EUG",
+    "name": "Eugene",
+    "latitude": 44.124583,
+    "longitude": -123.211972
+  },
+  {
+    "iata": "IDA",
+    "name": "Idaho Falls",
+    "latitude": 43.514556,
+    "longitude": -112.07075
+  },
+  {
+    "iata": "MFR",
+    "name": "Medford",
+    "latitude": 42.374228,
+    "longitude": -122.8735
+  },
+  {
+    "iata": "RDM",
+    "name": "Redmond-Bend",
+    "latitude": 44.254066,
+    "longitude": -121.149964
+  },
+  {
+    "iata": "CAK",
+    "name": "Akron",
+    "latitude": 40.9160833,
+    "longitude": -81.4421944
+  },
+  {
+    "iata": "HSV",
+    "name": "Huntsville",
+    "latitude": 34.6371944,
+    "longitude": -86.7750556
+  },
+  {
+    "iata": "PKB",
+    "name": "PARKERSBURG",
+    "latitude": 39.3451039,
+    "longitude": -81.4392031
+  },
+  {
+    "iata": "MGM",
+    "name": "MONTGOMERY",
+    "latitude": 32.3006389,
+    "longitude": -86.3939722
+  },
+  {
+    "iata": "TRI",
+    "name": "BRISTOL",
+    "latitude": 36.4752222,
+    "longitude": -82.4074167
+  },
+  {
+    "iata": "PAH",
+    "name": "PADUCAH",
+    "latitude": 37.0602875,
+    "longitude": -88.7729583
+  },
+  {
+    "iata": "FCA",
+    "name": "Kalispell",
+    "latitude": 48.310472,
+    "longitude": -114.256
+  },
+  {
+    "iata": "PGA",
+    "name": "Page",
+    "latitude": 36.9261,
+    "longitude": -111.4483
+  },
+  {
+    "iata": "MBS",
+    "name": "Saginaw",
+    "latitude": 43.532913,
+    "longitude": -84.079647
+  },
+  {
+    "iata": "BGM",
+    "name": "Binghamton",
+    "latitude": 42.208689,
+    "longitude": -75.979839
+  },
+  {
+    "iata": "BLH",
+    "name": "Blythe",
+    "latitude": 33.619167,
+    "longitude": -114.716889
+  },
+  {
+    "iata": "PSG",
+    "name": "Petersburg",
+    "latitude": 56.801667,
+    "longitude": -132.945278
+  },
+  {
+    "iata": "SFB",
+    "name": "Sanford",
+    "latitude": 28.777639,
+    "longitude": -81.237489
+  },
+  {
+    "iata": "JST",
+    "name": "Johnstown",
+    "latitude": 40.316111,
+    "longitude": -78.833889
+  },
+  {
+    "iata": "MSO",
+    "name": "Missoula",
+    "latitude": 46.916306,
+    "longitude": -114.090556
+  },
+  {
+    "iata": "GCN",
+    "name": "Grand Canyon",
+    "latitude": 35.9523611,
+    "longitude": -112.1469722
+  },
+  {
+    "iata": "SGR",
+    "name": "Sugar Land",
+    "latitude": 29.62225,
+    "longitude": -95.6565278
+  },
+  {
+    "iata": "APA",
+    "name": "Denver",
+    "latitude": 39.570129,
+    "longitude": -104.849294
+  },
+  {
+    "iata": "CVN",
+    "name": "Clovis",
+    "latitude": 34.425139,
+    "longitude": -103.079278
+  },
+  {
+    "iata": "FST",
+    "name": "Fort Stockton",
+    "latitude": 30.915667,
+    "longitude": -102.916139
+  },
+  {
+    "iata": "LVS",
+    "name": "Las Vegas",
+    "latitude": 35.654222,
+    "longitude": -105.142389
+  },
+  {
+    "iata": "IWS",
+    "name": "Houston",
+    "latitude": 29.818194,
+    "longitude": -95.672611
+  },
+  {
+    "iata": "LHX",
+    "name": "La Junta",
+    "latitude": 38.049719,
+    "longitude": -103.509431
+  },
+  {
+    "iata": "LRU",
+    "name": "Las Cruces",
+    "latitude": 32.289417,
+    "longitude": -106.921972
+  },
+  {
+    "iata": "BKD",
+    "name": "Breckenridge",
+    "latitude": 32.719047,
+    "longitude": -98.891
+  },
+  {
+    "iata": "TPL",
+    "name": "Temple",
+    "latitude": 31.1525,
+    "longitude": -97.407778
+  },
+  {
+    "iata": "OZA",
+    "name": "Ozona",
+    "latitude": 30.735281,
+    "longitude": -101.202972
+  },
+  {
+    "iata": "WKL",
+    "name": "Waikoloa Village",
+    "latitude": 19.9136,
+    "longitude": -155.864
+  },
+  {
+    "iata": "EGE",
+    "name": "Vail",
+    "latitude": 39.642556,
+    "longitude": -106.917694
+  },
+  {
+    "iata": "CGF",
+    "name": "Richmond Heights",
+    "latitude": 41.565124,
+    "longitude": -81.4863555
+  },
+  {
+    "iata": "MFD",
+    "name": "Mansfield",
+    "latitude": 40.8214167,
+    "longitude": -82.5166389
+  },
+  {
+    "iata": "CSG",
+    "name": "Columbus",
+    "latitude": 32.5163333,
+    "longitude": -84.9388611
+  },
+  {
+    "iata": "LAW",
+    "name": "Lawton",
+    "latitude": 34.5677144,
+    "longitude": -98.4166367
+  },
+  {
+    "iata": "FNL",
+    "name": "Fort Collins",
+    "latitude": 40.451828,
+    "longitude": -105.011336
+  },
+  {
+    "iata": "FLG",
+    "name": "Flagstaff",
+    "latitude": 35.140318,
+    "longitude": -111.6692392
+  },
+  {
+    "iata": "TVL",
+    "name": "South Lake Tahoe",
+    "latitude": 38.893889,
+    "longitude": -119.995278
+  },
+  {
+    "iata": "TWF",
+    "name": "Twin Falls",
+    "latitude": 42.481803,
+    "longitude": -114.487733
+  },
+  {
+    "iata": "MVY",
+    "name": "Vineyard Haven MA",
+    "latitude": 41.391667,
+    "longitude": -70.615278
+  },
+  {
+    "iata": "UUU",
+    "name": "Newport RI",
+    "latitude": 41.533056,
+    "longitude": -71.282222
+  },
+  {
+    "iata": "VSF",
+    "name": "Springfield VT",
+    "latitude": 43.343333,
+    "longitude": -72.517222
+  },
+  {
+    "iata": "CON",
+    "name": "Concord NH",
+    "latitude": 43.20267,
+    "longitude": -71.50233
+  },
+  {
+    "iata": "SFM",
+    "name": "Sanford ME",
+    "latitude": 43.39383,
+    "longitude": -70.708
+  },
+  {
+    "iata": "GON",
+    "name": "Groton CT",
+    "latitude": 41.330056,
+    "longitude": -72.045139
+  },
+  {
+    "iata": "STC",
+    "name": "Saint Cloud",
+    "latitude": 45.546556,
+    "longitude": -94.059889
+  },
+  {
+    "iata": "GTR",
+    "name": "Columbus Mississippi",
+    "latitude": 33.450333,
+    "longitude": -88.591361
+  },
+  {
+    "iata": "HQM",
+    "name": "Hoquiam",
+    "latitude": 46.9711944,
+    "longitude": -123.9365556
+  },
+  {
+    "iata": "ERI",
+    "name": "Erie",
+    "latitude": 42.082022,
+    "longitude": -80.176217
+  },
+  {
+    "iata": "HYA",
+    "name": "Barnstable",
+    "latitude": 41.669336,
+    "longitude": -70.280356
+  },
+  {
+    "iata": "SDX",
+    "name": "Sedona",
+    "latitude": 34.848628,
+    "longitude": -111.788472
+  },
+  {
+    "iata": "MGW",
+    "name": "Morgantown",
+    "latitude": 39.642908,
+    "longitude": -79.916314
+  },
+  {
+    "iata": "CRW",
+    "name": "Charleston",
+    "latitude": 38.373147,
+    "longitude": -81.593189
+  },
+  {
+    "iata": "AVP",
+    "name": "Scranton",
+    "latitude": 41.338478,
+    "longitude": -75.723403
+  },
+  {
+    "iata": "BJI",
+    "name": "Bemidji",
+    "latitude": 47.510722,
+    "longitude": -94.934722
+  },
+  {
+    "iata": "FAR",
+    "name": "Fargo",
+    "latitude": 46.92065,
+    "longitude": -96.8157639
+  },
+  {
+    "iata": "MKC",
+    "name": "Kansas City",
+    "latitude": 39.1275,
+    "longitude": -94.598889
+  },
+  {
+    "iata": "AZA",
+    "name": "Mesa",
+    "latitude": 33.307833,
+    "longitude": -111.655
+  },
+  {
+    "iata": "GCC",
+    "name": "Gillette",
+    "latitude": 44.3489167,
+    "longitude": -105.5393611
+  },
+  {
+    "iata": "NZJ",
+    "name": "Santa Ana",
+    "latitude": 33.676132,
+    "longitude": -117.731164
+  },
+  {
+    "iata": "ECA",
+    "name": "East Tawas",
+    "latitude": 44.311,
+    "longitude": -83.422
+  },
+  {
+    "iata": "SCE",
+    "name": "State College Pennsylvania",
+    "latitude": 40.849278,
+    "longitude": -77.848694
+  },
+  {
+    "iata": "MEI",
+    "name": "Meridian",
+    "latitude": 32.332624,
+    "longitude": -88.751868
+  },
+  {
+    "iata": "SPI",
+    "name": "Springfield",
+    "latitude": 39.8441,
+    "longitude": -89.677889
+  },
+  {
+    "iata": "CEZ",
+    "name": "Cortez",
+    "latitude": 37.303,
+    "longitude": -108.628056
+  },
+  {
+    "iata": "HDN",
+    "name": "Hayden",
+    "latitude": 40.481181,
+    "longitude": -107.21766
+  },
+  {
+    "iata": "GUP",
+    "name": "Gallup",
+    "latitude": 35.511058,
+    "longitude": -108.789308
+  },
+  {
+    "iata": "LBL",
+    "name": "Liberal",
+    "latitude": 37.044222,
+    "longitude": -100.95986
+  },
+  {
+    "iata": "LAA",
+    "name": "Lamar",
+    "latitude": 38.069694,
+    "longitude": -102.6885
+  },
+  {
+    "iata": "GLD",
+    "name": "Goodland",
+    "latitude": 39.370621,
+    "longitude": -101.698992
+  },
+  {
+    "iata": "COD",
+    "name": "Cody",
+    "latitude": 44.520194,
+    "longitude": -109.023806
+  },
+  {
+    "iata": "SGF",
+    "name": "Springfield",
+    "latitude": 37.245667,
+    "longitude": -93.388639
+  },
+  {
+    "iata": "JLN",
+    "name": "Joplin",
+    "latitude": 37.151814,
+    "longitude": -94.498269
+  },
+  {
+    "iata": "ABE",
+    "name": "Allentown",
+    "latitude": 40.652083,
+    "longitude": -75.440806
+  },
+  {
+    "iata": "XNA",
+    "name": "Bentonville",
+    "latitude": 36.2818694,
+    "longitude": -94.3068111
+  },
+  {
+    "iata": "SBN",
+    "name": "South Bend",
+    "latitude": 41.708661,
+    "longitude": -86.31725
+  },
+  {
+    "iata": "ZWU",
+    "name": "Washington",
+    "latitude": 38.89746,
+    "longitude": -77.00643
+  },
+  {
+    "iata": "SMD",
+    "name": "Fort Wayne IN",
+    "latitude": 41.143353,
+    "longitude": -85.152778
+  },
+  {
+    "iata": "ACV",
+    "name": "Arcata CA",
+    "latitude": 40.978111,
+    "longitude": -124.108611
+  },
+  {
+    "iata": "ATT",
+    "name": "Austin TX",
+    "latitude": 30.31666,
+    "longitude": -97.7666
+  },
+  {
+    "iata": "OAJ",
+    "name": "Jacksonville NC",
+    "latitude": 34.829164,
+    "longitude": -77.612139
+  },
+  {
+    "iata": "TCL",
+    "name": "Tuscaloosa AL",
+    "latitude": 33.220627,
+    "longitude": -87.611403
+  },
+  {
+    "iata": "DBQ",
+    "name": "Dubuque IA",
+    "latitude": 42.402,
+    "longitude": -90.709472
+  },
+  {
+    "iata": "LUP",
+    "name": "Molokai",
+    "latitude": 21.211,
+    "longitude": -156.974
+  },
+  {
+    "iata": "WRG",
+    "name": "Wrangell",
+    "latitude": 56.4843,
+    "longitude": -132.37
+  },
+  {
+    "iata": "VAK",
+    "name": "Chevak",
+    "latitude": 61.5338,
+    "longitude": -165.584
+  },
+  {
+    "iata": "ANI",
+    "name": "Aniak",
+    "latitude": 61.5816,
+    "longitude": -159.543
+  },
+  {
+    "iata": "MOU",
+    "name": "Mountain Village",
+    "latitude": 62.0954,
+    "longitude": -163.682
+  },
+  {
+    "iata": "MCG",
+    "name": "Mcgrath",
+    "latitude": 62.9529,
+    "longitude": -155.606
+  },
+  {
+    "iata": "KLG",
+    "name": "Kalskag",
+    "latitude": 61.5363,
+    "longitude": -160.341
+  },
+  {
+    "iata": "HNS",
+    "name": "Haines",
+    "latitude": 59.2438,
+    "longitude": -135.524
+  },
+  {
+    "iata": "HCR",
+    "name": "Holy Cross",
+    "latitude": 62.1883,
+    "longitude": -159.775
+  },
+  {
+    "iata": "SGY",
+    "name": "Skagway",
+    "latitude": 59.4601,
+    "longitude": -135.316
+  },
+  {
+    "iata": "GST",
+    "name": "Gustavus",
+    "latitude": 58.4253,
+    "longitude": -135.707
+  },
+  {
+    "iata": "ADK",
+    "name": "Adak Island",
+    "latitude": 51.878,
+    "longitude": -176.646
+  },
+  {
+    "iata": "YKM",
+    "name": "Yakima",
+    "latitude": 46.5682,
+    "longitude": -120.544
+  },
+  {
+    "iata": "WRL",
+    "name": "Worland",
+    "latitude": 43.9657,
+    "longitude": -107.951
+  },
+  {
+    "iata": "VLD",
+    "name": "Valdosta",
+    "latitude": 30.7825,
+    "longitude": -83.2767
+  },
+  {
+    "iata": "VCT",
+    "name": "Victoria",
+    "latitude": 28.8526,
+    "longitude": -96.9185
+  },
+  {
+    "iata": "UIN",
+    "name": "Quincy",
+    "latitude": 39.9427,
+    "longitude": -91.1946
+  },
+  {
+    "iata": "TUP",
+    "name": "Tupelo",
+    "latitude": 34.2681,
+    "longitude": -88.7699
+  },
+  {
+    "iata": "SMX",
+    "name": "Santa Maria",
+    "latitude": 34.8989,
+    "longitude": -120.457
+  },
+  {
+    "iata": "SLN",
+    "name": "Salina",
+    "latitude": 38.791,
+    "longitude": -97.6522
+  },
+  {
+    "iata": "SLK",
+    "name": "Saranac Lake",
+    "latitude": 44.3853,
+    "longitude": -74.2062
+  },
+  {
+    "iata": "SHR",
+    "name": "Sheridan",
+    "latitude": 44.7692,
+    "longitude": -106.98
+  },
+  {
+    "iata": "SBP",
+    "name": "San Luis Obispo",
+    "latitude": 35.2368,
+    "longitude": -120.642
+  },
+  {
+    "iata": "RUT",
+    "name": "Rutland",
+    "latitude": 43.5294,
+    "longitude": -72.9496
+  },
+  {
+    "iata": "RKS",
+    "name": "Rock Springs",
+    "latitude": 41.5942,
+    "longitude": -109.065
+  },
+  {
+    "iata": "RHI",
+    "name": "Rhinelander",
+    "latitude": 45.6312,
+    "longitude": -89.4675
+  },
+  {
+    "iata": "RDG",
+    "name": "Reading",
+    "latitude": 40.3785,
+    "longitude": -75.9652
+  },
+  {
+    "iata": "PSM",
+    "name": "Portsmouth",
+    "latitude": 43.0779,
+    "longitude": -70.8233
+  },
+  {
+    "iata": "PLN",
+    "name": "Pellston",
+    "latitude": 45.5709,
+    "longitude": -84.7967
+  },
+  {
+    "iata": "PIR",
+    "name": "Pierre",
+    "latitude": 44.3827,
+    "longitude": -100.286
+  },
+  {
+    "iata": "PIH",
+    "name": "Pocatello",
+    "latitude": 42.9098,
+    "longitude": -112.596
+  },
+  {
+    "iata": "PIB",
+    "name": "Hattiesburg/Laurel",
+    "latitude": 31.4671,
+    "longitude": -89.3371
+  },
+  {
+    "iata": "OWB",
+    "name": "Owensboro",
+    "latitude": 37.7401,
+    "longitude": -87.1668
+  },
+  {
+    "iata": "OTH",
+    "name": "North Bend",
+    "latitude": 43.4171,
+    "longitude": -124.246
+  },
+  {
+    "iata": "MSL",
+    "name": "Muscle Shoals",
+    "latitude": 34.7453,
+    "longitude": -87.6102
+  },
+  {
+    "iata": "MLS",
+    "name": "Miles City",
+    "latitude": 46.428,
+    "longitude": -105.886
+  },
+  {
+    "iata": "MKG",
+    "name": "Muskegon",
+    "latitude": 43.1695,
+    "longitude": -86.2382
+  },
+  {
+    "iata": "LYH",
+    "name": "Lynchburg",
+    "latitude": 37.3267,
+    "longitude": -79.2004
+  },
+  {
+    "iata": "LWT",
+    "name": "Lewistown",
+    "latitude": 47.0493,
+    "longitude": -109.467
+  },
+  {
+    "iata": "LNS",
+    "name": "Lancaster",
+    "latitude": 40.1217,
+    "longitude": -76.2961
+  },
+  {
+    "iata": "LMT",
+    "name": "Klamath Falls",
+    "latitude": 42.1561,
+    "longitude": -121.733
+  },
+  {
+    "iata": "LEB",
+    "name": "Lebanon",
+    "latitude": 43.6261,
+    "longitude": -72.3042
+  },
+  {
+    "iata": "LBF",
+    "name": "North Platte",
+    "latitude": 41.1262,
+    "longitude": -100.684
+  },
+  {
+    "iata": "LBE",
+    "name": "Latrobe",
+    "latitude": 40.2759,
+    "longitude": -79.4048
+  },
+  {
+    "iata": "LAR",
+    "name": "Laramie",
+    "latitude": 41.3121,
+    "longitude": -105.675
+  },
+  {
+    "iata": "JMS",
+    "name": "Jamestown",
+    "latitude": 46.9297,
+    "longitude": -98.6782
+  },
+  {
+    "iata": "IRK",
+    "name": "Kirksville",
+    "latitude": 40.0935,
+    "longitude": -92.5449
+  },
+  {
+    "iata": "HTS",
+    "name": "Huntington",
+    "latitude": 38.3667,
+    "longitude": -82.558
+  },
+  {
+    "iata": "HOT",
+    "name": "Hot Springs",
+    "latitude": 34.478,
+    "longitude": -93.0962
+  },
+  {
+    "iata": "GRI",
+    "name": "Grand Island",
+    "latitude": 40.9675,
+    "longitude": -98.3096
+  },
+  {
+    "iata": "GGW",
+    "name": "Glasgow",
+    "latitude": 48.2125,
+    "longitude": -106.615
+  },
+  {
+    "iata": "FAY",
+    "name": "Fayetteville",
+    "latitude": 34.9912,
+    "longitude": -78.8803
+  },
+  {
+    "iata": "EWB",
+    "name": "New Bedford",
+    "latitude": 41.6761,
+    "longitude": -70.9569
+  },
+  {
+    "iata": "EKO",
+    "name": "Elko",
+    "latitude": 40.8249,
+    "longitude": -115.792
+  },
+  {
+    "iata": "EAU",
+    "name": "Eau Claire",
+    "latitude": 44.8658,
+    "longitude": -91.4843
+  },
+  {
+    "iata": "DUJ",
+    "name": "Du Bois",
+    "latitude": 41.1783,
+    "longitude": -78.8987
+  },
+  {
+    "iata": "DDC",
+    "name": "Dodge City",
+    "latitude": 37.7634,
+    "longitude": -99.9656
+  },
+  {
+    "iata": "CMX",
+    "name": "Hancock",
+    "latitude": 47.1684,
+    "longitude": -88.4891
+  },
+  {
+    "iata": "CLM",
+    "name": "Port Angeles",
+    "latitude": 48.1202,
+    "longitude": -123.5
+  },
+  {
+    "iata": "CKB",
+    "name": "Clarksburg",
+    "latitude": 39.2966,
+    "longitude": -80.2281
+  },
+  {
+    "iata": "CIU",
+    "name": "Sault Ste Marie",
+    "latitude": 46.2508,
+    "longitude": -84.4724
+  },
+  {
+    "iata": "CGI",
+    "name": "Cape Girardeau",
+    "latitude": 37.2253,
+    "longitude": -89.5708
+  },
+  {
+    "iata": "CEC",
+    "name": "Crescent City",
+    "latitude": 41.7802,
+    "longitude": -124.237
+  },
+  {
+    "iata": "BRL",
+    "name": "Burlington",
+    "latitude": 40.7832,
+    "longitude": -91.1255
+  },
+  {
+    "iata": "BQK",
+    "name": "Brunswick",
+    "latitude": 31.2588,
+    "longitude": -81.4665
+  },
+  {
+    "iata": "BKW",
+    "name": "Beckley",
+    "latitude": 37.7873,
+    "longitude": -81.1242
+  },
+  {
+    "iata": "BFF",
+    "name": "Scottsbluff",
+    "latitude": 41.874,
+    "longitude": -103.596
+  },
+  {
+    "iata": "BFD",
+    "name": "Bradford",
+    "latitude": 41.8031,
+    "longitude": -78.6401
+  },
+  {
+    "iata": "ATY",
+    "name": "Watertown",
+    "latitude": 44.914,
+    "longitude": -97.1547
+  },
+  {
+    "iata": "APN",
+    "name": "Alpena",
+    "latitude": 45.0781,
+    "longitude": -83.5603
+  },
+  {
+    "iata": "ALW",
+    "name": "Walla Walla",
+    "latitude": 46.0949,
+    "longitude": -118.288
+  },
+  {
+    "iata": "ALO",
+    "name": "Waterloo",
+    "latitude": 42.5571,
+    "longitude": -92.4003
+  },
+  {
+    "iata": "ALM",
+    "name": "Alamogordo",
+    "latitude": 32.8399,
+    "longitude": -105.991
+  },
+  {
+    "iata": "AHN",
+    "name": "Athens",
+    "latitude": 33.9486,
+    "longitude": -83.3263
+  },
+  {
+    "iata": "ABY",
+    "name": "Albany",
+    "latitude": 31.5355,
+    "longitude": -84.1945
+  },
+  {
+    "iata": "ABR",
+    "name": "Aberdeen",
+    "latitude": 45.4491,
+    "longitude": -98.4218
+  },
+  {
+    "iata": "WKK",
+    "name": "Aleknagik",
+    "latitude": 59.2826,
+    "longitude": -158.618
+  },
+  {
+    "iata": "LPS",
+    "name": "Lopez",
+    "latitude": 48.4839,
+    "longitude": -122.938
+  },
+  {
+    "iata": "ORH",
+    "name": "Worcester",
+    "latitude": 42.2673,
+    "longitude": -71.8757
+  },
+  {
+    "iata": "ZVE",
+    "name": "New Haven",
+    "latitude": 41.298669,
+    "longitude": -72.925992
+  },
+  {
+    "iata": "PWT",
+    "name": "Bremerton",
+    "latitude": 47.490244,
+    "longitude": -122.764814
+  },
+  {
+    "iata": "SPW",
+    "name": "Spencer",
+    "latitude": 43.165527,
+    "longitude": -95.202805
+  },
+  {
+    "iata": "JEF",
+    "name": "Jefferson City",
+    "latitude": 38.5912,
+    "longitude": -92.1561
+  },
+  {
+    "iata": "GCW",
+    "name": "Grand Canyon West",
+    "latitude": 35.5925,
+    "longitude": -113.4859
+  },
+  {
+    "iata": "BLD",
+    "name": "Boulder City",
+    "latitude": 35.5651,
+    "longitude": -114.514
+  },
+  {
+    "iata": "PVC",
+    "name": "Provincetown",
+    "latitude": 42.071945,
+    "longitude": -70.22139
+  },
+  {
+    "iata": "LKE",
+    "name": "Seattle",
+    "latitude": 47.629,
+    "longitude": -122.339
+  },
+  {
+    "iata": "FUL",
+    "name": "Fullerton",
+    "latitude": 33.521925,
+    "longitude": -117.584722
+  },
+  {
+    "iata": "SUN",
+    "name": "Hailey",
+    "latitude": 43.504444,
+    "longitude": -114.296194
+  },
+  {
+    "iata": "MCW",
+    "name": "Mason City",
+    "latitude": 43.2247,
+    "longitude": -93.4067
+  },
+  {
+    "iata": "EAT",
+    "name": "Wenatchee",
+    "latitude": 47.398,
+    "longitude": -120.206
+  },
+  {
+    "iata": "OSH",
+    "name": "Oshkosh",
+    "latitude": 44.024983,
+    "longitude": -88.551336
+  },
+  {
+    "iata": "BEH",
+    "name": "Benton Harbor",
+    "latitude": 42.1285833,
+    "longitude": -86.4285
+  },
+  {
+    "iata": "UES",
+    "name": "Waukesha",
+    "latitude": 43.0410278,
+    "longitude": -88.2370556
+  },
+  {
+    "iata": "TOG",
+    "name": "Togiak Village",
+    "latitude": 59.0528,
+    "longitude": -160.397
+  },
+  {
+    "iata": "PTH",
+    "name": "Port Heiden",
+    "latitude": 56.9591,
+    "longitude": -158.633
+  },
+  {
+    "iata": "KVC",
+    "name": "King Cove",
+    "latitude": 55.1163,
+    "longitude": -162.266
+  },
+  {
+    "iata": "KNW",
+    "name": "New Stuyahok",
+    "latitude": 59.4499,
+    "longitude": -157.328
+  },
+  {
+    "iata": "IGG",
+    "name": "Igiugig",
+    "latitude": 59.324,
+    "longitude": -155.902
+  },
+  {
+    "iata": "DRG",
+    "name": "Deering",
+    "latitude": 66.0696,
+    "longitude": -162.766
+  },
+  {
+    "iata": "SDP",
+    "name": "Sand Point",
+    "latitude": 55.315,
+    "longitude": -160.523
+  },
+  {
+    "iata": "HGR",
+    "name": "Hagerstown",
+    "latitude": 39.7079,
+    "longitude": -77.7295
+  },
+  {
+    "iata": "KPC",
+    "name": "Port Clarence",
+    "latitude": 65.2537,
+    "longitude": -166.859
+  },
+  {
+    "iata": "ARC",
+    "name": "Arctic Village",
+    "latitude": 68.1147,
+    "longitude": -145.579
+  },
+  {
+    "iata": "WTK",
+    "name": "Noatak",
+    "latitude": 67.5661,
+    "longitude": -162.975
+  },
+  {
+    "iata": "SVA",
+    "name": "Savoonga",
+    "latitude": 63.6864,
+    "longitude": -170.493
+  },
+  {
+    "iata": "SHH",
+    "name": "Shishmaref",
+    "latitude": 66.2496,
+    "longitude": -166.089
+  },
+  {
+    "iata": "RBY",
+    "name": "Ruby",
+    "latitude": 64.7272,
+    "longitude": -155.47
+  },
+  {
+    "iata": "PHO",
+    "name": "Point Hope",
+    "latitude": 68.3488,
+    "longitude": -166.799
+  },
+  {
+    "iata": "MYU",
+    "name": "Mekoryuk",
+    "latitude": 60.3714,
+    "longitude": -166.271
+  },
+  {
+    "iata": "KVL",
+    "name": "Kivalina",
+    "latitude": 67.7362,
+    "longitude": -164.563
+  },
+  {
+    "iata": "KSM",
+    "name": "St Mary's",
+    "latitude": 62.0605,
+    "longitude": -163.302
+  },
+  {
+    "iata": "KAL",
+    "name": "Kaltag",
+    "latitude": 64.3191,
+    "longitude": -158.741
+  },
+  {
+    "iata": "HPB",
+    "name": "Hooper Bay",
+    "latitude": 61.5239,
+    "longitude": -166.147
+  },
+  {
+    "iata": "GAM",
+    "name": "Gambell",
+    "latitude": 63.7668,
+    "longitude": -171.733
+  },
+  {
+    "iata": "ATK",
+    "name": "Atqasuk",
+    "latitude": 70.4673,
+    "longitude": -157.436
+  },
+  {
+    "iata": "ANV",
+    "name": "Anvik",
+    "latitude": 62.6467,
+    "longitude": -160.191
+  },
+  {
+    "iata": "AKP",
+    "name": "Anaktuvuk Pass",
+    "latitude": 68.1336,
+    "longitude": -151.743
+  },
+  {
+    "iata": "GYY",
+    "name": "Gary",
+    "latitude": 41.6163,
+    "longitude": -87.4128
+  },
+  {
+    "iata": "BRD",
+    "name": "Brainerd",
+    "latitude": 46.398308,
+    "longitude": -94.138078
+  },
+  {
+    "iata": "LWB",
+    "name": "Lewisburg",
+    "latitude": 37.858333,
+    "longitude": -80.399444
+  },
+  {
+    "iata": "PGV",
+    "name": "Greenville",
+    "latitude": 35.635278,
+    "longitude": -77.385278
+  },
+  {
+    "iata": "CYF",
+    "name": "Chefornak",
+    "latitude": 60.149167,
+    "longitude": -164.285556
+  },
+  {
+    "iata": "OXR",
+    "name": "Oxnard",
+    "latitude": 34.200833,
+    "longitude": -119.207222
+  },
+  {
+    "iata": "BKG",
+    "name": "Branson",
+    "latitude": 36.531994,
+    "longitude": -93.200556
+  },
+  {
+    "iata": "ZBP",
+    "name": "Baltimore",
+    "latitude": 39.307222,
+    "longitude": -76.615556
+  },
+  {
+    "iata": "ZYP",
+    "name": "New York",
+    "latitude": 40.7505,
+    "longitude": -73.9935
+  },
+  {
+    "iata": "SCH",
+    "name": "Scotia NY",
+    "latitude": 42.85245555,
+    "longitude": -73.928866666
+  },
+  {
+    "iata": "UST",
+    "name": "St. Augustine Airport",
+    "latitude": 29.959167,
+    "longitude": -81.339722
+  },
+  {
+    "iata": "STS",
+    "name": "Santa Rosa",
+    "latitude": 38.508978,
+    "longitude": -122.81288
+  },
+  {
+    "iata": "ISM",
+    "name": "Kissimmee",
+    "latitude": 28.289806,
+    "longitude": -81.437083
+  },
+  {
+    "iata": "LCQ",
+    "name": "Lake City",
+    "latitude": 30.181944,
+    "longitude": -82.576944
+  },
+  {
+    "iata": "LGU",
+    "name": "Logan",
+    "latitude": 41.791,
+    "longitude": -111.852
+  },
+  {
+    "iata": "BMC",
+    "name": "Brigham City",
+    "latitude": 41.552,
+    "longitude": -112.062
+  },
+  {
+    "iata": "MLD",
+    "name": "Malad City",
+    "latitude": 42.17,
+    "longitude": -112.289
+  },
+  {
+    "iata": "ASE",
+    "name": "Aspen",
+    "latitude": 39.2232,
+    "longitude": -106.869
+  },
+  {
+    "iata": "HHH",
+    "name": "Hilton Head",
+    "latitude": 32.216,
+    "longitude": -80.752
+  },
+  {
+    "iata": "ZFV",
+    "name": "Philadelphia",
+    "latitude": 39.9557,
+    "longitude": -75.182
+  },
+  {
+    "iata": "BWD",
+    "name": "Brownwood",
+    "latitude": 31.7936111,
+    "longitude": -98.9565
+  },
+  {
+    "iata": "LXY",
+    "name": "Mexia",
+    "latitude": 31.6411783,
+    "longitude": -96.5144594
+  },
+  {
+    "iata": "ERV",
+    "name": "Kerrville",
+    "latitude": 29.9766667,
+    "longitude": -99.0854722
+  },
+  {
+    "iata": "GED",
+    "name": "Georgetown",
+    "latitude": 38.689194,
+    "longitude": -75.358889
+  },
+  {
+    "iata": "GBN",
+    "name": "Great Bend",
+    "latitude": 38.344167,
+    "longitude": -98.859167
+  },
+  {
+    "iata": "HYS",
+    "name": "Hays",
+    "latitude": 38.8422,
+    "longitude": -99.2732
+  },
+  {
+    "iata": "SUS",
+    "name": "Null",
+    "latitude": 38.662119,
+    "longitude": -90.652044
+  },
+  {
+    "iata": "LYU",
+    "name": "Ely",
+    "latitude": 47.824444,
+    "longitude": -91.830833
+  },
+  {
+    "iata": "GPZ",
+    "name": "Grand Rapids MN",
+    "latitude": 47.211111,
+    "longitude": -93.509722
+  },
+  {
+    "iata": "TVF",
+    "name": "Thief River Falls",
+    "latitude": 48.065556,
+    "longitude": -96.185
+  },
+  {
+    "iata": "EGV",
+    "name": "Eagle River",
+    "latitude": 45.932333,
+    "longitude": -89.268283
+  },
+  {
+    "iata": "ARV",
+    "name": "Minocqua - Woodruff",
+    "latitude": 45.927778,
+    "longitude": -89.730833
+  },
+  {
+    "iata": "IKV",
+    "name": "Ankeny",
+    "latitude": 41.691389,
+    "longitude": -93.566389
+  },
+  {
+    "iata": "NGP",
+    "name": "Corpus Christi",
+    "latitude": 27.692701,
+    "longitude": -97.290376
+  },
+  {
+    "iata": "AVX",
+    "name": "Catalina Island",
+    "latitude": 33.405,
+    "longitude": -118.415833
+  },
+  {
+    "iata": "MHV",
+    "name": "Mojave",
+    "latitude": 35.059364,
+    "longitude": -118.151856
+  },
+  {
+    "iata": "KEH",
+    "name": "Kenmore",
+    "latitude": 47.7548,
+    "longitude": -122.259
+  },
+  {
+    "iata": "HUT",
+    "name": "Hutchinson",
+    "latitude": 38.0655,
+    "longitude": -97.8606
+  },
+  {
+    "iata": "EGA",
+    "name": "Eagle",
+    "latitude": 39.6427611,
+    "longitude": -106.9159347
+  },
+  {
+    "iata": "STJ",
+    "name": "Rosecrans",
+    "latitude": 39.771944,
+    "longitude": -94.909706
+  },
+  {
+    "iata": "ZRT",
+    "name": "Hartford",
+    "latitude": 41.76888,
+    "longitude": -72.6815
+  },
+  {
+    "iata": "ZTF",
+    "name": "Stamford",
+    "latitude": 41.046937,
+    "longitude": -73.541493
+  },
+  {
+    "iata": "ZRP",
+    "name": "Newark",
+    "latitude": 40.734722,
+    "longitude": -74.164167
+  },
+  {
+    "iata": "VOK",
+    "name": "Camp Douglas",
+    "latitude": 43.938956,
+    "longitude": -90.253433
+  },
+  {
+    "iata": "BFT",
+    "name": "Beauford",
+    "latitude": 32.41083,
+    "longitude": -80.635
+  },
+  {
+    "iata": "GUC",
+    "name": "Gunnison",
+    "latitude": 38.533889,
+    "longitude": -106.933056
+  },
+  {
+    "iata": "TOA",
+    "name": "Torrance",
+    "latitude": 33.803392,
+    "longitude": -118.339611
+  },
+  {
+    "iata": "MBL",
+    "name": "Manistee",
+    "latitude": 44.2725,
+    "longitude": -86.246944
+  },
+  {
+    "iata": "PGD",
+    "name": "Punta Gorda",
+    "latitude": 26.919722,
+    "longitude": -81.990556
+  },
+  {
+    "iata": "JGC",
+    "name": "Grand Canyon",
+    "latitude": 35.96666666,
+    "longitude": -112.13333333
+  },
+  {
+    "iata": "WFK",
+    "name": "Frenchville",
+    "latitude": 47.285556,
+    "longitude": -68.312778
+  },
+  {
+    "iata": "JHW",
+    "name": "Jamestown",
+    "latitude": 42.153333,
+    "longitude": -79.258056
+  },
+  {
+    "iata": "SME",
+    "name": "Somerset",
+    "latitude": 37.053611,
+    "longitude": -84.615556
+  },
+  {
+    "iata": "SHD",
+    "name": "Weyers Cave",
+    "latitude": 38.263889,
+    "longitude": -78.896389
+  },
+  {
+    "iata": "DVL",
+    "name": "Devils Lake",
+    "latitude": 48.114444,
+    "longitude": -98.908611
+  },
+  {
+    "iata": "DIK",
+    "name": "Dickinson",
+    "latitude": 46.7975,
+    "longitude": -102.801944
+  },
+  {
+    "iata": "SDY",
+    "name": "Sidney",
+    "latitude": 47.706944,
+    "longitude": -104.1925
+  },
+  {
+    "iata": "CDR",
+    "name": "Chadron",
+    "latitude": 42.8375,
+    "longitude": -103.095556
+  },
+  {
+    "iata": "AIA",
+    "name": "Alliance",
+    "latitude": 42.053333,
+    "longitude": -102.803889
+  },
+  {
+    "iata": "MCK",
+    "name": "McCook",
+    "latitude": 40.206389,
+    "longitude": -100.592222
+  },
+  {
+    "iata": "MTH",
+    "name": "Marathon",
+    "latitude": 24.726111,
+    "longitude": -81.051389
+  },
+  {
+    "iata": "GDV",
+    "name": "Glendive",
+    "latitude": 47.138611,
+    "longitude": -104.807222
+  },
+  {
+    "iata": "OLF",
+    "name": "Wolf Point",
+    "latitude": 48.094444,
+    "longitude": -105.575
+  },
+  {
+    "iata": "WYS",
+    "name": "West Yellowstone",
+    "latitude": 44.688333,
+    "longitude": -111.1175
+  },
+  {
+    "iata": "ALS",
+    "name": "Alamosa",
+    "latitude": 37.435,
+    "longitude": -105.866667
+  },
+  {
+    "iata": "CNY",
+    "name": "Moab",
+    "latitude": 38.755,
+    "longitude": -109.754722
+  },
+  {
+    "iata": "ELY",
+    "name": "Ely",
+    "latitude": 39.299722,
+    "longitude": -114.841944
+  },
+  {
+    "iata": "VEL",
+    "name": "Vernal",
+    "latitude": 40.440833,
+    "longitude": -109.51
+  },
+  {
+    "iata": "SRR",
+    "name": "Ruidoso",
+    "latitude": 33.46285,
+    "longitude": -105.534751
+  },
+  {
+    "iata": "SOW",
+    "name": "Show Low",
+    "latitude": 34.265556,
+    "longitude": -110.005556
+  },
+  {
+    "iata": "MYL",
+    "name": "McCall",
+    "latitude": 44.889722,
+    "longitude": -116.101389
+  },
+  {
+    "iata": "SMN",
+    "name": "Salmon",
+    "latitude": 45.123889,
+    "longitude": -113.881389
+  },
+  {
+    "iata": "MMH",
+    "name": "Mammoth Lakes",
+    "latitude": 37.624049,
+    "longitude": -118.837772
+  },
+  {
+    "iata": "FRD",
+    "name": "Friday Harbor",
+    "latitude": 48.521944,
+    "longitude": -123.024444
+  },
+  {
+    "iata": "ESD",
+    "name": "Eastsound",
+    "latitude": 48.708056,
+    "longitude": -122.910556
+  },
+  {
+    "iata": "OTS",
+    "name": "Anacortes",
+    "latitude": 48.498889,
+    "longitude": -122.6625
+  },
+  {
+    "iata": "AST",
+    "name": "Astoria",
+    "latitude": 46.157972,
+    "longitude": -123.878694
+  },
+  {
+    "iata": "ONP",
+    "name": "Newport",
+    "latitude": 44.580361,
+    "longitude": -124.057917
+  },
+  {
+    "iata": "EMK",
+    "name": "Emmonak",
+    "latitude": 62.786111,
+    "longitude": -164.490833
+  },
+  {
+    "iata": "UNK",
+    "name": "Unalakleet",
+    "latitude": 63.888333,
+    "longitude": -160.798889
+  },
+  {
+    "iata": "UUK",
+    "name": "Kuparuk",
+    "latitude": 70.330833,
+    "longitude": -149.5975
+  },
+  {
+    "iata": "SHX",
+    "name": "Shageluk",
+    "latitude": 62.692222,
+    "longitude": -159.569167
+  },
+  {
+    "iata": "CHU",
+    "name": "Chuathbaluk",
+    "latitude": 61.579167,
+    "longitude": -159.215556
+  },
+  {
+    "iata": "NUI",
+    "name": "Nuiqsut",
+    "latitude": 70.21,
+    "longitude": -151.005556
+  },
+  {
+    "iata": "EEK",
+    "name": "Eek",
+    "latitude": 60.213611,
+    "longitude": -162.043889
+  },
+  {
+    "iata": "KUK",
+    "name": "Kasigluk",
+    "latitude": 60.873333,
+    "longitude": -162.524444
+  },
+  {
+    "iata": "KWT",
+    "name": "Kwethluk",
+    "latitude": 60.790278,
+    "longitude": -161.443611
+  },
+  {
+    "iata": "KWK",
+    "name": "Kwigillingok",
+    "latitude": 59.876389,
+    "longitude": -163.168611
+  },
+  {
+    "iata": "MLL",
+    "name": "Marshall",
+    "latitude": 61.8646418,
+    "longitude": -162.026111
+  },
+  {
+    "iata": "RSH",
+    "name": "Russian Mission",
+    "latitude": 61.775,
+    "longitude": -161.319444
+  },
+  {
+    "iata": "WTL",
+    "name": "Tuntutuliak",
+    "latitude": 60.335278,
+    "longitude": -162.666944
+  },
+  {
+    "iata": "KEK",
+    "name": "Ekwok",
+    "latitude": 59.356944,
+    "longitude": -157.471111
+  },
+  {
+    "iata": "KGK",
+    "name": "Koliganek",
+    "latitude": 59.726667,
+    "longitude": -157.259444
+  },
+  {
+    "iata": "KLL",
+    "name": "Levelock",
+    "latitude": 59.128056,
+    "longitude": -156.858611
+  },
+  {
+    "iata": "KMO",
+    "name": "Manokotak",
+    "latitude": 58.990278,
+    "longitude": -159.05
+  },
+  {
+    "iata": "TWA",
+    "name": "Twin Hills",
+    "latitude": 59.074444,
+    "longitude": -160.275
+  },
+  {
+    "iata": "CIK",
+    "name": "Chalkyitsik",
+    "latitude": 66.645,
+    "longitude": -143.74
+  },
+  {
+    "iata": "EAA",
+    "name": "Eagle",
+    "latitude": 64.778056,
+    "longitude": -141.149722
+  },
+  {
+    "iata": "HUS",
+    "name": "Hughes",
+    "latitude": 66.039167,
+    "longitude": -154.264722
+  },
+  {
+    "iata": "HSL",
+    "name": "Huslia",
+    "latitude": 65.697778,
+    "longitude": -156.351389
+  },
+  {
+    "iata": "LIV",
+    "name": "Livingood",
+    "latitude": 65.531111,
+    "longitude": -148.541111
+  },
+  {
+    "iata": "MNT",
+    "name": "Minto",
+    "latitude": 65.143611,
+    "longitude": -149.37
+  },
+  {
+    "iata": "NUL",
+    "name": "Nulato",
+    "latitude": 64.729444,
+    "longitude": -158.074167
+  },
+  {
+    "iata": "RMP",
+    "name": "Rampart",
+    "latitude": 65.507778,
+    "longitude": -150.140833
+  },
+  {
+    "iata": "TAL",
+    "name": "Tanana",
+    "latitude": 65.179556,
+    "longitude": -152.075833
+  },
+  {
+    "iata": "VEE",
+    "name": "Venetie",
+    "latitude": 67.008611,
+    "longitude": -146.366389
+  },
+  {
+    "iata": "WBQ",
+    "name": "Beaver",
+    "latitude": 66.362222,
+    "longitude": -147.406667
+  },
+  {
+    "iata": "CEM",
+    "name": "Central",
+    "latitude": 65.573889,
+    "longitude": -144.780833
+  },
+  {
+    "iata": "SHG",
+    "name": "Shungnak",
+    "latitude": 66.888056,
+    "longitude": -157.1625
+  },
+  {
+    "iata": "KBC",
+    "name": "Brich Creek",
+    "latitude": 66.256708,
+    "longitude": -145.815319
+  },
+  {
+    "iata": "CXF",
+    "name": "Coldfoot",
+    "latitude": 67.251389,
+    "longitude": -150.176111
+  },
+  {
+    "iata": "IYK",
+    "name": "Inyokern",
+    "latitude": 35.658889,
+    "longitude": -117.829444
+  },
+  {
+    "iata": "VIS",
+    "name": "Visalia",
+    "latitude": 36.318611,
+    "longitude": -119.392778
+  },
+  {
+    "iata": "MCE",
+    "name": "Merced",
+    "latitude": 37.284722,
+    "longitude": -120.513889
+  },
+  {
+    "iata": "AGN",
+    "name": "Angoon",
+    "latitude": 57.503611,
+    "longitude": -134.585
+  },
+  {
+    "iata": "ELV",
+    "name": "Elfin Cove",
+    "latitude": 58.195278,
+    "longitude": -136.3475
+  },
+  {
+    "iata": "TKE",
+    "name": "Tenakee Springs",
+    "latitude": 57.779722,
+    "longitude": -135.218333
+  },
+  {
+    "iata": "PEC",
+    "name": "Pelican",
+    "latitude": 57.955278,
+    "longitude": -136.236389
+  },
+  {
+    "iata": "CYM",
+    "name": "Sitka",
+    "latitude": 57.515,
+    "longitude": -134.946111
+  },
+  {
+    "iata": "FNR",
+    "name": "Funter Bay",
+    "latitude": 58.254444,
+    "longitude": -134.897778
+  },
+  {
+    "iata": "EXI",
+    "name": "Excursion Inlet",
+    "latitude": 58.420556,
+    "longitude": -135.449167
+  },
+  {
+    "iata": "HNH",
+    "name": "Hoonah",
+    "latitude": 58.096111,
+    "longitude": -135.409722
+  },
+  {
+    "iata": "AFE",
+    "name": "Kake",
+    "latitude": 56.961389,
+    "longitude": -133.910278
+  },
+  {
+    "iata": "CGA",
+    "name": "Craig",
+    "latitude": 55.478889,
+    "longitude": -133.147778
+  },
+  {
+    "iata": "HYL",
+    "name": "Hollis",
+    "latitude": 55.481667,
+    "longitude": -132.646111
+  },
+  {
+    "iata": "MTM",
+    "name": "Metakatla",
+    "latitude": 55.131111,
+    "longitude": -131.578056
+  },
+  {
+    "iata": "KTB",
+    "name": "Thorne Bay",
+    "latitude": 55.688056,
+    "longitude": -132.536667
+  },
+  {
+    "iata": "HYG",
+    "name": "Hydaburg",
+    "latitude": 55.206389,
+    "longitude": -132.828333
+  },
+  {
+    "iata": "WHD",
+    "name": "Hyder",
+    "latitude": 55.903333,
+    "longitude": -130.006667
+  },
+  {
+    "iata": "KPB",
+    "name": "Point Baker",
+    "latitude": 56.351944,
+    "longitude": -133.6225
+  },
+  {
+    "iata": "PPV",
+    "name": "Port Protection",
+    "latitude": 56.328889,
+    "longitude": -133.61
+  },
+  {
+    "iata": "WWP",
+    "name": "North Whale Pass",
+    "latitude": 56.116389,
+    "longitude": -133.121667
+  },
+  {
+    "iata": "KCQ",
+    "name": "Chignik Lake",
+    "latitude": 56.255,
+    "longitude": -158.775278
+  },
+  {
+    "iata": "EGX",
+    "name": "Egegik",
+    "latitude": 58.185556,
+    "longitude": -157.375556
+  },
+  {
+    "iata": "KCL",
+    "name": "Chignik Lagoon",
+    "latitude": 56.311111,
+    "longitude": -158.534167
+  },
+  {
+    "iata": "KBW",
+    "name": "Chignik",
+    "latitude": 56.295556,
+    "longitude": -158.401398
+  },
+  {
+    "iata": "KPV",
+    "name": "Perryville",
+    "latitude": 55.906667,
+    "longitude": -159.160833
+  },
+  {
+    "iata": "PIP",
+    "name": "Pilot Point",
+    "latitude": 57.585393,
+    "longitude": -157.571944
+  },
+  {
+    "iata": "WSN",
+    "name": "South Naknek",
+    "latitude": 58.702222,
+    "longitude": -157.0025
+  },
+  {
+    "iata": "AKK",
+    "name": "Akhiok",
+    "latitude": 56.938611,
+    "longitude": -154.1825
+  },
+  {
+    "iata": "KYK",
+    "name": "Karluk",
+    "latitude": 57.566944,
+    "longitude": -154.450278
+  },
+  {
+    "iata": "KLN",
+    "name": "Larsen Bay",
+    "latitude": 57.535,
+    "longitude": -153.976667
+  },
+  {
+    "iata": "OLH",
+    "name": "Old Harbor",
+    "latitude": 57.218056,
+    "longitude": -153.269722
+  },
+  {
+    "iata": "KOZ",
+    "name": "Ouzinkie",
+    "latitude": 57.922876,
+    "longitude": -152.500511
+  },
+  {
+    "iata": "ORI",
+    "name": "Port Lions",
+    "latitude": 57.885278,
+    "longitude": -152.846111
+  },
+  {
+    "iata": "ALZ",
+    "name": "Lazy Bay",
+    "latitude": 56.899444,
+    "longitude": -154.247778
+  },
+  {
+    "iata": "AOS",
+    "name": "Amook Bay",
+    "latitude": 57.471389,
+    "longitude": -153.815278
+  },
+  {
+    "iata": "KKB",
+    "name": "Kitoi Bay",
+    "latitude": 58.190833,
+    "longitude": -152.370556
+  },
+  {
+    "iata": "KMY",
+    "name": "Moser Bay",
+    "latitude": 57.025556,
+    "longitude": -154.145833
+  },
+  {
+    "iata": "KOY",
+    "name": "Olga Bay",
+    "latitude": 57.161389,
+    "longitude": -154.229722
+  },
+  {
+    "iata": "KPY",
+    "name": "Port Bailey",
+    "latitude": 57.93,
+    "longitude": -153.040556
+  },
+  {
+    "iata": "KPR",
+    "name": "Port Williams",
+    "latitude": 58.49,
+    "longitude": -152.582222
+  },
+  {
+    "iata": "SYB",
+    "name": "Seal Bay",
+    "latitude": 58.166667,
+    "longitude": -152.5
+  },
+  {
+    "iata": "WSJ",
+    "name": "San Juan",
+    "latitude": 57.730278,
+    "longitude": -153.320556
+  },
+  {
+    "iata": "KWP",
+    "name": "West Point",
+    "latitude": 57.77,
+    "longitude": -153.548889
+  },
+  {
+    "iata": "KZB",
+    "name": "Zachar Bay",
+    "latitude": 57.55,
+    "longitude": -153.75
+  },
+  {
+    "iata": "ABL",
+    "name": "Ambler",
+    "latitude": 67.106389,
+    "longitude": -157.8575
+  },
+  {
+    "iata": "BKC",
+    "name": "Buckland",
+    "latitude": 65.981667,
+    "longitude": -161.149167
+  },
+  {
+    "iata": "IAN",
+    "name": "Kiana",
+    "latitude": 66.975833,
+    "longitude": -160.436667
+  },
+  {
+    "iata": "OBU",
+    "name": "Kobuk",
+    "latitude": 66.912222,
+    "longitude": -156.897222
+  },
+  {
+    "iata": "ORV",
+    "name": "Noorvik",
+    "latitude": 66.8175,
+    "longitude": -161.022222
+  },
+  {
+    "iata": "WLK",
+    "name": "Selawik",
+    "latitude": 66.6,
+    "longitude": -159.985833
+  },
+  {
+    "iata": "KTS",
+    "name": "Brevig Mission",
+    "latitude": 65.331389,
+    "longitude": -166.465833
+  },
+  {
+    "iata": "ELI",
+    "name": "Elim",
+    "latitude": 64.615,
+    "longitude": -162.270556
+  },
+  {
+    "iata": "GLV",
+    "name": "Golovin",
+    "latitude": 64.550556,
+    "longitude": -163.007222
+  },
+  {
+    "iata": "TLA",
+    "name": "Teller",
+    "latitude": 65.240278,
+    "longitude": -166.339444
+  },
+  {
+    "iata": "WAA",
+    "name": "Wales",
+    "latitude": 65.6225,
+    "longitude": -168.095
+  },
+  {
+    "iata": "WMO",
+    "name": "White Mountain",
+    "latitude": 64.689167,
+    "longitude": -163.412778
+  },
+  {
+    "iata": "CIL",
+    "name": "Council",
+    "latitude": 64.897778,
+    "longitude": -163.703333
+  },
+  {
+    "iata": "KKA",
+    "name": "Koyuk",
+    "latitude": 64.939444,
+    "longitude": -161.154167
+  },
+  {
+    "iata": "SMK",
+    "name": "St. Michael",
+    "latitude": 63.49,
+    "longitude": -162.110278
+  },
+  {
+    "iata": "SKK",
+    "name": "Shaktoolik",
+    "latitude": 64.371111,
+    "longitude": -161.223889
+  },
+  {
+    "iata": "WBB",
+    "name": "Stebbins",
+    "latitude": 63.515833,
+    "longitude": -162.278056
+  },
+  {
+    "iata": "TNC",
+    "name": "Tin City",
+    "latitude": 65.563056,
+    "longitude": -167.921667
+  },
+  {
+    "iata": "AKB",
+    "name": "Atka",
+    "latitude": 52.220278,
+    "longitude": -174.206389
+  },
+  {
+    "iata": "IKO",
+    "name": "Nikolski",
+    "latitude": 52.941667,
+    "longitude": -168.848889
+  },
+  {
+    "iata": "ICY",
+    "name": "Icy Bay",
+    "latitude": 59.968889,
+    "longitude": -141.661667
+  },
+  {
+    "iata": "CYT",
+    "name": "Yakataga",
+    "latitude": 60.081901,
+    "longitude": -142.493611
+  },
+  {
+    "iata": "AUK",
+    "name": "Alakanuk",
+    "latitude": 62.68,
+    "longitude": -164.66
+  },
+  {
+    "iata": "SXP",
+    "name": "Nunam Iqua",
+    "latitude": 62.520556,
+    "longitude": -164.847778
+  },
+  {
+    "iata": "KPN",
+    "name": "Kipnuk",
+    "latitude": 59.933056,
+    "longitude": -164.030556
+  },
+  {
+    "iata": "KFP",
+    "name": "False Pass",
+    "latitude": 54.8475,
+    "longitude": -163.410278
+  },
+  {
+    "iata": "NLG",
+    "name": "Nelson Lagoon",
+    "latitude": 56.0075,
+    "longitude": -161.160278
+  },
+  {
+    "iata": "PML",
+    "name": "Cold Bay",
+    "latitude": 56.006111,
+    "longitude": -160.560833
+  },
+  {
+    "iata": "KLW",
+    "name": "Klawock",
+    "latitude": 55.579167,
+    "longitude": -133.076111
+  },
+  {
+    "iata": "KWN",
+    "name": "Quinhagak",
+    "latitude": 59.755,
+    "longitude": -161.845278
+  },
+  {
+    "iata": "KOT",
+    "name": "Kotlik",
+    "latitude": 63.030556,
+    "longitude": -163.532778
+  },
+  {
+    "iata": "KYU",
+    "name": "Koyukuk",
+    "latitude": 64.875833,
+    "longitude": -157.730556
+  },
+  {
+    "iata": "SCM",
+    "name": "Scammon Bay",
+    "latitude": 61.845278,
+    "longitude": -165.571389
+  },
+  {
+    "iata": "NNL",
+    "name": "Nondalton",
+    "latitude": 59.966944,
+    "longitude": -154.851667
+  },
+  {
+    "iata": "PDB",
+    "name": "Pedro Bay",
+    "latitude": 59.782222,
+    "longitude": -154.1325
+  },
+  {
+    "iata": "NUP",
+    "name": "Nunapitchuk",
+    "latitude": 60.905833,
+    "longitude": -162.439167
+  },
+  {
+    "iata": "KKH",
+    "name": "Kongiganak",
+    "latitude": 59.960833,
+    "longitude": -162.881111
+  },
+  {
+    "iata": "NIB",
+    "name": "Nikolai",
+    "latitude": 63.010833,
+    "longitude": -154.383889
+  },
+  {
+    "iata": "TCT",
+    "name": "Takotna",
+    "latitude": 62.971944,
+    "longitude": -156.082778
+  },
+  {
+    "iata": "PQS",
+    "name": "Pilot Station",
+    "latitude": 61.934444,
+    "longitude": -162.899444
+  },
+  {
+    "iata": "AKI",
+    "name": "Akiak",
+    "latitude": 60.902778,
+    "longitude": -161.230556
+  },
+  {
+    "iata": "TLT",
+    "name": "Tuluksak",
+    "latitude": 61.096944,
+    "longitude": -160.969444
+  },
+  {
+    "iata": "KGX",
+    "name": "Grayling",
+    "latitude": 62.894444,
+    "longitude": -160.065
+  },
+  {
+    "iata": "AIN",
+    "name": "Wainwright",
+    "latitude": 70.638056,
+    "longitude": -159.994722
+  },
+  {
+    "iata": "NCN",
+    "name": "Chenega",
+    "latitude": 60.077222,
+    "longitude": -147.991944
+  },
+  {
+    "iata": "CZN",
+    "name": "Chisana",
+    "latitude": 62.071111,
+    "longitude": -142.048333
+  },
+  {
+    "iata": "IRC",
+    "name": "Circle",
+    "latitude": 65.827778,
+    "longitude": -144.076111
+  },
+  {
+    "iata": "KCC",
+    "name": "Coffman Cove",
+    "latitude": 56.014722,
+    "longitude": -132.833889
+  },
+  {
+    "iata": "CKD",
+    "name": "Crooked Creek",
+    "latitude": 61.867778,
+    "longitude": -158.135
+  },
+  {
+    "iata": "RDV",
+    "name": "Red Devil",
+    "latitude": 61.788056,
+    "longitude": -157.350278
+  },
+  {
+    "iata": "SLQ",
+    "name": "Sleetmute",
+    "latitude": 61.700566,
+    "longitude": -157.165833
+  },
+  {
+    "iata": "SRV",
+    "name": "Stony River",
+    "latitude": 61.7875,
+    "longitude": -156.591111
+  },
+  {
+    "iata": "HKB",
+    "name": "Healy",
+    "latitude": 63.8675,
+    "longitude": -148.968889
+  },
+  {
+    "iata": "KAE",
+    "name": "Kake",
+    "latitude": 56.973056,
+    "longitude": -133.945556
+  },
+  {
+    "iata": "AQC",
+    "name": "Klawock",
+    "latitude": 55.554658,
+    "longitude": -133.101693
+  },
+  {
+    "iata": "MHM",
+    "name": "Lake Minchumina",
+    "latitude": 63.886111,
+    "longitude": -152.301944
+  },
+  {
+    "iata": "MLY",
+    "name": "Manley Hot Springs",
+    "latitude": 64.9975,
+    "longitude": -150.644167
+  },
+  {
+    "iata": "STG",
+    "name": "St. George",
+    "latitude": 56.577222,
+    "longitude": -169.663611
+  },
+  {
+    "iata": "TEK",
+    "name": "Tatitlek",
+    "latitude": 60.8725,
+    "longitude": -146.691111
+  },
+  {
+    "iata": "WFB",
+    "name": "Ketchikan",
+    "latitude": 55.344444,
+    "longitude": -131.663333
+  },
+  {
+    "iata": "CPS",
+    "name": "East St. Louis",
+    "latitude": 38.5707244,
+    "longitude": -90.1562211
+  },
+  {
+    "iata": "MRB",
+    "name": "Martinsburg",
+    "latitude": 39.2407,
+    "longitude": -77.591
+  },
+  {
+    "iata": "RKH",
+    "name": "Rock Hill",
+    "latitude": 34.9878,
+    "longitude": -81.0572
+  },
+  {
+    "iata": "AGC",
+    "name": "Pittsburgh",
+    "latitude": 40.3544,
+    "longitude": -79.9302
+  },
+  {
+    "iata": "NZC",
+    "name": "Jacksonville",
+    "latitude": 30.2187,
+    "longitude": -81.8767
+  },
+  {
+    "iata": "FTY",
+    "name": "Atlanta",
+    "latitude": 33.7791,
+    "longitude": -84.5214
+  },
+  {
+    "iata": "OSU",
+    "name": "Columbus",
+    "latitude": 40.0798,
+    "longitude": -83.073
+  },
+  {
+    "iata": "ADS",
+    "name": "Addison",
+    "latitude": 32.9685594,
+    "longitude": -96.8364478
+  },
+  {
+    "iata": "DTS",
+    "name": "Destin",
+    "latitude": 30.4000611,
+    "longitude": -86.4714772
+  },
+  {
+    "iata": "RBN",
+    "name": "Fort Jefferson - Dry Tortugas",
+    "latitude": 24.61667,
+    "longitude": -82.86667
+  },
+  {
+    "iata": "ISO",
+    "name": "Kinston",
+    "latitude": 35.331389,
+    "longitude": -77.608889
+  },
+  {
+    "iata": "FFA",
+    "name": "Kill Devil Hills",
+    "latitude": 36.02,
+    "longitude": -75.67
+  },
+  {
+    "iata": "PVU",
+    "name": "Provo",
+    "latitude": 40.21805555,
+    "longitude": -111.72222222
+  },
+  {
+    "iata": "SBS",
+    "name": "Steamboat Springs",
+    "latitude": 40.51625,
+    "longitude": -106.8663056
+  },
+  {
+    "iata": "DTA",
+    "name": "Delta",
+    "latitude": 39.3806386,
+    "longitude": -112.5077147
+  },
+  {
+    "iata": "RIF",
+    "name": "Richfield",
+    "latitude": 38.7364361,
+    "longitude": -112.0989444
+  },
+  {
+    "iata": "PUC",
+    "name": "Price",
+    "latitude": 39.609722,
+    "longitude": -110.75278
+  },
+  {
+    "iata": "LAM",
+    "name": "Los Alamos",
+    "latitude": 35.8798019,
+    "longitude": -106.2694153
+  },
+  {
+    "iata": "BXS",
+    "name": "Borrego Springs",
+    "latitude": 33.2590278,
+    "longitude": -116.3209722
+  },
+  {
+    "iata": "HII",
+    "name": "Lake Havasu City",
+    "latitude": 34.5711111,
+    "longitude": -114.3582778
+  },
+  {
+    "iata": "INW",
+    "name": "Winslow",
+    "latitude": 35.0219167,
+    "longitude": -110.7225278
+  },
+  {
+    "iata": "DGL",
+    "name": "Douglas",
+    "latitude": 31.3426028,
+    "longitude": -109.5064544
+  },
+  {
+    "iata": "BOW",
+    "name": "Bartow",
+    "latitude": 27.9434,
+    "longitude": -81.7834
+  },
+  {
+    "iata": "LVK",
+    "name": "Livermore",
+    "latitude": 37.41362,
+    "longitude": -121.49133
+  },
+  {
+    "iata": "MPI",
+    "name": "Mariposa",
+    "latitude": 37.3039,
+    "longitude": -120.0222
+  },
+  {
+    "iata": "TRM",
+    "name": "Palm Springs",
+    "latitude": 33.626666,
+    "longitude": -116.1596667
+  },
+  {
+    "iata": "SMO",
+    "name": "Santa Monica",
+    "latitude": 34.0158333,
+    "longitude": -118.4513056
+  },
+  {
+    "iata": "UDD",
+    "name": "Palm Springs",
+    "latitude": 33.7484375,
+    "longitude": -116.2748133
+  },
+  {
+    "iata": "ZSY",
+    "name": "Scottsdale",
+    "latitude": 33.6228889,
+    "longitude": -111.9105278
+  },
+  {
+    "iata": "OLM",
+    "name": "Olympia",
+    "latitude": 46.9694044,
+    "longitude": -122.9025447
+  },
+  {
+    "iata": "DWA",
+    "name": "Davis-Woodland-Winters",
+    "latitude": 38.5793889,
+    "longitude": -121.8569444
+  },
+  {
+    "iata": "RIL",
+    "name": "Rifle",
+    "latitude": 39.5263056,
+    "longitude": -107.7269444
+  },
+  {
+    "iata": "SAA",
+    "name": "SARATOGA",
+    "latitude": 41.4448594,
+    "longitude": -106.8235264
+  },
+  {
+    "iata": "PDK",
+    "name": "Atlanta",
+    "latitude": 33.8756111,
+    "longitude": -84.3019722
+  },
+  {
+    "iata": "BMG",
+    "name": "Bloomington",
+    "latitude": 39.1460208,
+    "longitude": -86.6166805
+  },
+  {
+    "iata": "SUA",
+    "name": "Stuart",
+    "latitude": 27.1816996,
+    "longitude": -80.221294
+  },
+  {
+    "iata": "MMU",
+    "name": "Morristown",
+    "latitude": 40.79935,
+    "longitude": -74.4148747
+  },
+  {
+    "iata": "APC",
+    "name": "Napa",
+    "latitude": 38.2131944,
+    "longitude": -122.2806944
+  },
+  {
+    "iata": "SDM",
+    "name": "San Diego",
+    "latitude": 32.5722722,
+    "longitude": -116.9801611
+  },
+  {
+    "iata": "PHK",
+    "name": "Pahokee",
+    "latitude": 26.789,
+    "longitude": -80.692
+  },
+  {
+    "iata": "ECP",
+    "name": "Panama City",
+    "latitude": 30.3417,
+    "longitude": -85.7973
+  },
+  {
+    "iata": "SBD",
+    "name": "San Bernardino",
+    "latitude": 34.0953521,
+    "longitude": -117.2348722
+  },
+  {
+    "iata": "SQL",
+    "name": "San Carlos",
+    "latitude": 37.511944,
+    "longitude": -122.249444
+  },
+  {
+    "iata": "RWI",
+    "name": "Rocky Mount",
+    "latitude": 35.8563,
+    "longitude": -77.8919
+  },
+  {
+    "iata": "SXQ",
+    "name": "Soldotna",
+    "latitude": 60.4749583,
+    "longitude": -151.0382389
+  },
+  {
+    "iata": "SEE",
+    "name": "El Cajon",
+    "latitude": 32.8262222,
+    "longitude": -116.9724444
+  },
+  {
+    "iata": "TKF",
+    "name": "Truckee",
+    "latitude": 39.3200422,
+    "longitude": -120.1395628
+  },
+  {
+    "iata": "MGR",
+    "name": "Moultrie",
+    "latitude": 31.0849167,
+    "longitude": -83.80325
+  },
+  {
+    "iata": "RYY",
+    "name": "Atlanta",
+    "latitude": 34.0131569,
+    "longitude": -84.5970556
+  },
+  {
+    "iata": "ONH",
+    "name": "Oneonta",
+    "latitude": 42.524722,
+    "longitude": -75.064444
+  },
+  {
+    "iata": "LVM",
+    "name": "Livingston-Montana",
+    "latitude": 45.6993889,
+    "longitude": -110.4483056
+  },
+  {
+    "iata": "BIV",
+    "name": "Holland",
+    "latitude": 42.7427778,
+    "longitude": -86.1078333
+  },
+  {
+    "iata": "JRA",
+    "name": "New York",
+    "latitude": 40.7545,
+    "longitude": -74.0071
+  },
+  {
+    "iata": "LAL",
+    "name": "Lakeland",
+    "latitude": 27.9889167,
+    "longitude": -82.0185556
+  },
+  {
+    "iata": "IDL",
+    "name": "New York",
+    "latitude": 40.639751,
+    "longitude": -73.778924
+  },
+  {
+    "iata": "RBK",
+    "name": "Murrieta-Temecula",
+    "latitude": 33.5741791,
+    "longitude": -117.1284732
+  },
+  {
+    "iata": "PCW",
+    "name": "Port Clinton",
+    "latitude": 41.5162703,
+    "longitude": -82.8694868
+  },
+  {
+    "iata": "MGY",
+    "name": "Dayton",
+    "latitude": 39.5889722,
+    "longitude": -84.2248611
+  },
+  {
+    "iata": "RID",
+    "name": "Richmond",
+    "latitude": 39.7561006,
+    "longitude": -84.8427175
+  },
+  {
+    "iata": "FDY",
+    "name": "Findley",
+    "latitude": 41.0120278,
+    "longitude": -83.6686111
+  },
+  {
+    "iata": "SPF",
+    "name": "Spearfish-South Dakota",
+    "latitude": 44.4811407,
+    "longitude": -103.7860053
+  },
+  {
+    "iata": "OLV",
+    "name": "Olive Branch",
+    "latitude": 34.876944,
+    "longitude": -89.783333
+  },
+  {
+    "iata": "BJC",
+    "name": "Broomfield-CO",
+    "latitude": 39.90888888,
+    "longitude": -105.11722222
+  },
+  {
+    "iata": "SLE",
+    "name": "Salem",
+    "latitude": 44.9095,
+    "longitude": -123.003
+  },
+  {
+    "iata": "UTM",
+    "name": "Tunica",
+    "latitude": 34.681,
+    "longitude": -90.3467
+  },
+  {
+    "iata": "MWC",
+    "name": "Milwaukee",
+    "latitude": 43.1103889,
+    "longitude": -88.0344167
+  },
+  {
+    "iata": "JVL",
+    "name": "Janesville",
+    "latitude": 42.62025,
+    "longitude": -89.0415556
+  },
+  {
+    "iata": "GKY",
+    "name": "Arlington",
+    "latitude": 32.6638611,
+    "longitude": -97.0942778
+  },
+  {
+    "iata": "LZU",
+    "name": "Lawrenceville",
+    "latitude": 33.9780761,
+    "longitude": -83.9623772
+  },
+  {
+    "iata": "BWG",
+    "name": "Bowling Green",
+    "latitude": 36.9645278,
+    "longitude": -86.4196667
+  },
+  {
+    "iata": "RVS",
+    "name": "Tulsa",
+    "latitude": 36.0396111,
+    "longitude": -95.9846389
+  },
+  {
+    "iata": "BCE",
+    "name": "Bryce Canyon",
+    "latitude": 37.706444,
+    "longitude": -112.145806
+  },
+  {
+    "iata": "BUY",
+    "name": "Burlington",
+    "latitude": 36.0485433,
+    "longitude": -79.4748892
+  },
+  {
+    "iata": "JCI",
+    "name": "Olathe",
+    "latitude": 38.8309167,
+    "longitude": -94.8903056
+  },
+  {
+    "iata": "ESN",
+    "name": "Easton",
+    "latitude": 38.8041667,
+    "longitude": -76.069
+  },
+  {
+    "iata": "MYV",
+    "name": "Yuba City",
+    "latitude": 39.0553,
+    "longitude": -121.3411
+  },
+  {
+    "iata": "DUC",
+    "name": "Duncan",
+    "latitude": 34.4713056,
+    "longitude": -97.9598611
+  },
+  {
+    "iata": "UVA",
+    "name": "Uvalde",
+    "latitude": 29.215429,
+    "longitude": -99.748962
+  },
+  {
+    "iata": "LOT",
+    "name": "Lockport",
+    "latitude": 41.606326,
+    "longitude": -88.083003
+  },
+  {
+    "iata": "CCR",
+    "name": "Concord",
+    "latitude": 37.9896667,
+    "longitude": -122.0568889
+  },
+  {
+    "iata": "OCA",
+    "name": "Ocean Reef Club Airport",
+    "latitude": 25.325393,
+    "longitude": -80.274775
+  },
+  {
+    "iata": "SGH",
+    "name": "Springfield",
+    "latitude": 39.8402778,
+    "longitude": -83.8401667
+  },
+  {
+    "iata": "MPB",
+    "name": "Miami",
+    "latitude": 25.7783,
+    "longitude": -80.1703
+  },
+  {
+    "iata": "TOP",
+    "name": "Topeka",
+    "latitude": 39.068657,
+    "longitude": -95.622482
+  },
+  {
+    "iata": "EMP",
+    "name": "Emporia",
+    "latitude": 38.3321,
+    "longitude": -96.1912
+  },
+  {
+    "iata": "TKI",
+    "name": "DALLAS",
+    "latitude": 33.1779444,
+    "longitude": -96.5905278
+  },
+  {
+    "iata": "PWK",
+    "name": "Chicago-Wheeling",
+    "latitude": 42.1142897,
+    "longitude": -87.9015376
+  },
+  {
+    "iata": "KLS",
+    "name": "Kelso",
+    "latitude": 46.118,
+    "longitude": -122.898389
+  },
+  {
+    "iata": "TWD",
+    "name": "Port Townsend",
+    "latitude": 48.0314,
+    "longitude": -122.4838
+  },
+  {
+    "iata": "ZRD",
+    "name": "Richmond",
+    "latitude": 37.5343,
+    "longitude": -77.42945
+  },
+  {
+    "iata": "ILN",
+    "name": "Wilmington",
+    "latitude": 39.42792,
+    "longitude": -83.792118
+  },
+  {
+    "iata": "AVW",
+    "name": "Tucson",
+    "latitude": 32.409556,
+    "longitude": -111.218388
+  },
+  {
+    "iata": "CGZ",
+    "name": "Casa Grande",
+    "latitude": 32.954889,
+    "longitude": -111.766832
+  },
+  {
+    "iata": "BXK",
+    "name": "Buckeye",
+    "latitude": 33.420417,
+    "longitude": -112.68618
+  },
+  {
+    "iata": "MMI",
+    "name": "Athens",
+    "latitude": 35.39919,
+    "longitude": -84.56177
+  },
+  {
+    "iata": "STK",
+    "name": "Sterling",
+    "latitude": 40.6153136,
+    "longitude": -103.2648454
+  },
+  {
+    "iata": "RWL",
+    "name": "Rawlins",
+    "latitude": 41.8055975,
+    "longitude": -107.19994
+  },
+  {
+    "iata": "CDW",
+    "name": "Caldwell",
+    "latitude": 40.8752222,
+    "longitude": -74.2813611
+  },
+  {
+    "iata": "AIZ",
+    "name": "Kaiser Lake Ozark",
+    "latitude": 38.096035,
+    "longitude": -92.5494875
+  },
+  {
+    "iata": "TVI",
+    "name": "Thomasville",
+    "latitude": 30.9017921,
+    "longitude": -83.8811285
+  },
+  {
+    "iata": "HSH",
+    "name": "Henderson",
+    "latitude": 35.972778,
+    "longitude": -115.134444
+  },
+  {
+    "iata": "TMA",
+    "name": "Tifton",
+    "latitude": 31.4289814,
+    "longitude": -83.488545
+  },
+  {
+    "iata": "DVT",
+    "name": "Phoenix ",
+    "latitude": 33.4117,
+    "longitude": 112.457
+  },
+  {
+    "iata": "HDO",
+    "name": "Hondo",
+    "latitude": 29.3591,
+    "longitude": -99.1775
+  },
+  {
+    "iata": "MCL",
+    "name": "McKinley Park",
+    "latitude": 63.732757,
+    "longitude": -148.91129
+  },
+  {
+    "iata": "LHD",
+    "name": "Anchorage",
+    "latitude": 61.1866382,
+    "longitude": -149.9653918
+  },
+  {
+    "iata": "PPC",
+    "name": "Prospect Creek",
+    "latitude": 66.814167,
+    "longitude": -150.643611
+  },
+  {
+    "iata": "HCC",
+    "name": "Hudson NY",
+    "latitude": 42.2913,
+    "longitude": -73.7103
+  },
+  {
+    "iata": "HLG",
+    "name": "Wheeling",
+    "latitude": 40.175,
+    "longitude": -80.6463
+  },
+  {
+    "iata": "FZG",
+    "name": "Fitzgerald",
+    "latitude": 31.6839046,
+    "longitude": -83.2709036
+  },
+  {
+    "iata": "RKP",
+    "name": "Rockport",
+    "latitude": 28.0862222,
+    "longitude": -97.0436944
+  },
+  {
+    "iata": "CKF",
+    "name": "Cordele",
+    "latitude": 31.9888333,
+    "longitude": -83.7739167
+  },
+  {
+    "iata": "OMN",
+    "name": "Ormond Beach",
+    "latitude": 29.1804,
+    "longitude": -81.06497
+  },
+  {
+    "iata": "TTD",
+    "name": "Troutdale",
+    "latitude": 45.54937,
+    "longitude": -122.401253
+  },
+  {
+    "iata": "HIO",
+    "name": "Hillsboro",
+    "latitude": 45.540394,
+    "longitude": -122.949825
+  },
+  {
+    "iata": "GAI",
+    "name": "Gaithersburg",
+    "latitude": 39.1006,
+    "longitude": -77.09576
+  },
+  {
+    "iata": "CVX",
+    "name": "Charelvoix",
+    "latitude": 45.3047778,
+    "longitude": -85.2753333
+  },
+  {
+    "iata": "RCE",
+    "name": "Roche Harbor",
+    "latitude": 48.608056,
+    "longitude": -123.159722
+  },
+  {
+    "iata": "BYW",
+    "name": "Blakely Island",
+    "latitude": 48.56025,
+    "longitude": -122.80243
+  },
+  {
+    "iata": "RSJ",
+    "name": "Rosario",
+    "latitude": 48.645556,
+    "longitude": -122.868056
+  },
+  {
+    "iata": "WSX",
+    "name": "Westsound",
+    "latitude": 48.617778,
+    "longitude": -122.952778
+  },
+  {
+    "iata": "FBS",
+    "name": "Friday Harbor",
+    "latitude": 48.537222,
+    "longitude": -123.009722
+  },
+  {
+    "iata": "XFL",
+    "name": "Flagler",
+    "latitude": 29.2821,
+    "longitude": -81.1212
+  },
+  {
+    "iata": "MVL",
+    "name": "Morrisville",
+    "latitude": 44.535,
+    "longitude": -72.614
+  },
+  {
+    "iata": "RBD",
+    "name": "Dallas",
+    "latitude": 32.680833,
+    "longitude": -96.868333
+  },
+  {
+    "iata": "WST",
+    "name": "Washington County",
+    "latitude": 41.349722,
+    "longitude": -71.803333
+  },
+  {
+    "iata": "BID",
+    "name": "Block Island",
+    "latitude": 41.168056,
+    "longitude": -71.577778
+  },
+  {
+    "iata": "NME",
+    "name": "Nightmute",
+    "latitude": 60.471111,
+    "longitude": -164.700833
+  },
+  {
+    "iata": "OOK",
+    "name": "Toksook Bay",
+    "latitude": 60.541389,
+    "longitude": -165.087222
+  },
+  {
+    "iata": "TNK",
+    "name": "Tununak",
+    "latitude": 60.575556,
+    "longitude": -165.271667
+  },
+  {
+    "iata": "GNU",
+    "name": "Goodnews Bay",
+    "latitude": 59.1175,
+    "longitude": -161.5775
+  },
+  {
+    "iata": "WWT",
+    "name": "Newtok",
+    "latitude": 60.939167,
+    "longitude": -164.641111
+  },
+  {
+    "iata": "BGE",
+    "name": "Bainbridge",
+    "latitude": 30.9715981,
+    "longitude": -84.6369278
+  },
+  {
+    "iata": "SPZ",
+    "name": "Silver Springs",
+    "latitude": 39.4030278,
+    "longitude": -119.2511944
+  },
+  {
+    "iata": "WHP",
+    "name": "Los Angeles",
+    "latitude": 34.2593253,
+    "longitude": -118.4134331
+  },
+  {
+    "iata": "MAE",
+    "name": "Madera",
+    "latitude": 36.9886111,
+    "longitude": -120.1124444
+  },
+  {
+    "iata": "AAF",
+    "name": "Apalachicola",
+    "latitude": 29.7276066,
+    "longitude": -85.0274416
+  },
+  {
+    "iata": "SGJ",
+    "name": "St. Augustine",
+    "latitude": 29.95925,
+    "longitude": -81.3397222
+  },
+  {
+    "iata": "DQH",
+    "name": "Douglas",
+    "latitude": 31.4767385,
+    "longitude": -82.8605664
+  },
+  {
+    "iata": "FRP",
+    "name": "Fort Pierce",
+    "latitude": 27.497472,
+    "longitude": -80.372638
+  },
+  {
+    "iata": "ALX",
+    "name": "Alexandria",
+    "latitude": 38.806346,
+    "longitude": -77.0621
+  },
+  {
+    "iata": "TAN",
+    "name": "Taunton",
+    "latitude": 41.8744017,
+    "longitude": -71.0166453
+  },
+  {
+    "iata": "PYM",
+    "name": "Plymouth",
+    "latitude": 41.9090278,
+    "longitude": -70.7287778
+  },
+  {
+    "iata": "OQU",
+    "name": "North Kingstown",
+    "latitude": 41.5971389,
+    "longitude": -71.4121389
+  },
+  {
+    "iata": "OWD",
+    "name": "Norwood",
+    "latitude": 42.1905278,
+    "longitude": -71.1729444
+  },
+  {
+    "iata": "BAF",
+    "name": "Westfield",
+    "latitude": 42.1579472,
+    "longitude": -72.715875
+  },
+  {
+    "iata": "IJD",
+    "name": "Willimantic",
+    "latitude": 41.7440278,
+    "longitude": -72.1802222
+  },
+  {
+    "iata": "MGJ",
+    "name": "Montgomery",
+    "latitude": 41.5099884,
+    "longitude": -74.2646444
+  },
+  {
+    "iata": "CXY",
+    "name": "Harrisburg",
+    "latitude": 40.2171389,
+    "longitude": -76.8513611
+  },
+  {
+    "iata": "GHG",
+    "name": "Marshfield",
+    "latitude": 42.09825,
+    "longitude": -70.6721389
+  },
+  {
+    "iata": "DXR",
+    "name": "Danbury",
+    "latitude": 41.3715353,
+    "longitude": -73.4821906
+  },
+  {
+    "iata": "ASH",
+    "name": "Nashua",
+    "latitude": 42.78175,
+    "longitude": -71.5147778
+  },
+  {
+    "iata": "LWM",
+    "name": "Lawrence",
+    "latitude": 42.7171944,
+    "longitude": -71.1234167
+  },
+  {
+    "iata": "OXC",
+    "name": "Oxford",
+    "latitude": 41.4785556,
+    "longitude": -73.13525
+  },
+  {
+    "iata": "FIT",
+    "name": "Fitchburg",
+    "latitude": 42.5541111,
+    "longitude": -71.7589722
+  },
+  {
+    "iata": "VPC",
+    "name": "Cartersville",
+    "latitude": 34.1231475,
+    "longitude": -84.8487067
+  },
+  {
+    "iata": "PYP",
+    "name": "Centre",
+    "latitude": 34.0899167,
+    "longitude": -85.6100833
+  },
+  {
+    "iata": "RMG",
+    "name": "Rome",
+    "latitude": 34.3507778,
+    "longitude": -85.1586667
+  },
+  {
+    "iata": "GAD",
+    "name": "Gadsden",
+    "latitude": 33.9726489,
+    "longitude": -86.0890834
+  },
+  {
+    "iata": "DKX",
+    "name": "Knoxville",
+    "latitude": 35.9638333,
+    "longitude": -83.8736667
+  },
+  {
+    "iata": "WDR",
+    "name": "Winder",
+    "latitude": 33.9828611,
+    "longitude": -83.6674167
+  },
+  {
+    "iata": "JYL",
+    "name": "Sylvania",
+    "latitude": 32.6452778,
+    "longitude": -81.5971111
+  },
+  {
+    "iata": "DNN",
+    "name": "Dalton",
+    "latitude": 34.7229444,
+    "longitude": -84.87025
+  },
+  {
+    "iata": "CTJ",
+    "name": "Carrollton",
+    "latitude": 33.6316964,
+    "longitude": -85.1522641
+  },
+  {
+    "iata": "LGC",
+    "name": "LaGrange",
+    "latitude": 33.0088611,
+    "longitude": -85.0726111
+  },
+  {
+    "iata": "MLJ",
+    "name": "Milledgeville",
+    "latitude": 33.154225,
+    "longitude": -83.2414139
+  },
+  {
+    "iata": "PIM",
+    "name": "Pine Mountain",
+    "latitude": 32.8406944,
+    "longitude": -84.8824444
+  },
+  {
+    "iata": "FFC",
+    "name": "Atlanta",
+    "latitude": 33.35725,
+    "longitude": -84.5718333
+  },
+  {
+    "iata": "GVL",
+    "name": "Gainesville",
+    "latitude": 34.272627,
+    "longitude": -83.8302233
+  },
+  {
+    "iata": "PHD",
+    "name": "New Philadelpha",
+    "latitude": 40.4701667,
+    "longitude": -81.4199444
+  },
+  {
+    "iata": "UDG",
+    "name": "Darlington",
+    "latitude": 34.4493845,
+    "longitude": -79.8900608
+  },
+  {
+    "iata": "HXD",
+    "name": "Hilton Head Island",
+    "latitude": 32.2243611,
+    "longitude": -80.6974722
+  },
+  {
+    "iata": "DNL",
+    "name": "Augusta",
+    "latitude": 33.4665028,
+    "longitude": -82.0393808
+  },
+  {
+    "iata": "MRN",
+    "name": "Morganton",
+    "latitude": 35.8202336,
+    "longitude": -81.6115119
+  },
+  {
+    "iata": "PBX",
+    "name": "Pikeville",
+    "latitude": 37.5617639,
+    "longitude": -82.5663889
+  },
+  {
+    "iata": "TOC",
+    "name": "Toccoa",
+    "latitude": 34.5928117,
+    "longitude": -83.2963717
+  },
+  {
+    "iata": "VDF",
+    "name": "Tampa",
+    "latitude": 28.0139772,
+    "longitude": -82.3452778
+  },
+  {
+    "iata": "AFW",
+    "name": "Fort Worth",
+    "latitude": 32.987778,
+    "longitude": -97.318889
+  },
+  {
+    "iata": "MYF",
+    "name": "San Diego",
+    "latitude": 32.4759,
+    "longitude": 117.759
+  },
+  {
+    "iata": "LWC",
+    "name": "Lawrence",
+    "latitude": 39.009167,
+    "longitude": -95.2175
+  },
+  {
+    "iata": "EGT",
+    "name": "Wellington",
+    "latitude": 37.39411,
+    "longitude": -97.423225
+  },
+  {
+    "iata": "PMP",
+    "name": "Pompano Beach",
+    "latitude": 26.2471389,
+    "longitude": -80.1110556
+  },
+  {
+    "iata": "EET",
+    "name": "Alabaster",
+    "latitude": 33.1777778,
+    "longitude": -86.7832222
+  },
+  {
+    "iata": "UMP",
+    "name": "Indianapolis",
+    "latitude": 39.935278,
+    "longitude": -86.045
+  },
+  {
+    "iata": "LOZ",
+    "name": "London",
+    "latitude": 37.0868889,
+    "longitude": -84.0773889
+  },
+  {
+    "iata": "FBG",
+    "name": "Fredericksburg",
+    "latitude": 38.298416,
+    "longitude": -77.456875
+  },
+  {
+    "iata": "RAC",
+    "name": "Racine",
+    "latitude": 42.7605,
+    "longitude": -87.8152
+  },
+  {
+    "iata": "REI",
+    "name": "Redlands",
+    "latitude": 34.08525,
+    "longitude": -117.146388
+  },
+  {
+    "iata": "RIR",
+    "name": "Riverside",
+    "latitude": 33.988778,
+    "longitude": -117.409971
+  },
+  {
+    "iata": "TIW",
+    "name": "Tacoma",
+    "latitude": 47.267944,
+    "longitude": -122.57811
+  },
+  {
+    "iata": "JKA",
+    "name": "Gulf Shores",
+    "latitude": 30.2896389,
+    "longitude": -87.6717778
+  },
+  {
+    "iata": "HZL",
+    "name": "Hazleton",
+    "latitude": 40.989167,
+    "longitude": -76.0025
+  },
+  {
+    "iata": "CBE",
+    "name": "Cumberland",
+    "latitude": 39.615278,
+    "longitude": -78.760556
+  },
+  {
+    "iata": "LNR",
+    "name": "Lone Rock",
+    "latitude": 43.211667,
+    "longitude": -90.181667
+  },
+  {
+    "iata": "JOT",
+    "name": "Joliet",
+    "latitude": 41.517778,
+    "longitude": -88.175556
+  },
+  {
+    "iata": "VYS",
+    "name": "Peru",
+    "latitude": 41.351944,
+    "longitude": -89.153056
+  },
+  {
+    "iata": "JXN",
+    "name": "Jackson",
+    "latitude": 42.260556,
+    "longitude": -84.460556
+  },
+  {
+    "iata": "BBX",
+    "name": "Philadelphia",
+    "latitude": 40.1375,
+    "longitude": -75.265
+  },
+  {
+    "iata": "OBE",
+    "name": "Okeechobee",
+    "latitude": 27.265833,
+    "longitude": -80.851111
+  },
+  {
+    "iata": "SEF",
+    "name": "Sebring",
+    "latitude": 27.456389,
+    "longitude": -81.342222
+  },
+  {
+    "iata": "AVO",
+    "name": "Avon Park",
+    "latitude": 27.591389,
+    "longitude": -81.528889
+  },
+  {
+    "iata": "GIF",
+    "name": "Winter Haven",
+    "latitude": 28.062778,
+    "longitude": -81.753333
+  },
+  {
+    "iata": "ZPH",
+    "name": "Zephyrhills",
+    "latitude": 28.228056,
+    "longitude": -82.155833
+  },
+  {
+    "iata": "OCF",
+    "name": "Ocala",
+    "latitude": 29.1725,
+    "longitude": -82.224167
+  },
+  {
+    "iata": "JES",
+    "name": "Jesup",
+    "latitude": 31.553889,
+    "longitude": -81.8825
+  },
+  {
+    "iata": "CCO",
+    "name": "Newnan",
+    "latitude": 33.3115656,
+    "longitude": -84.7697554
+  },
+  {
+    "iata": "HQU",
+    "name": "Thomson",
+    "latitude": 33.5297315,
+    "longitude": -82.5169509
+  },
+  {
+    "iata": "AIK",
+    "name": "Aiken",
+    "latitude": 33.6493889,
+    "longitude": -81.6850278
+  },
+  {
+    "iata": "CDN",
+    "name": "Camden",
+    "latitude": 34.2835833,
+    "longitude": -80.5648611
+  },
+  {
+    "iata": "LBT",
+    "name": "Lumberton",
+    "latitude": 34.6098056,
+    "longitude": -79.0595556
+  },
+  {
+    "iata": "SOP",
+    "name": "Pinehurst-Southern Pines",
+    "latitude": 35.2376111,
+    "longitude": -79.3887958
+  },
+  {
+    "iata": "RCZ",
+    "name": "Rockingham",
+    "latitude": 34.8913056,
+    "longitude": -79.7596111
+  },
+  {
+    "iata": "DLL",
+    "name": "Baraboo",
+    "latitude": 43.5217843,
+    "longitude": -89.7709266
+  },
+  {
+    "iata": "SVH",
+    "name": "Statesville",
+    "latitude": 35.7649958,
+    "longitude": -80.9538958
+  },
+  {
+    "iata": "BUU",
+    "name": "Burlington",
+    "latitude": 42.6907171,
+    "longitude": -88.3046825
+  },
+  {
+    "iata": "LHV",
+    "name": "Lock Haven",
+    "latitude": 41.1357778,
+    "longitude": -77.4223056
+  },
+  {
+    "iata": "LPR",
+    "name": "Lorain-Elyria",
+    "latitude": 41.3442778,
+    "longitude": -82.1776389
+  },
+  {
+    "iata": "BKL",
+    "name": "Cleveland",
+    "latitude": 41.5175,
+    "longitude": -81.683333
+  },
+  {
+    "iata": "DKK",
+    "name": "Dunkirk",
+    "latitude": 42.4933353,
+    "longitude": -79.2720417
+  },
+  {
+    "iata": "VAY",
+    "name": "Mount Holly",
+    "latitude": 39.9428889,
+    "longitude": -74.84575
+  },
+  {
+    "iata": "LDJ",
+    "name": "Linden",
+    "latitude": 40.6174472,
+    "longitude": -74.2445942
+  },
+  {
+    "iata": "ANQ",
+    "name": "Angola",
+    "latitude": 41.6396983,
+    "longitude": -85.0834933
+  },
+  {
+    "iata": "VNW",
+    "name": "Van Wert",
+    "latitude": 40.8638295,
+    "longitude": -84.606358
+  },
+  {
+    "iata": "RMY",
+    "name": "Marshall",
+    "latitude": 42.2511932,
+    "longitude": -84.9554443
+  },
+  {
+    "iata": "GVQ",
+    "name": "Batavia",
+    "latitude": 43.03175,
+    "longitude": -78.1696667
+  },
+  {
+    "iata": "CLW",
+    "name": "Clearwater",
+    "latitude": 27.9764722,
+    "longitude": -82.7586667
+  },
+  {
+    "iata": "NYC",
+    "name": "New York",
+    "latitude": 40.714167,
+    "longitude": -74.005833
+  },
+  {
+    "iata": "CHI",
+    "name": "Chicago",
+    "latitude": 41.883611,
+    "longitude": -87.631667
+  },
+  {
+    "iata": "CGX",
+    "name": "Chicago",
+    "latitude": 41.860278,
+    "longitude": -87.609722
+  },
+  {
+    "iata": "WAS",
+    "name": "Washington",
+    "latitude": 38.889444,
+    "longitude": -77.035278
+  },
+  {
+    "iata": "JZP",
+    "name": "Jasper",
+    "latitude": 34.4534722,
+    "longitude": -84.4572222
+  },
+  {
+    "iata": "CRE",
+    "name": "North Myrtle Beach",
+    "latitude": 33.81175,
+    "longitude": -78.7239444
+  },
+  {
+    "iata": "IGQ",
+    "name": "Lansing",
+    "latitude": 41.5349167,
+    "longitude": -87.5295278
+  },
+  {
+    "iata": "RNM",
+    "name": "Ramona",
+    "latitude": 33.0391667,
+    "longitude": -116.91525
+  },
+  {
+    "iata": "OEB",
+    "name": "Coldwater",
+    "latitude": 41.9335691,
+    "longitude": -85.0522935
+  },
+  {
+    "iata": "WBW",
+    "name": "Wilkes-Barre",
+    "latitude": 41.2973074,
+    "longitude": -75.8522405
+  },
+  {
+    "iata": "LNN",
+    "name": "Willoughby",
+    "latitude": 41.6840278,
+    "longitude": -81.38975
+  },
+  {
+    "iata": "FFT",
+    "name": "Frankfort",
+    "latitude": 38.1819722,
+    "longitude": -84.9061389
+  },
+  {
+    "iata": "LEW",
+    "name": "Lewiston",
+    "latitude": 44.0484728,
+    "longitude": -70.2835075
+  },
+  {
+    "iata": "NBU",
+    "name": "Glenview",
+    "latitude": 42.090556,
+    "longitude": -87.8225
+  },
+  {
+    "iata": "MRK",
+    "name": "Marco Island Airport",
+    "latitude": 25.9950278,
+    "longitude": -81.6725278
+  },
+  {
+    "iata": "DRM",
+    "name": "Drummond Island",
+    "latitude": 46.0093114,
+    "longitude": -83.7439342
+  },
+  {
+    "iata": "GDW",
+    "name": "Gladwin",
+    "latitude": 43.9705893,
+    "longitude": -84.47502
+  },
+  {
+    "iata": "LWA",
+    "name": "South Haven",
+    "latitude": 42.3511944,
+    "longitude": -86.2556389
+  },
+  {
+    "iata": "MFI",
+    "name": "Marshfield",
+    "latitude": 44.6368797,
+    "longitude": -90.1893267
+  },
+  {
+    "iata": "ISW",
+    "name": "Wisconsin Rapids",
+    "latitude": 44.3606456,
+    "longitude": -89.8381412
+  },
+  {
+    "iata": "CWI",
+    "name": "Clinton",
+    "latitude": 41.83075,
+    "longitude": -90.3289722
+  },
+  {
+    "iata": "BVY",
+    "name": "Beverly",
+    "latitude": 42.584141,
+    "longitude": -70.9161444
+  },
+  {
+    "iata": "POF",
+    "name": "Poplar Bluff",
+    "latitude": 36.77394444,
+    "longitude": -90.3248611
+  },
+  {
+    "iata": "EPM",
+    "name": "Eastport",
+    "latitude": 44.9101111,
+    "longitude": -67.0126944
+  },
+  {
+    "iata": "EOK",
+    "name": "Keokuk",
+    "latitude": 40.4599078,
+    "longitude": -91.4285011
+  },
+  {
+    "iata": "ZRA",
+    "name": "Atlantic City NJ",
+    "latitude": 39.3665,
+    "longitude": -74.442
+  },
+  {
+    "iata": "ZSF",
+    "name": "Springfield MA",
+    "latitude": 42.106,
+    "longitude": -72.593054
+  },
+  {
+    "iata": "XZK",
+    "name": "Amherst MA",
+    "latitude": 42.375,
+    "longitude": -72.511389
+  },
+  {
+    "iata": "FLD",
+    "name": "Fond du Lac",
+    "latitude": 43.7711667,
+    "longitude": -88.4884167
+  },
+  {
+    "iata": "PCZ",
+    "name": "Waupaca",
+    "latitude": 44.33325,
+    "longitude": -89.0197778
+  },
+  {
+    "iata": "STE",
+    "name": "Stevens Point",
+    "latitude": 44.5451356,
+    "longitude": -89.5302844
+  },
+  {
+    "iata": "ERY",
+    "name": "Newberry",
+    "latitude": 46.311199,
+    "longitude": -85.457298
+  },
+  {
+    "iata": "GQQ",
+    "name": "Galion",
+    "latitude": 40.7533889,
+    "longitude": -82.7238056
+  },
+  {
+    "iata": "CKV",
+    "name": "Clarksville",
+    "latitude": 36.621944,
+    "longitude": -87.415
+  },
+  {
+    "iata": "LPC",
+    "name": "Lompoc",
+    "latitude": 34.6656,
+    "longitude": -120.4675
+  },
+  {
+    "iata": "CTH",
+    "name": "Coatesville",
+    "latitude": 39.9789,
+    "longitude": -75.8654
+  },
+  {
+    "iata": "LKP",
+    "name": "Lake Placid",
+    "latitude": 44.264444,
+    "longitude": -73.961944
+  },
+  {
+    "iata": "WIH",
+    "name": "Wishram",
+    "latitude": 45.6576,
+    "longitude": -120.9664
+  },
+  {
+    "iata": "AOH",
+    "name": "Lima",
+    "latitude": 40.707478,
+    "longitude": -84.0270781
+  },
+  {
+    "iata": "SSI",
+    "name": "Brunswick",
+    "latitude": 31.1519722,
+    "longitude": -81.3910556
+  },
+  {
+    "iata": "BFP",
+    "name": "Beaver Falls",
+    "latitude": 40.7724722,
+    "longitude": -80.3914444
+  },
+  {
+    "iata": "GGE",
+    "name": "Georgetown",
+    "latitude": 33.3114018,
+    "longitude": -79.3203139
+  },
+  {
+    "iata": "HDI",
+    "name": "Cleveland",
+    "latitude": 35.2199994,
+    "longitude": -84.832369
+  },
+  {
+    "iata": "RNT",
+    "name": "Renton",
+    "latitude": 47.4931389,
+    "longitude": -122.21575
+  },
+  {
+    "iata": "POC",
+    "name": "La Verne",
+    "latitude": 34.0916667,
+    "longitude": -117.7817778
+  },
+  {
+    "iata": "CDK",
+    "name": "Cedar Key",
+    "latitude": 29.1342222,
+    "longitude": -83.0504722
+  },
+  {
+    "iata": "CTY",
+    "name": "Cross City",
+    "latitude": 29.6355278,
+    "longitude": -83.10475
+  },
+  {
+    "iata": "CEU",
+    "name": "Clemson",
+    "latitude": 34.6722222,
+    "longitude": -82.8858889
+  },
+  {
+    "iata": "BEC",
+    "name": "Wichita",
+    "latitude": 37.6939167,
+    "longitude": -97.2149167
+  },
+  {
+    "iata": "GTU",
+    "name": "Georgetown",
+    "latitude": 30.678809,
+    "longitude": -97.6793837
+  },
+  {
+    "iata": "SNY",
+    "name": "Sidney",
+    "latitude": 41.10167,
+    "longitude": -102.985
+  },
+  {
+    "iata": "JYO",
+    "name": "Leesburg",
+    "latitude": 39.078,
+    "longitude": -77.558
+  },
+  {
+    "iata": "SDC",
+    "name": "Williamson",
+    "latitude": 43.2347904,
+    "longitude": -77.119444
+  },
+  {
+    "iata": "CLC",
+    "name": "Clear Lake City",
+    "latitude": 29.5569,
+    "longitude": -95.137497
+  },
+  {
+    "iata": "WBU",
+    "name": "Boulder",
+    "latitude": 40.039444,
+    "longitude": -105.225833
+  },
+  {
+    "iata": "PAO",
+    "name": "Palo Alto",
+    "latitude": 37.4611111,
+    "longitude": -122.1150556
+  },
+  {
+    "iata": "FFZ",
+    "name": "Mesa",
+    "latitude": 33.4608001708984,
+    "longitude": -111.727996826172
+  },
+  {
+    "iata": "PTK",
+    "name": "Pontiac",
+    "latitude": 42.667,
+    "longitude": -83.35
+  },
+  {
+    "iata": "EEN",
+    "name": "Keene",
+    "latitude": 72.270833,
+    "longitude": 42.898333
+  },
+  {
+    "iata": "EQY",
+    "name": "Charlotte",
+    "latitude": 35.01833,
+    "longitude": -80.62001
+  },
+  {
+    "iata": "IOW",
+    "name": "Iowa City",
+    "latitude": 41.639244,
+    "longitude": -91.546503
+  },
+  {
+    "iata": "MWM",
+    "name": "Windom",
+    "latitude": 43.9134017,
+    "longitude": -95.1094083
+  },
+  {
+    "iata": "ANP",
+    "name": "Annapolis",
+    "latitude": 38.942778,
+    "longitude": -76.568333
+  },
+  {
+    "iata": "PEQ",
+    "name": "Pecos",
+    "latitude": 31.3823889,
+    "longitude": -103.5107222
+  },
+  {
+    "iata": "HBG",
+    "name": "Hattiesburg",
+    "latitude": 31.2649444,
+    "longitude": -89.2528889
+  },
+  {
+    "iata": "YKN",
+    "name": "Yankton",
+    "latitude": 42.8711,
+    "longitude": -97.3969
+  },
+  {
+    "iata": "SES",
+    "name": "Selma Alabama",
+    "latitude": 32.4404,
+    "longitude": -86.9522
+  },
+  {
+    "iata": "HWD",
+    "name": "Hayward",
+    "latitude": 37.65888888888889,
+    "longitude": -122.12166666666666
+  },
+  {
+    "iata": "ARB",
+    "name": "Ann Arbor",
+    "latitude": 42.132274,
+    "longitude": -83.444418
+  },
+  {
+    "iata": "ZTY",
+    "name": "Boston",
+    "latitude": 42.3478,
+    "longitude": -71.075
+  },
+  {
+    "iata": "NGZ",
+    "name": "Alameda",
+    "latitude": 37.7861,
+    "longitude": -122.3186
+  },
+  {
+    "iata": "ZWI",
+    "name": "Wilmington",
+    "latitude": 39.736667,
+    "longitude": -75.551667
+  },
+  {
+    "iata": "EKI",
+    "name": "Elkhart",
+    "latitude": 41.719444,
+    "longitude": -86.003333
+  },
+  {
+    "iata": "IMM",
+    "name": "Immokalee ",
+    "latitude": 26.433889,
+    "longitude": -81.401389
+  },
+  {
+    "iata": "ZRZ",
+    "name": "New Carrollton",
+    "latitude": 38.948,
+    "longitude": -76.8719
+  },
+  {
+    "iata": "PTB",
+    "name": "Petersburg",
+    "latitude": 37.18375,
+    "longitude": -77.507388
+  },
+  {
+    "iata": "SBM",
+    "name": "Sheboygan",
+    "latitude": 43.7696,
+    "longitude": -87.851402
+  },
+  {
+    "iata": "MZJ",
+    "name": "Marana",
+    "latitude": 32.509722,
+    "longitude": -111.325278
+  },
+  {
+    "iata": "GEU",
+    "name": "Glendale",
+    "latitude": 33.5269167,
+    "longitude": -112.2951389
+  },
+  {
+    "iata": "SAD",
+    "name": "Safford",
+    "latitude": 32.8533333,
+    "longitude": -109.6350833
+  },
+  {
+    "iata": "SIK",
+    "name": "Sikeston",
+    "latitude": 36.8988889,
+    "longitude": -89.56175
+  },
+  {
+    "iata": "GFL",
+    "name": "Queensbury",
+    "latitude": 43.341222,
+    "longitude": -73.610305
+  },
+  {
+    "iata": "CGC",
+    "name": "Crystal River",
+    "latitude": 28.8676111,
+    "longitude": -82.5741111
+  },
+  {
+    "iata": "MTN",
+    "name": "Baltimore",
+    "latitude": 39.3256667,
+    "longitude": -76.4137778
+  },
+  {
+    "iata": "LHM",
+    "name": "Lincoln",
+    "latitude": 38.9091667,
+    "longitude": -121.3513333
+  },
+  {
+    "iata": "FZI",
+    "name": "Fostoria",
+    "latitude": 41.1908333,
+    "longitude": -83.3930833
+  },
+  {
+    "iata": "IZG",
+    "name": "Fryeburg",
+    "latitude": 43.9911389,
+    "longitude": -70.9478889
+  },
+  {
+    "iata": "NEW",
+    "name": "New Orleans",
+    "latitude": 30.0424167,
+    "longitude": -90.02825
+  },
+  {
+    "iata": "COE",
+    "name": "Coeur d'Alene",
+    "latitude": 47.7743056,
+    "longitude": -116.8195833
+  },
+  {
+    "iata": "BMT",
+    "name": "Beaumont",
+    "latitude": 30.0702044,
+    "longitude": -94.2150967
+  },
+  {
+    "iata": "DNV",
+    "name": "Danville",
+    "latitude": 40.1996944,
+    "longitude": -87.5955278
+  },
+  {
+    "iata": "COI",
+    "name": "Cocoa",
+    "latitude": 28.3416111,
+    "longitude": -80.6854722
+  },
+  {
+    "iata": "TIX",
+    "name": "Titusville",
+    "latitude": 28.5148,
+    "longitude": -80.7992278
+  },
+  {
+    "iata": "AAP",
+    "name": "Houston",
+    "latitude": 29.43,
+    "longitude": -95.35
+  },
+  {
+    "iata": "FCM",
+    "name": "Eden Prairie",
+    "latitude": 44.4938,
+    "longitude": -93.2726
+  },
+  {
+    "iata": "OJC",
+    "name": "Olathe",
+    "latitude": 38.5051,
+    "longitude": -94.4415
+  },
+  {
+    "iata": "OQN",
+    "name": "West Goshen Township",
+    "latitude": 39.5924,
+    "longitude": -75.3455
+  },
+  {
+    "iata": "MNZ",
+    "name": "Manassas",
+    "latitude": 38.721389,
+    "longitude": -77.515556
+  },
+  {
+    "iata": "LKK",
+    "name": "Kulik Lake",
+    "latitude": 58.96591,
+    "longitude": -155.108089
+  },
+  {
+    "iata": "PTA",
+    "name": "Port alsworth",
+    "latitude": 60.208281,
+    "longitude": -154.306586
+  },
+  {
+    "iata": "FDW",
+    "name": "Winnsboro",
+    "latitude": 34.315472,
+    "longitude": -81.108806
+  },
+  {
+    "iata": "DAW",
+    "name": "Rochester",
+    "latitude": 43.2840556,
+    "longitude": -70.9292778
+  },
+  {
+    "iata": "PRL",
+    "name": "Port Oceanic",
+    "latitude": 60.2083333,
+    "longitude": -147.8194444
+  },
+  {
+    "iata": "EWK",
+    "name": "Newton",
+    "latitude": 38.0570785,
+    "longitude": -97.2752278
+  },
+  {
+    "iata": "TZR",
+    "name": "Columbus",
+    "latitude": 39.901111,
+    "longitude": -83.136944
+  },
+  {
+    "iata": "FBR",
+    "name": "Fort Bridger",
+    "latitude": 41.236,
+    "longitude": -110.2436
+  },
+  {
+    "iata": "CLS",
+    "name": "Chehalis",
+    "latitude": 46.4062,
+    "longitude": -122.5897
+  },
+  {
+    "iata": "EVW",
+    "name": "Evanston",
+    "latitude": 41.1649,
+    "longitude": -111.0208
+  },
+  {
+    "iata": "LRO",
+    "name": "Mount Pleasant",
+    "latitude": 32.5387,
+    "longitude": -79.4697
+  },
+  {
+    "iata": "ACJ",
+    "name": "Americus",
+    "latitude": 32.0665,
+    "longitude": -84.1133
+  },
+  {
+    "iata": "EUF",
+    "name": "Eufala",
+    "latitude": 31.5708,
+    "longitude": -85.0774
+  },
+  {
+    "iata": "MQI",
+    "name": "Manteo",
+    "latitude": 35.5514,
+    "longitude": -75.4173
+  },
+  {
+    "iata": "AUO",
+    "name": "Auburn",
+    "latitude": 32.3691,
+    "longitude": -85.2604
+  },
+  {
+    "iata": "CZG",
+    "name": "Endicott",
+    "latitude": 42.0471,
+    "longitude": -76.0578
+  },
+  {
+    "iata": "EKY",
+    "name": "Bessemer",
+    "latitude": 33.1876,
+    "longitude": -86.5558
+  },
+  {
+    "iata": "MIC",
+    "name": "Crystal",
+    "latitude": 45.0343,
+    "longitude": -93.2114
+  },
+  {
+    "iata": "DBN",
+    "name": "Dublin",
+    "latitude": 32.3388,
+    "longitude": -82.591
+  },
+  {
+    "iata": "UCA",
+    "name": "Utica",
+    "latitude": 43.104167,
+    "longitude": -75.223333
+  },
+  {
+    "iata": "CVO",
+    "name": "Corvallis",
+    "latitude": 44.5067,
+    "longitude": -123.2915
+  },
+  {
+    "iata": "CWT",
+    "name": "Chatsworth",
+    "latitude": 34.256944,
+    "longitude": -118.598889
+  },
+  {
+    "iata": "DHB",
+    "name": "Deer Harbor",
+    "latitude": 48.618397,
+    "longitude": -123.00596
+  },
+  {
+    "iata": "OLT",
+    "name": "San Diego",
+    "latitude": 32.7552,
+    "longitude": -117.1995
+  }
+]

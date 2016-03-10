@@ -1,0 +1,14 @@
+/.classpath
+**/.gradle
+**gradle
+/.project
+/.settings
+/.springBeans
+/.vagrant
+/.idea
+/*.iml
+/application.yml
+/bin
+/build
+**/.DS_Store
+/application.yml

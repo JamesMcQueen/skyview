@@ -1,5 +1,7 @@
 package com.fiercecode.skyview.retrievers;
 
+import com.fiercecode.skyview.configs.LocationConfig;
+import com.fiercecode.skyview.models.LatLong;
 import com.fiercecode.skyview.models.Report;
 import com.fiercecode.skyview.models.Weather;
 import com.google.common.collect.Lists;
@@ -27,6 +29,8 @@ import java.util.stream.Collectors;
 public class AirportRetriever
 {
     private static AirportConfig config = new AirportConfig();
+    private static LocationConfig locations = new LocationConfig();
+
     private static Map<String, Report> airportReportMap;
 
     public static Map<String, Report> getAirportReports()
@@ -62,6 +66,8 @@ public class AirportRetriever
             airport = new Airport();
         }
 
+        // Use builder pattern for better extensibility and non-mutable.
+        airport.setLatLong(locations.getLatLong(airport.getIATA()));
         return airport;
     }
 
