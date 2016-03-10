@@ -20,8 +20,13 @@ public class Airport
 
     public Airport(){}
 
+    public Airport(final LatLong latLong)
+    {
+        this.latLong = latLong;
+    }
+
     public Airport(final Status status, final String name, final String IATA, final String state, final String city,
-                   final Boolean delay, final Weather weather, final LatLong latLong)
+                   final Boolean delay, final Weather weather)
     {
         this.status = status;
         this.name = name;
@@ -35,7 +40,6 @@ public class Airport
 
     public String getName()
     {
-
         return name;
     }
 
@@ -72,6 +76,16 @@ public class Airport
     public boolean isValid()
     {
         return this.getIATA() != null && this.name.matches(NO_VALUE);
+    }
+
+    public LatLong getLatLong()
+    {
+        return latLong;
+    }
+
+    public void setLatLong(final LatLong latLong)
+    {
+        this.latLong = latLong;
     }
 
     @Override
