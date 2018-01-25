@@ -1,7 +1,7 @@
 package com.fiercecode.skyview.models;
 
-import org.joda.time.DateTime;
 import com.fiercecode.skyview.utils.Ensure;
+import org.joda.time.DateTime;
 
 
 /**

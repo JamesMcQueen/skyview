@@ -1,26 +1,18 @@
 package com.fiercecode.skyview.retrievers;
 
-import com.fiercecode.skyview.configs.LocationConfig;
-import com.fiercecode.skyview.models.LatLong;
-import com.fiercecode.skyview.models.Report;
-import com.fiercecode.skyview.models.Weather;
-import com.google.common.collect.Lists;
-import com.google.gson.Gson;
-
 import com.fiercecode.skyview.configs.AirportConfig;
+import com.fiercecode.skyview.configs.LocationConfig;
 import com.fiercecode.skyview.models.Airport;
+import com.fiercecode.skyview.models.Report;
+import com.google.gson.Gson;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.URL;
 import java.net.URLConnection;
 import java.nio.charset.Charset;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 /**

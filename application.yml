@@ -1,4 +1,20 @@
 application:
   version: 0.1.0
   name: SkyView
-  other: Mother
+
+#spring:
+#  datasource:
+#    driverClassName: com.mysql.jdbc.Driver
+#    url: jdbc:mysql://resilienceweather.cmguqnu4wehw.us-west-2.rds.amazonaws.com:3306/weatherreport?autoReconnect=true
+#    username: jmcqueen
+#    password: password
+#    maximumPoolSize: 8
+#    minimumIdle: 0
+
+logging:
+  level:
+    com.fiercecode.skyview: TRACE
+    org.springframework: INFO
+
+openWeatherMap:
+  appId: fd6e197c1eee8385894d8910cb591d0f

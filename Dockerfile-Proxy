@@ -1,0 +1,13 @@
+FROM envoyproxy/envoy:latest
+
+VOLUME /tmp
+
+COPY ./resiliency/proxy/start_proxy.sh .
+COPY ./resiliency/proxy/proxy-envoy.json ./etc/envoy.json
+
+RUN apt-get update && apt-get -q install -y \
+    curl
+
+RUN chmod +x start_proxy.sh
+
+ENTRYPOINT ["./start_proxy.sh"]
