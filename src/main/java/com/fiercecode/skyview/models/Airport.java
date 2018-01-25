@@ -1,7 +1,5 @@
 package com.fiercecode.skyview.models;
 
-import com.google.gson.Gson;
-
 /**
  * Created by jdmq on 1/26/16.
  */

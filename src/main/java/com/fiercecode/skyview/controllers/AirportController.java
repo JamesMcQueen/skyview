@@ -1,6 +1,5 @@
 package com.fiercecode.skyview.controllers;
 
-import com.fiercecode.skyview.models.Airport;
 import com.fiercecode.skyview.services.AirportService;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
