@@ -1,13 +1,8 @@
 FROM envoyproxy/envoy:latest
 
 VOLUME /tmp
-
-COPY ./resiliency/proxy/start_proxy.sh .
-COPY ./resiliency/proxy/proxy-envoy.json ./etc/envoy.json
+COPY ./resiliency/proxy/proxy-envoy.yaml ./etc/proxy-envoy.yaml
 
 RUN apt-get update && apt-get -q install -y \
     curl
-
-RUN chmod +x start_proxy.sh
-
-ENTRYPOINT ["./start_proxy.sh"]
+CMD envoy -c /etc/proxy-envoy.yaml --service-cluster skyview-proxy

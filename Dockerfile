@@ -1,8 +1,9 @@
 FROM envoyproxy/envoy:latest
 
 VOLUME /tmp
-ADD ./build/libs/skyview-0.1.0.SNAPSHOT.jar skyview.jar
+ADD ./build/libs/skyview-0.1.0.jar skyview.jar
 COPY ./resiliency/service/service-envoy.json ./etc/service-envoy.json
+COPY ./resiliency/service/service-envoy.yml ./etc/service-envoy.yml
 COPY ./resiliency/service/start_service.sh .
 
 ENV DEBIAN_FRONTEND noninteractive

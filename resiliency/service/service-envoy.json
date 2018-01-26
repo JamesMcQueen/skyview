@@ -1,9 +1,4 @@
 {
-  "admin": {
-    "access_log_path": "/tmp/envoy-admin",
-    "address": "tcp://0.0.0.0:8002"
-  },
-
   "listeners": [
     {
       "address": "tcp://0.0.0.0:80",
@@ -16,13 +11,13 @@
             "route_config": {
               "virtual_hosts": [
                 {
-                  "name": "skyview_service",
+                  "name": "service",
                   "domains": ["*"],
                   "routes": [
                     {
                       "timeout_ms": 0,
                       "prefix": "/service",
-                      "cluster": "local_service"
+                      "cluster": "service1"
                     }
                   ]
                 }
@@ -38,7 +33,7 @@
                     "abort_percent": 25,
                     "http_status": 501
                   },
-                  "upstream_cluster":"local_service"
+                  "upstream_cluster":"service1"
                 }
               },
               {
@@ -51,10 +46,14 @@
       ]
     }
   ],
+  "admin": {
+    "access_log_path": "/tmp/envoy-admin",
+    "address": "tcp://0.0.0.0:8001"
+  },
   "cluster_manager": {
     "clusters": [
       {
-        "name": "local_service",
+        "name": "service1",
         "connect_timeout_ms": 250,
         "type": "strict_dns",
         "lb_type": "round_robin",
