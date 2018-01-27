@@ -2,8 +2,7 @@ FROM envoyproxy/envoy:latest
 
 VOLUME /tmp
 ADD ./build/libs/skyview-0.1.0.jar skyview.jar
-COPY ./resiliency/service/service-envoy.json ./etc/service-envoy.json
-COPY ./resiliency/service/service-envoy.yml ./etc/service-envoy.yml
+COPY ./resiliency/service/service-envoy.yaml ./etc/service-envoy.yaml
 COPY ./resiliency/service/start_service.sh .
 
 ENV DEBIAN_FRONTEND noninteractive
@@ -17,6 +16,5 @@ RUN  apt-get update \
   && rm -rf /var/lib/apt/lists/*
 
 RUN chmod +x start_service.sh
-#RUN java -jar skyview.jar
 
 ENTRYPOINT ["./start_service.sh"]

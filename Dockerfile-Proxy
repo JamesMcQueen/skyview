@@ -5,4 +5,4 @@ COPY ./resiliency/proxy/proxy-envoy.yaml ./etc/proxy-envoy.yaml
 
 RUN apt-get update && apt-get -q install -y \
     curl
-CMD envoy -c /etc/proxy-envoy.yaml --service-cluster skyview-proxy
+CMD /usr/local/bin/envoy -c /etc/proxy-envoy.yaml --service-cluster proxy
