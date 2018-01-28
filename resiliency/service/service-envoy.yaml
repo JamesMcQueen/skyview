@@ -18,6 +18,18 @@ static_resources:
               - "*"
               routes:
               - match:
+                  prefix: "/"
+                route:
+                  cluster: local_service
+              - match:
+                  prefix: "/*"
+                route:
+                  cluster: local_service
+              - match:
+                  prefix: "/service"
+                route:
+                  cluster: local_service
+              - match:
                   prefix: "/airports"
                 route:
                   cluster: local_service
@@ -26,7 +38,7 @@ static_resources:
             config: {}
   clusters:
   - name: local_service
-    connect_timeout: 6.25s
+    connect_timeout: 0.25s
     type: strict_dns
     lb_policy: round_robin
     hosts:
