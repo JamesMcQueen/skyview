@@ -41,7 +41,7 @@ static_resources:
             config: {}
   clusters:
   - name: local_service
-    connect_timeout: 0.25s
+    connect_timeout: 2s
     type: strict_dns
     lb_policy: round_robin
     hosts:
@@ -49,7 +49,7 @@ static_resources:
         address: 127.0.0.1
         port_value: 8080
   - name: local_service2
-    connect_timeout: 0.25s
+    connect_timeout: 2s
     type: strict_dns
     lb_policy: round_robin
     hosts:
