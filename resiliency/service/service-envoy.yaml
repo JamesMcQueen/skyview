@@ -29,8 +29,14 @@ static_resources:
           - name: envoy.fault
             config:
               abort:
-                percent: 50
+                percent: 25
                 http_status: 532
+          - name: envoy.fault
+            config:
+              delay:
+                type: fixed
+                percent: 50
+                fixed_delay: 5s
           - name: envoy.router
             config: {}
   clusters:
