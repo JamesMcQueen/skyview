@@ -9,7 +9,7 @@ ENV DEBIAN_FRONTEND noninteractive
 
 #Install Operating System, Java and Additional Dependencies
 RUN  apt-get update \
-  && DEBIAN_FRONTEND=noninteractive apt-get install -y \
+  && apt-get install -y \
   software-properties-common \
   curl \
   openjdk-8-jdk \
