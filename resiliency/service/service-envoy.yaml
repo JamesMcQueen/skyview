@@ -18,10 +18,6 @@ static_resources:
               - "*"
               routes:
               - match:
-                  prefix: "/airports/reports"
-                route:
-                  cluster: local_service2
-              - match:
                   prefix: "/airports"
                 route:
                   cluster: local_service
@@ -29,26 +25,12 @@ static_resources:
           - name: envoy.fault
             config:
               abort:
-                percent: 25
+                percent: 100
                 http_status: 532
-          - name: envoy.fault
-            config:
-              delay:
-                type: fixed
-                percent: 50
-                fixed_delay: 5s
           - name: envoy.router
             config: {}
   clusters:
   - name: local_service
-    connect_timeout: 2s
-    type: strict_dns
-    lb_policy: round_robin
-    hosts:
-    - socket_address:
-        address: 127.0.0.1
-        port_value: 8080
-  - name: local_service2
     connect_timeout: 2s
     type: strict_dns
     lb_policy: round_robin

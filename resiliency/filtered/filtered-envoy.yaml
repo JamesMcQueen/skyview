@@ -13,44 +13,34 @@ static_resources:
           route_config:
             name: local_route
             virtual_hosts:
-            - name: backend
+            - name: filtered
               domains:
               - "*"
               routes:
               - match:
-                  prefix: "/"
+                  prefix: "/airports"
                 route:
-                  cluster: local_proxy
+                  cluster: local_service
           http_filters:
           - name: envoy.fault
             config:
               abort:
-                percent: 10
-                http_status: 531
-          - name: envoy.fault
-            config:
-              delay:
-                type: fixed
-                percent: 50
-                fixed_delay: 5s
+                percent: 100
+                http_status: 533
           - name: envoy.router
             config: {}
   clusters:
-  - name: local_proxy
-    connect_timeout: 10s
+  - name: local_service
+    connect_timeout: 2s
     type: strict_dns
     lb_policy: round_robin
-    http2_protocol_options: {}
     hosts:
     - socket_address:
-        address: airports
-        port_value: 80
-    - socket_address:
-        address: filtered
-        port_value: 80
+        address: 127.0.0.1
+        port_value: 8080
 admin:
   access_log_path: "/dev/null"
   address:
     socket_address:
       address: 0.0.0.0
-      port_value: 8001
+      port_value: 8081
