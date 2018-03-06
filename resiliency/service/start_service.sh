@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
 
-# Start Envoy
-/usr/local/bin/envoy -c /etc/service-envoy.json --service-cluster ${SERVICE_NAME} --service-node skyview_service
-
-#/usr/local/bin/envoy -c /etc/service-envoy.yml --service-cluster ${SERVICE_NAME} --service-node skyview_service
+java -jar skyview.jar &
+envoy -c /etc/service-envoy.yaml --service-cluster service${SERVICE_NAME}
