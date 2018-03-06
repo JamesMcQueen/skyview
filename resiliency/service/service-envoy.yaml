@@ -22,11 +22,6 @@ static_resources:
                 route:
                   cluster: local_service
           http_filters:
-          - name: envoy.fault
-            config:
-              abort:
-                percent: 25
-                http_status: 532
           - name: envoy.router
             config: {}
   clusters:

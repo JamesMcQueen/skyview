@@ -24,14 +24,9 @@ static_resources:
           http_filters:
           - name: envoy.fault
             config:
-              abort:
-                percent: 10
-                http_status: 531
-          - name: envoy.fault
-            config:
               delay:
                 type: fixed
-                percent: 50
+                percent: 10
                 fixed_delay: 9s
           - name: envoy.router
             config: {}
