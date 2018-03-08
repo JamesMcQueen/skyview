@@ -21,28 +21,37 @@ static_resources:
                   prefix: "/"
                 route:
                   cluster: local_proxy
+                  timeout: 20s
+                  retry_policy:
+                    retry_on: 5xx, gateway-error
+                    num_retries: 5
+                    per_try_timeout: 10s
           http_filters:
-          - name: envoy.fault
-            config:
-              delay:
-                type: fixed
-                percent: 10
-                fixed_delay: 9s
           - name: envoy.router
             config: {}
   clusters:
   - name: local_proxy
-    connect_timeout: 10s
+    connect_timeout: 5s
     type: strict_dns
     lb_policy: round_robin
     http2_protocol_options: {}
     hosts:
     - socket_address:
-        address: airports
+        address: service
+        port_value: 80
+    - socket_address:
+        address: slow
         port_value: 80
     - socket_address:
         address: filtered
         port_value: 80
+    circuit_breakers:
+          thresholds:
+          - priority: DEFAULT
+            max_connections: 1
+            max_pending_requests: 1
+            max_requests: 2
+            max_retries: 3
 admin:
   access_log_path: "/dev/null"
   address:
