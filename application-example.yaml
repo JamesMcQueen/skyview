@@ -1,0 +1,11 @@
+application:
+  version: 0.1.0
+  name: SkyView
+
+logging:
+  level:
+    com.fiercecode.skyview: TRACE
+    org.springframework: INFO
+
+openWeatherMap:
+  appId: YOUR_API_KEY_HERE
