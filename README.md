@@ -11,7 +11,7 @@ Providing basic weather reports for various airport locations.</i>
 and rename the file to application.yml
 
 ### Configurations
-Currently Envoy is used from 4 different configuration files
+Currently Envoy is being leveraged from 4 separate configuration files...
 - proxy-envoy.yml: Contains the entry point for upstream services, points to other hosts within the local_proxy cluster.
 - filtered-envoy.yml: Contains abort fault filter used to "blackhole" requests, returns a user provided http status code for example 532.
 - slow-envoy.yml: Contains delay fault filter used to slow the response to requests made to this host.
