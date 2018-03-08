@@ -5,9 +5,8 @@
 /*.iml
 /*.ipr
 /*.iws
-*.yml
+/*.yml
 /bin
 /build
 **/.DS_Store
 lib
-/application.yml
