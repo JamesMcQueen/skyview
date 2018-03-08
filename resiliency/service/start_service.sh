@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 java -jar skyview.jar &
-envoy -c /etc/service-envoy.yaml --service-cluster service${SERVICE_NAME}
+envoy -c /etc/service-envoy.yaml --service-cluster ${SERVICE_NAME}

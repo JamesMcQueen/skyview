@@ -1,5 +1,7 @@
 package com.fiercecode.skyview.models;
 
+import org.joda.time.DateTime;
+
 /**
  * Created by jdmq on 1/26/16.
  */
@@ -15,6 +17,7 @@ public class Airport
     private Weather weather;
     private Status status;
     private LatLong latLong;
+    private DateTime created;
 
     public Airport(){}
 
@@ -26,6 +29,7 @@ public class Airport
     public Airport(final Status status, final String name, final String IATA, final String state, final String city,
                    final Boolean delay, final Weather weather)
     {
+        this.created = new DateTime();
         this.status = status;
         this.name = name;
         this.IATA = IATA;
@@ -69,6 +73,10 @@ public class Airport
     public Status getStatus()
     {
         return status;
+    }
+    public String getCreated()
+    {
+        return created.toDateTime().toString();
     }
 
     public boolean isValid()

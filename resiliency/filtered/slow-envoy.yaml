@@ -13,7 +13,7 @@ static_resources:
           route_config:
             name: local_route
             virtual_hosts:
-            - name: filtered
+            - name: slow
               domains:
               - "*"
               routes:
@@ -24,14 +24,15 @@ static_resources:
           http_filters:
           - name: envoy.fault
             config:
-              abort:
+              delay:
+                type: fixed
                 percent: 100
-                http_status: 532
+                fixed_delay: 6gis
           - name: envoy.router
             config: {}
   clusters:
   - name: local_service
-    connect_timeout: 2s
+    connect_timeout: 3s
     type: strict_dns
     lb_policy: round_robin
     hosts:
