@@ -8,4 +8,4 @@ logging:
     org.springframework: INFO
 
 openWeatherMap:
-  appId: fd6e197c1eee8385894d8910cb591d0f
+  appId: YOUR_API_KEY_HERE
