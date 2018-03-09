@@ -27,7 +27,7 @@ static_resources:
               delay:
                 type: fixed
                 percent: 100
-             fixed_delay: 6s
+                fixed_delay: 6s
           - name: envoy.router
             config: {}
   clusters:
