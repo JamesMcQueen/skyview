@@ -10,6 +10,10 @@ static_resources:
         config:
           codec_type: auto
           stat_prefix: ingress_http
+          access_log:
+            - name: envoy.file_access_log
+              config:
+                path: "/var/log/access.log"
           route_config:
             name: local_route
             virtual_hosts:
@@ -20,13 +24,13 @@ static_resources:
               - match:
                   prefix: "/airports"
                 route:
-                  cluster: local_service
+                  cluster: service_cluster
                   timeout: 5s
           http_filters:
           - name: envoy.router
             config: {}
   clusters:
-  - name: local_service
+  - name: service_cluster
     connect_timeout: 2s
     type: strict_dns
     lb_policy: round_robin
@@ -34,6 +38,15 @@ static_resources:
     - socket_address:
         address: 127.0.0.1
         port_value: 8080
+    health_checks:
+        - timeout: 1s
+          interval: 60s
+          interval_jitter: 1s
+          unhealthy_threshold: 3
+          healthy_threshold: 3
+          http_health_check:
+            host: service
+            path: "/health"
 admin:
   access_log_path: "/dev/null"
   address:
