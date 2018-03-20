@@ -1,7 +1,8 @@
 FROM envoyproxy/envoy:latest
 
 VOLUME /tmp
-ADD ./build/libs/skyview-0.1.0.jar skyview.jar
+COPY ./resiliency/sidecar/sidecar-envoy.yaml ./etc/sidecar-envoy.yaml
+COPY ./resiliency/sidecar/start_sidecar.sh .
 
 ENV DEBIAN_FRONTEND noninteractive
 
@@ -10,7 +11,8 @@ RUN  apt-get update \
   && apt-get install -y \
   software-properties-common \
   curl \
-  openjdk-8-jdk \
-  && rm -rf /var/lib/apt/lists/*cat
+  && rm -rf /var/lib/apt/lists/*
 
-CMD java -jar skyview.jar
+RUN chmod +x start_sidecar.sh
+
+ENTRYPOINT ["./start_sidecar.sh"]
