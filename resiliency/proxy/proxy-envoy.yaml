@@ -10,6 +10,10 @@ static_resources:
         config:
           codec_type: auto
           stat_prefix: ingress_http
+          access_log:
+            - name: envoy.file_access_log
+              config:
+                path: "/var/log/access.log"
           route_config:
             name: local_route
             virtual_hosts:
@@ -18,20 +22,38 @@ static_resources:
               - "*"
               routes:
               - match:
-                  prefix: "/"
+                  prefix: "/airports/weather"
                 route:
-                  cluster: local_proxy
-                  timeout: 20s
+                  cluster: proxy_weather
+                  timeout: 60s
+                  retry_policy:
+                    retry_on: 5xx, gateway-error
+                    num_retries: 10
+                    per_try_timeout: 5s
+              - match:
+                  prefix: "/airports"
+                route:
+                  cluster: proxy_airports
+                  timeout: 60s
                   retry_policy:
                     retry_on: 5xx, gateway-error
                     num_retries: 5
-                    per_try_timeout: 10s
+                    per_try_timeout: 8s
           http_filters:
           - name: envoy.router
             config: {}
   clusters:
-  - name: local_proxy
-    connect_timeout: 5s
+  - name: proxy_weather
+    connect_timeout: 2s
+    type: strict_dns
+    lb_policy: round_robin
+    http2_protocol_options: {}
+    hosts:
+    - socket_address:
+        address: limited
+        port_value: 80
+  - name: proxy_airports
+    connect_timeout: 2s
     type: strict_dns
     lb_policy: round_robin
     http2_protocol_options: {}
@@ -42,16 +64,6 @@ static_resources:
     - socket_address:
         address: slow
         port_value: 80
-    - socket_address:
-        address: filtered
-        port_value: 80
-    circuit_breakers:
-          thresholds:
-          - priority: DEFAULT
-            max_connections: 1
-            max_pending_requests: 1
-            max_requests: 2
-            max_retries: 3
 admin:
   access_log_path: "/dev/null"
   address:

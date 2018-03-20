@@ -2,8 +2,8 @@ FROM envoyproxy/envoy:latest
 
 VOLUME /tmp
 ADD ./build/libs/skyview-0.1.0.jar skyview.jar
-COPY resiliency/filtered/slow-envoy.yaml ./etc/slow-envoy.yaml
-COPY ./resiliency/filtered/start_slow_service.sh .
+COPY resiliency/slow/slow-envoy.yaml ./etc/slow-envoy.yaml
+COPY ./resiliency/slow/start_slow.sh .
 
 ENV DEBIAN_FRONTEND noninteractive
 
@@ -15,6 +15,6 @@ RUN  apt-get update \
   openjdk-8-jdk \
   && rm -rf /var/lib/apt/lists/*
 
-RUN chmod +x start_slow_service.sh
+RUN chmod +x start_slow.sh
 
-ENTRYPOINT ["./start_slow_service.sh"]
+ENTRYPOINT ["./start_slow.sh"]

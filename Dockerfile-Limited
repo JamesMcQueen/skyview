@@ -2,8 +2,8 @@ FROM envoyproxy/envoy:latest
 
 VOLUME /tmp
 ADD ./build/libs/skyview-0.1.0.jar skyview.jar
-COPY resiliency/filtered/filtered-envoy.yaml ./etc/filtered-envoy.yaml
-COPY ./resiliency/filtered/start_filtered.sh .
+COPY resiliency/limited/limited-envoy.yaml ./etc/limited-envoy.yaml
+COPY ./resiliency/limited/start_limited.sh .
 
 ENV DEBIAN_FRONTEND noninteractive
 
@@ -15,6 +15,6 @@ RUN  apt-get update \
   openjdk-8-jdk \
   && rm -rf /var/lib/apt/lists/*
 
-RUN chmod +x start_filtered.sh
+RUN chmod +x start_limited.sh
 
-ENTRYPOINT ["./start_filtered.sh"]
+ENTRYPOINT ["../start_limited.sh"]
