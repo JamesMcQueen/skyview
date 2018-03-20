@@ -33,10 +33,15 @@ static_resources:
               - match:
                   prefix: "/airports/GEG"
                 route:
-                  cluster: proxy_airport_GEG
-                  timeout: 3s
+                  cluster: proxy_airport_specific
+                  timeout: 2s
               - match:
-                  prefix: "/airports/"
+                  prefix: "/airports/SEA"
+                route:
+                  cluster: proxy_airport_specific
+                  timeout: 10s
+              - match:
+                  prefix: "/airports"
                 route:
                   cluster: proxy_airports
                   timeout: 60s
@@ -57,7 +62,7 @@ static_resources:
     - socket_address:
         address: limited
         port_value: 80
-  - name: proxy_airport_GEG
+  - name: proxy_airports
     connect_timeout: 2s
     type: strict_dns
     lb_policy: round_robin
@@ -66,7 +71,7 @@ static_resources:
     - socket_address:
         address: sidecar
         port_value: 80
-  - name: proxy_airports
+  - name: proxy_airport_specific
     connect_timeout: 2s
     type: strict_dns
     lb_policy: round_robin

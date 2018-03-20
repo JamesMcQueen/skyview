@@ -25,7 +25,11 @@ static_resources:
                   prefix: "/airports"
                 route:
                   cluster: service_cluster
-                  timeout: 5s
+                  timeout: 10s
+                  retry_policy:
+                    retry_on: 5xx, gateway-error
+                    num_retries: 2
+                    per_try_timeout: 5s
           http_filters:
           - name: envoy.router
             config: {}
