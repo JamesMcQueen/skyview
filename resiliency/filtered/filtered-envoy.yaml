@@ -29,7 +29,7 @@ static_resources:
           - name: envoy.fault
             config:
               abort:
-                percent: 100
+                percent: 50
                 http_status: 532
           - name: envoy.router
             config: {}
@@ -40,7 +40,7 @@ static_resources:
     lb_policy: round_robin
     hosts:
     - socket_address:
-        address: 127.0.0.1
+        address: service
         port_value: 8080
     health_checks:
     - timeout: 1s

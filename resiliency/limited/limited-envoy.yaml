@@ -29,7 +29,7 @@ static_resources:
           - name: envoy.fault
             config:
               abort:
-                percent: 10
+                percent: 50
                 http_status: 531
           - name: envoy.router
             config: {}

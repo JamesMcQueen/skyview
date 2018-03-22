@@ -41,7 +41,7 @@ static_resources:
     lb_policy: round_robin
     hosts:
     - socket_address:
-        address: 127.0.0.1
+        address: service
         port_value: 8080
     circuit_breakers:
       thresholds:
