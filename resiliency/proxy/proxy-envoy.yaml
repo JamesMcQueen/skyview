@@ -31,6 +31,11 @@ static_resources:
                     num_retries: 10
                     per_try_timeout: 5s
               - match:
+                  prefix: "/airports/GEG"
+                route:
+                  cluster: proxy_airports
+                  timeout: 2s
+              - match:
                   prefix: "/airports"
                 route:
                   cluster: proxy_airports
@@ -58,9 +63,6 @@ static_resources:
     lb_policy: round_robin
     http2_protocol_options: {}
     hosts:
-    - socket_address:
-        address: service
-        port_value: 80
     - socket_address:
         address: slow
         port_value: 80

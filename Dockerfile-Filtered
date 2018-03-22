@@ -1,18 +1,16 @@
 FROM envoyproxy/envoy:latest
 
 VOLUME /tmp
-ADD ./build/libs/skyview-0.1.0.jar skyview.jar
 COPY resiliency/filtered/filtered-envoy.yaml ./etc/filtered-envoy.yaml
 COPY ./resiliency/filtered/start_filtered.sh .
 
 ENV DEBIAN_FRONTEND noninteractive
 
-#Install Operating System, Java and Additional Dependencies
+#Install Operating System
 RUN  apt-get update \
   && apt-get install -y \
   software-properties-common \
   curl \
-  openjdk-8-jdk \
   && rm -rf /var/lib/apt/lists/*
 
 RUN chmod +x start_filtered.sh
